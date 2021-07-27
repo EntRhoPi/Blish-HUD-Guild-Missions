@@ -5,14 +5,15 @@
   "package": "Guild-Module.dll",
   "manifest_version": 1,
 
-  "description": "Description of your module. Visit https://github.com/blish-hud/manifest.json/blob/master/manifest-v1.md for details about the manifest format.",
+  "description": "Helps with guild trek missions and hopefully other guild things in the future.",
   "dependencies": {
-    "bh.blishhud": ">=0.5.2"
+    "bh.blishhud": ">=0.8.0"
   },
   "url": "https://github.com/acf/Guild_Module",
   "contributors": [
     {
-      "name": "acf"
+      "name": "entrhopi",
+      "username": "acplusm.9085"
     }
   ]
 }
