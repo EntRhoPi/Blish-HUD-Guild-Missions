@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9EE0692F-F480-45C8-8D6B-CB23597895AC}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Guild_Missions</RootNamespace>
+    <RootNamespace>entrhopi.Guild_Missions</RootNamespace>
     <AssemblyName>Guild-Missions</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using static Blish_HUD.GameService;
 
-namespace Guild_Missions
+namespace entrhopi.Guild_Missions
 {
 
     [Export(typeof(Blish_HUD.Modules.Module))]
