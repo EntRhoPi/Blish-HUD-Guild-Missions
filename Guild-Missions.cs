@@ -12,11 +12,11 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using static Blish_HUD.GameService;
 
-namespace Guild_Module
+namespace Guild_Missions
 {
 
     [Export(typeof(Blish_HUD.Modules.Module))]
-    public class Module : Blish_HUD.Modules.Module
+    public class Guild_Missions : Blish_HUD.Modules.Module
     {
 
         private static readonly Logger Logger = Logger.GetLogger<Module>();
@@ -45,7 +45,7 @@ namespace Guild_Module
         #endregion
 
         [ImportingConstructor]
-        public Module([Import("ModuleParameters")] ModuleParameters moduleParameters) : base(moduleParameters) { ModuleInstance = this; }
+        public Guild_Missions([Import("ModuleParameters")] ModuleParameters moduleParameters) : base(moduleParameters) { ModuleInstance = this; }
 
         protected override void DefineSettings(SettingCollection settings)
         {

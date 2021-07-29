@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9EE0692F-F480-45C8-8D6B-CB23597895AC}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Guild_Module</RootNamespace>
-    <AssemblyName>Guild-Module</AssemblyName>
+    <RootNamespace>Guild_Missions</RootNamespace>
+    <AssemblyName>Guild-Missions</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -63,7 +63,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module.cs" />
+    <Compile Include="Guild-Missions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AsyncClipboardService, Version=1.7.1.0, Culture=neutral, processorArchitecture=MSIL">

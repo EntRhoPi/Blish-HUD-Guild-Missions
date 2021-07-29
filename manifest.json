@@ -1,15 +1,15 @@
 {
-  "name": "Guild-Module",
-  "version": "0.1.1",
-  "namespace": "Guild_Module",
-  "package": "Guild-Module.dll",
+  "name": "Guild Missions",
+  "version": "0.1.2",
+  "namespace": "Guild_Missions",
+  "package": "Guild-Missions.dll",
   "manifest_version": 1,
 
   "description": "Helps with guild trek missions and hopefully other guild things in the future.",
   "dependencies": {
     "bh.blishhud": ">=0.8.0"
   },
-  "url": "https://github.com/acf/Guild_Module",
+  "url": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions",
   "contributors": [
     {
       "name": "entrhopi",
