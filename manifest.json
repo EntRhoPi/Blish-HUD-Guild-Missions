@@ -10,6 +10,8 @@
     "bh.blishhud": ">=0.8.0"
   },
   "url": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions",
+  "location": "https://github.com/EntRhoPi/Blish-HUD-Guild-Missions/releases/download/vX.Y.Z/Guild-Missions.bhm",
+  "hash": "",
   "contributors": [
     {
       "name": "entrhopi",
