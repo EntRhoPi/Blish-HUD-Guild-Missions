@@ -1,0 +1,1119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <trek>
+    <TrekName>Steelband's Tunnel</TrekName>
+    <WaypointName>Tumok's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPsBAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Vacant Hermitage</TrekName>
+    <WaypointName>Guardian Stone Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BP8BAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Forgotten Grotto</TrekName>
+    <WaypointName>Terra Carorunda Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAECAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Canyonweb Cave</TrekName>
+    <WaypointName>Brandview Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAQCAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sharkhollow's Edge</TrekName>
+    <WaypointName>Splintercrest Fort Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFEDAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Burstbubble Blind</TrekName>
+    <WaypointName>Soot Road Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFIDAAA=]</WaypointChatcode>
+    <MapName>Blazeridge Steppes</MapName>
+  </trek>
+  <trek>
+    <TrekName>Blasted Sepulchre</TrekName>
+    <WaypointName>Blasted Moors Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNoAAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Blackblade Butte</TrekName>
+    <WaypointName>Font of Rhand Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNwAAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Strongpaw's Garden</TrekName>
+    <WaypointName>Nageling Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BN0AAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Anya's Patch</TrekName>
+    <WaypointName>Nolan Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BN4AAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Drakehatch Shore</TrekName>
+    <WaypointName>Breachwater Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGQBAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Holystone Sanctum</TrekName>
+    <WaypointName>Sanctum Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMUDAAA=]</WaypointChatcode>
+    <MapName>Diessa Plateau</MapName>
+  </trek>
+  <trek>
+    <TrekName>Founder's Flagon Hearth</TrekName>
+    <WaypointName>Kestrel Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BD0EAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Narrowkraal Crossing</TrekName>
+    <WaypointName>Ogre Road Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BE8BAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Brandstrike Dig</TrekName>
+    <WaypointName>Helliot Mine Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEsBAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Drakecleft Shelf</TrekName>
+    <WaypointName>Fangfury Watch Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEwBAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Hermit's Roost</TrekName>
+    <WaypointName>Rosko's Campsite Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNgAAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cymbel's Glen</TrekName>
+    <WaypointName>Deathblade's Watch Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNQAAAA=]</WaypointChatcode>
+    <MapName>Fields of Ruin</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lily's Bivvy</TrekName>
+    <WaypointName>Icespear's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCACAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Provatum Carcer</TrekName>
+    <WaypointName>Keeper's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCYCAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Heart Speaks Notch</TrekName>
+    <WaypointName>Apostate Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Tarstar Copse</TrekName>
+    <WaypointName>Apostate Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Orecart Hoist</TrekName>
+    <WaypointName>Pig Iron Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBcCAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skalefound Cove</TrekName>
+    <WaypointName>Tuyere Command Post Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBgCAAA=]</WaypointChatcode>
+    <MapName>Fireheart Rise</MapName>
+  </trek>
+  <trek>
+    <TrekName>Firewatch Flybridge</TrekName>
+    <WaypointName>Firewatch Encampment Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BO0BAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skalecatch Butcher Shop</TrekName>
+    <WaypointName>Village of Scalecatch Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOcBAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Scourgejaw Watchtower</TrekName>
+    <WaypointName>Sleekfur Encampment Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOgBAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sentinel Sink</TrekName>
+    <WaypointName>Brandwatch Encampment Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOkBAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Dirtclaw Cleft</TrekName>
+    <WaypointName>Bloodfin Lake Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOMBAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Raptor's Aerie</TrekName>
+    <WaypointName>Town of Cowlfang's Star Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOsBAAA=]</WaypointChatcode>
+    <MapName>Iron Marches</MapName>
+  </trek>
+  <trek>
+    <TrekName>Doefalls Court</TrekName>
+    <WaypointName>Ascalon City Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIcBAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cademkrall Overlook</TrekName>
+    <WaypointName>Watchcrag Tower Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIgBAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Irondock Viewpoint</TrekName>
+    <WaypointName>Duskrend Overlook Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIkBAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Phasmatis Prospect</TrekName>
+    <WaypointName>Irondock Shipyard Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIoBAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skalestash Hideaway</TrekName>
+    <WaypointName>Feritas Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJcDAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Watchpoint Decimus</TrekName>
+    <WaypointName>Guardpoint Decimus Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJgDAAA=]</WaypointChatcode>
+    <MapName>Plains of Ashford</MapName>
+  </trek>
+  <trek>
+    <TrekName>Castavall Corner</TrekName>
+    <WaypointName>Mournful Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Blood Ooze Gallery</TrekName>
+    <WaypointName>Mournful Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Pochtecatl's Desire</TrekName>
+    <WaypointName>Jelako Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK8BAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Risewild Green</TrekName>
+    <WaypointName>Remanda Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKcBAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Covington's Stowage</TrekName>
+    <WaypointName>Laughing Gull Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKgBAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Portmatt's Promontory</TrekName>
+    <WaypointName>Sorrowful Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKQBAAA=]</WaypointChatcode>
+    <MapName>Bloodtide Coast</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lawen Grotto</TrekName>
+    <WaypointName>First Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Wassa's Terrace</TrekName>
+    <WaypointName>First Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Stonebore Spiderhole</TrekName>
+    <WaypointName>Talajian Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIwBAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Wrelk's Salon</TrekName>
+    <WaypointName>Almuten Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJQBAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cutthroat's Rest</TrekName>
+    <WaypointName>Brigantine Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BM0DAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Raptor's Perch</TrekName>
+    <WaypointName>Winter Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BO4AAAA=]</WaypointChatcode>
+    <MapName>Gendarran Fields</MapName>
+  </trek>
+  <trek>
+    <TrekName>Guardian Overwatch</TrekName>
+    <WaypointName>Barricade Camp Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK0AAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Heidi's Showpiece</TrekName>
+    <WaypointName>Seraph's Landing Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKcAAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Bandit's Cabbage Patch</TrekName>
+    <WaypointName>Wynchona Rally Point Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKgAAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skyshine Scratch</TrekName>
+    <WaypointName>Grey Gritta's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKkAAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Elise's Surprise</TrekName>
+    <WaypointName>Demetra Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKsAAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Fawcett's Porch</TrekName>
+    <WaypointName>Arcallion Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMMAAAA=]</WaypointChatcode>
+    <MapName>Harathi Hinterlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Overlord Lodge</TrekName>
+    <WaypointName>Overlord's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAQAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lychcroft Wardenship</TrekName>
+    <WaypointName>Shadowheart Site Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAwAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Togatl Shore</TrekName>
+    <WaypointName>Viathan Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBAAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Isgarren Viewpoint</TrekName>
+    <WaypointName>Darkwound Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Defiled Delve</TrekName>
+    <WaypointName>Darkwound Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Kari's Hot Spot</TrekName>
+    <WaypointName>Cereboth Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBIAAAA=]</WaypointChatcode>
+    <MapName>Kessex Hills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Destiny's Guildhall</TrekName>
+    <WaypointName>Shaemoor Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BO8AAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Altar Brook Lair</TrekName>
+    <WaypointName>Crossing Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPIAAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lakebottom Underpass</TrekName>
+    <WaypointName>Ojon's Lumbermill Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPkAAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Heartwood Honey Cache</TrekName>
+    <WaypointName>Phinney Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPMAAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Beetlestone Mirador</TrekName>
+    <WaypointName>Beetletun Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPoAAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Claypool Bailey</TrekName>
+    <WaypointName>Claypool Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPYAAAA=]</WaypointChatcode>
+    <MapName>Queensdale</MapName>
+  </trek>
+  <trek>
+    <TrekName>Gnashar's Viewpoint</TrekName>
+    <WaypointName>Wendon Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BF0AAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>East End Falls</TrekName>
+    <WaypointName>East End Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGAAAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Gallow Canyons</TrekName>
+    <WaypointName>Gallowfields Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGMAAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Toxal Spill</TrekName>
+    <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Tekki's Drawing Board</TrekName>
+    <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Ulta Scraproom</TrekName>
+    <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapName>Brisban Wildlands</MapName>
+  </trek>
+  <trek>
+    <TrekName>Soggorsort Rotunda</TrekName>
+    <WaypointName>Hamlet of Annwen Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BD8BAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Widd's Folly</TrekName>
+    <WaypointName>Mabon Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BDoBAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Briarthorn Barrier</TrekName>
+    <WaypointName>Spiral Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BDUBAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Unseen Scratch</TrekName>
+    <WaypointName>Caledon Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Green Moa Paddock</TrekName>
+    <WaypointName>Caledon Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Imphaunt Hallow</TrekName>
+    <WaypointName>Wychmire Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEEBAAA=]</WaypointChatcode>
+    <MapName>Caledon Forest</MapName>
+  </trek>
+  <trek>
+    <TrekName>Soran Draa Rest Stop</TrekName>
+    <WaypointName>Soren Draa Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Wildflame Monitor</TrekName>
+    <WaypointName>Soren Draa Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Thaumanova Spillway</TrekName>
+    <WaypointName>Muridian Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Jaguar Pride Den</TrekName>
+    <WaypointName>Muridian Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Master Control LIN39</TrekName>
+    <WaypointName>Muridian Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Fisher's Crag</TrekName>
+    <WaypointName>Old Golem Factory Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK4EAAA=]</WaypointChatcode>
+    <MapName>Metrica Province</MapName>
+  </trek>
+  <trek>
+    <TrekName>Fire Imp Pocket</TrekName>
+    <WaypointName>Maelstrom's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BM0CAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Rata Pten Portico</TrekName>
+    <WaypointName>Criterion Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMkCAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Deepmire Diver</TrekName>
+    <WaypointName>Oxbow Isle Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNECAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Restless Footings</TrekName>
+    <WaypointName>Irwin Isle Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNICAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Droknah's Gate</TrekName>
+    <WaypointName>Old Sledge Site Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Whitland Sinkhole</TrekName>
+    <WaypointName>Old Sledge Site Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
+    <MapName>Mount Maelstrom</MapName>
+  </trek>
+  <trek>
+    <TrekName>Siamoth Refuge</TrekName>
+    <WaypointName>Brackwater Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BM4BAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Saltflood Altar</TrekName>
+    <WaypointName>Saltflood Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMcBAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Orvanic Sourcewaters</TrekName>
+    <WaypointName>Ocean's Gullet Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMkBAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Usharr's Threshold</TrekName>
+    <WaypointName>Toade's Head Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMsBAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Shattered Loft</TrekName>
+    <WaypointName>Fort Cadence Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMUBAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Firefrog Springs</TrekName>
+    <WaypointName>Flamefrog Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMwBAAA=]</WaypointChatcode>
+    <MapName>Sparkfly Fen</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sea Scorpion's Eye</TrekName>
+    <WaypointName>Meddler's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BB4DAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Winterknell Impasse</TrekName>
+    <WaypointName>R&amp;D Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBgDAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Verdance Font</TrekName>
+    <WaypointName>Verdance Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBsDAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cache of the Pursued</TrekName>
+    <WaypointName>Caer Shadowfain Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCEDAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Tactical Retreat</TrekName>
+    <WaypointName>Shipwreck Rock Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Anthem's Hold</TrekName>
+    <WaypointName>Shipwreck Rock Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
+    <MapName>Cursed Shore</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cathedral's Cavity</TrekName>
+    <WaypointName>Wren Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKwCAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Delight's Balcony</TrekName>
+    <WaypointName>Pagga's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKYCAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Spectrehaunt Socket</TrekName>
+    <WaypointName>Lights Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Captain's Berth</TrekName>
+    <WaypointName>Lights Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Forbidden Shear</TrekName>
+    <WaypointName>Murmur Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK8CAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Upsilon Hyperboloid</TrekName>
+    <WaypointName>Waste Hollows Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKgCAAA=]</WaypointChatcode>
+    <MapName>Malchor's Leap</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sepulchre Skylight</TrekName>
+    <WaypointName>Rally Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNIEAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Stentor Shelter</TrekName>
+    <WaypointName>Signal Peak Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BO0CAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lightfoot Dock</TrekName>
+    <WaypointName>Thunderhead Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPACAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Vizier's Anteport</TrekName>
+    <WaypointName>Lone Post Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPcCAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Fathom Five Forcefield</TrekName>
+    <WaypointName>Vesper Bell Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPICAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Drowned Plaza</TrekName>
+    <WaypointName>Royal Forum Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPMCAAA=]</WaypointChatcode>
+    <MapName>Straits of Devastation</MapName>
+  </trek>
+  <trek>
+    <TrekName>Steamy Steps</TrekName>
+    <WaypointName>Lion Point Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Steampipe Perch</TrekName>
+    <WaypointName>Lion Point Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Monument to the Ancient One</TrekName>
+    <WaypointName>Owain's Refuge Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNgGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sandwurm Prowl</TrekName>
+    <WaypointName>Pearl Islet Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Reef Drake Nestling Grounds</TrekName>
+    <WaypointName>Pearl Islet Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>The Karka Club</TrekName>
+    <WaypointName>Pearl Islet Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapName>Southsun Cove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Tower of Tribulation</TrekName>
+    <WaypointName>Sorrow's Embrace Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BD8FAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>Foreman's Recess</TrekName>
+    <WaypointName>Dociu Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFgCAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>The Workers' Stores</TrekName>
+    <WaypointName>Grey Road Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFoCAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>Scholar's Blind</TrekName>
+    <WaypointName>Steelbrachen Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>Forager's Midden</TrekName>
+    <WaypointName>Steelbrachen Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>Ramview Peak</TrekName>
+    <WaypointName>Travelen's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BGQCAAA=]</WaypointChatcode>
+    <MapName>Dredgehaunt Cliffs</MapName>
+  </trek>
+  <trek>
+    <TrekName>Icewurm Trench</TrekName>
+    <WaypointName>Dimotiki Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BH8CAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>The People's Deadlock</TrekName>
+    <WaypointName>Groznev Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BHkCAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skelknest Borehole</TrekName>
+    <WaypointName>Slough of Despond Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BHwCAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>Source of Lament</TrekName>
+    <WaypointName>Skyheight Steading Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIECAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>Broodmother Falls</TrekName>
+    <WaypointName>Yak's Bend Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIQCAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>Corruption's Teeth</TrekName>
+    <WaypointName>Drakkar Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIYCAAA=]</WaypointChatcode>
+    <MapName>Frostgorge Sound</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cave Spider Nidus</TrekName>
+    <WaypointName>Pinnacle Enclave Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJgBAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Mistriven Shelf</TrekName>
+    <WaypointName>Mistriven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJkBAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Trolltrap Pit</TrekName>
+    <WaypointName>Durmand Priory Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOkAAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Steamscrap Overlook</TrekName>
+    <WaypointName>Lamentation Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOoAAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Venison Hollow</TrekName>
+    <WaypointName>Vanjir's Stead Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOUAAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Ettinbreath Lair</TrekName>
+    <WaypointName>Demon's Maw Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOYAAAA=]</WaypointChatcode>
+    <MapName>Lornar's Pass</MapName>
+  </trek>
+  <trek>
+    <TrekName>Cave Bear Cache</TrekName>
+    <WaypointName>Snowhawk Landing Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Snowhowl Den</TrekName>
+    <WaypointName>Snowhawk Landing Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Isenfell Wash</TrekName>
+    <WaypointName>Isenfall Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLgAAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Snowden Safehouse</TrekName>
+    <WaypointName>Snowdrift Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLkAAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Badjelly Kelpbed</TrekName>
+    <WaypointName>Exile Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLwAAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Hidden Owl Distillery</TrekName>
+    <WaypointName>Owl Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMEAAAA=]</WaypointChatcode>
+    <MapName>Snowden Drifts</MapName>
+  </trek>
+  <trek>
+    <TrekName>Frozen Antrum</TrekName>
+    <WaypointName>White Paper Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BE8CAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Meltwater Cave</TrekName>
+    <WaypointName>Scale Strand Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEgCAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Talus Steps</TrekName>
+    <WaypointName>Talus Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEQCAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Hawkeye Perch</TrekName>
+    <WaypointName>Serpent Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEUCAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Wikk's Gate</TrekName>
+    <WaypointName>Valance Tutory Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEwCAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skalesplash Falls</TrekName>
+    <WaypointName>Okarinoo Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BEYCAAA=]</WaypointChatcode>
+    <MapName>Timberline Falls</MapName>
+  </trek>
+  <trek>
+    <TrekName>Osenfold Counterweights</TrekName>
+    <WaypointName>Osenfold Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAEEAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Lionguard Larder</TrekName>
+    <WaypointName>Twinspur Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BH0BAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Arctodus Haunt</TrekName>
+    <WaypointName>Vendrake's Homestead Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BH4BAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Moleberia Prison</TrekName>
+    <WaypointName>Halvaunt Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BHgBAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Reverberant's Watch</TrekName>
+    <WaypointName>Darkriven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BHUBAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Kevach's Strongroom</TrekName>
+    <WaypointName>Lostvyrm Cave Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMEDAAA=]</WaypointChatcode>
+    <MapName>Wayfarer Foothills</MapName>
+  </trek>
+  <trek>
+    <TrekName>Junker's Apex</TrekName>
+    <WaypointName>Junker's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BDcEAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Sparwind's Lounge</TrekName>
+    <WaypointName>Imperator's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BK0DAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Scriptorium Nook</TrekName>
+    <WaypointName>Factorium Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKcDAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Wheelport Pub</TrekName>
+    <WaypointName>Mustering Ground Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKUDAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Broken Falls Courtyard</TrekName>
+    <WaypointName>Ruins of Rin Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Freestand Scaffold</TrekName>
+    <WaypointName>Ruins of Rin Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
+    <MapName>Black Citadel</MapName>
+  </trek>
+  <trek>
+    <TrekName>Melandru's Fount</TrekName>
+    <WaypointName>Melandru Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCcDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Turai Tavern Stillroom</TrekName>
+    <WaypointName>Balthazar Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCgDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Eastlurk Alley</TrekName>
+    <WaypointName>Dwayna Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCMDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Minar's Target Shoot</TrekName>
+    <WaypointName>Commons Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCoDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Grenth's Pavillion</TrekName>
+    <WaypointName>Grenth Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCQDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Rurik's View</TrekName>
+    <WaypointName>Rurikton Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCsDAAA=]</WaypointChatcode>
+    <MapName>Divinity's Reach</MapName>
+  </trek>
+  <trek>
+    <TrekName>Kaldar's Hot Seat</TrekName>
+    <WaypointName>Eastern Watchpost Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BI0DAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Raven Nook</TrekName>
+    <WaypointName>Raven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIgDAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Grimdottir's Duty</TrekName>
+    <WaypointName>Shelter Rock Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIsDAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Trader's Stash</TrekName>
+    <WaypointName>Trade Commons Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIYDAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Brother's Notch</TrekName>
+    <WaypointName>Hero's Compass Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Kegbrawl Watch</TrekName>
+    <WaypointName>Hero's Compass Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
+    <MapName>Hoelbrak</MapName>
+  </trek>
+  <trek>
+    <TrekName>Port Authority Lost and Found</TrekName>
+    <WaypointName>Port Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAcFAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Magihedron Corner</TrekName>
+    <WaypointName>Metrical Court Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBMEAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Bluup's Comeuppance</TrekName>
+    <WaypointName>Research Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLgEAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Skibo Hall Dormitory</TrekName>
+    <WaypointName>Auxiliary Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLkEAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Ideation Leap</TrekName>
+    <WaypointName>Incubation Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLUEAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Flakk's Lapidary Nook</TrekName>
+    <WaypointName>Accountancy Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLYEAAA=]</WaypointChatcode>
+    <MapName>Rata Sum</MapName>
+  </trek>
+  <trek>
+    <TrekName>Necrolith Landing</TrekName>
+    <WaypointName>Caledon Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BBIEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Gardenroot Alcove</TrekName>
+    <WaypointName>Upper Commons Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLoEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Backroot Fountain</TrekName>
+    <WaypointName>Reckoner's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Black Lion Root Cellar</TrekName>
+    <WaypointName>Reckoner's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Constellation Parapet</TrekName>
+    <WaypointName>Reckoner's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+  <trek>
+    <TrekName>Dawngleam Pergola</TrekName>
+    <WaypointName>Ronan's Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLwEAAA=]</WaypointChatcode>
+    <MapName>The Grove</MapName>
+  </trek>
+</root>
