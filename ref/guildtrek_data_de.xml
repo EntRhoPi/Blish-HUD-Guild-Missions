@@ -1,0 +1,2050 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <trek>
+    <TrekID>1</TrekID>
+    <TrekName>Abfallhaufen des Sammlers</TrekName>
+    <WaypointID>397</WaypointID>
+    <WaypointName>Wegmarke Stahlbrachen</WaypointName>
+    <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>2</TrekID>
+    <TrekName>Altarbach-Höhle</TrekName>
+    <WaypointID>250</WaypointID>
+    <WaypointName>Wegmarke Kreuzung</WaypointName>
+    <WaypointChatcode>[&amp;BPIAAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>3</TrekID>
+    <TrekName>Anyas Beet</TrekName>
+    <WaypointID>24</WaypointID>
+    <WaypointName>Wegmarke Nolan</WaypointName>
+    <WaypointChatcode>[&amp;BN4AAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>4</TrekID>
+    <TrekName>Arctodus-Schlupfwinkel</TrekName>
+    <WaypointID>480</WaypointID>
+    <WaypointName>Wegmarke Vendrakes Gehöft</WaypointName>
+    <WaypointChatcode>[&amp;BH4BAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>5</TrekID>
+    <TrekName>Auge des Meeresskorpions</TrekName>
+    <WaypointID>563</WaypointID>
+    <WaypointName>Wegmarke Wichtigtuergipfel</WaypointName>
+    <WaypointChatcode>[&amp;BB4DAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>6</TrekID>
+    <TrekName>Balkon des Wohlgefallens</TrekName>
+    <WaypointID>359</WaypointID>
+    <WaypointName>Wegmarke Pagga</WaypointName>
+    <WaypointChatcode>[&amp;BKYCAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>7</TrekID>
+    <TrekName>Banditen-Kohlfeld</TrekName>
+    <WaypointID>216</WaypointID>
+    <WaypointName>Wegmarke Wynchona-Sammelpunkt</WaypointName>
+    <WaypointChatcode>[&amp;BKgAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>8</TrekID>
+    <TrekName>Becken der Grünen Kathedrale</TrekName>
+    <WaypointID>569</WaypointID>
+    <WaypointName>Wegmarke Kathedrale des frischen Grüns</WaypointName>
+    <WaypointChatcode>[&amp;BBsDAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>9</TrekID>
+    <TrekName>Beetlestone-Belvedere</TrekName>
+    <WaypointID>253</WaypointID>
+    <WaypointName>Wegmarke Beetletun</WaypointName>
+    <WaypointChatcode>[&amp;BPoAAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>10</TrekID>
+    <TrekName>Blutschleim-Galerie</TrekName>
+    <WaypointID>176</WaypointID>
+    <WaypointName>Wegmarke Schwermut</WaypointName>
+    <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>11</TrekID>
+    <TrekName>Bluups Strafe</TrekName>
+    <WaypointID>553</WaypointID>
+    <WaypointName>Wegmarke Forschung</WaypointName>
+    <WaypointChatcode>[&amp;BLgEAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>12</TrekID>
+    <TrekName>Brandschlag-Grube</TrekName>
+    <WaypointID>88</WaypointID>
+    <WaypointName>Wegmarke Helliot-Mine</WaypointName>
+    <WaypointChatcode>[&amp;BEsBAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>13</TrekID>
+    <TrekName>Branntweinzimmer der Turai-Taverne</TrekName>
+    <WaypointID>512</WaypointID>
+    <WaypointName>Wegmarke Balthasar</WaypointName>
+    <WaypointChatcode>[&amp;BCgDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>14</TrekID>
+    <TrekName>Brüder-Engpass</TrekName>
+    <WaypointID>534</WaypointID>
+    <WaypointName>Wegmarke Heldenzirkel</WaypointName>
+    <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>15</TrekID>
+    <TrekName>Brutmutter-Fälle</TrekName>
+    <WaypointID>420</WaypointID>
+    <WaypointName>Wegmarke Yakbiegung</WaypointName>
+    <WaypointChatcode>[&amp;BIQCAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>16</TrekID>
+    <TrekName>Cademkrall-Aussichtspunkt</TrekName>
+    <WaypointID>67</WaypointID>
+    <WaypointName>Wegmarke Wächterfels-Turm</WaypointName>
+    <WaypointChatcode>[&amp;BIgBAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>17</TrekID>
+    <TrekName>Castavall-Ecke</TrekName>
+    <WaypointID>176</WaypointID>
+    <WaypointName>Wegmarke Schwermut</WaypointName>
+    <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>18</TrekID>
+    <TrekName>Covingtons Stauraum</TrekName>
+    <WaypointID>180</WaypointID>
+    <WaypointName>Wegmarke Lachmöwe</WaypointName>
+    <WaypointChatcode>[&amp;BKgBAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>19</TrekID>
+    <TrekName>Cymbels Schlucht</TrekName>
+    <WaypointID>95</WaypointID>
+    <WaypointName>Wegmarke Todesklingenwacht</WaypointName>
+    <WaypointChatcode>[&amp;BNQAAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>20</TrekID>
+    <TrekName>Damfall-Hof</TrekName>
+    <WaypointID>65</WaypointID>
+    <WaypointName>Wegmarke Stadt Ascalon</WaypointName>
+    <WaypointChatcode>[&amp;BIcBAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>21</TrekID>
+    <TrekName>Dampfrohr-Warte</TrekName>
+    <WaypointID>383</WaypointID>
+    <WaypointName>Wegmarke Löwenpunkt</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>22</TrekID>
+    <TrekName>Dampfschotter-Aussichtspunkt</TrekName>
+    <WaypointID>435</WaypointID>
+    <WaypointName>Wegmarke See der Wehklagen</WaypointName>
+    <WaypointChatcode>[&amp;BOoAAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>23</TrekID>
+    <TrekName>Dampf-Stufen</TrekName>
+    <WaypointID>383</WaypointID>
+    <WaypointName>Wegmarke Löwenpunkt</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>24</TrekID>
+    <TrekName>Der Karka-Klub</TrekName>
+    <WaypointID>387</WaypointID>
+    <WaypointName>Wegmarke Perlen-Inselchen</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>25</TrekID>
+    <TrekName>Droknar-Tor</TrekName>
+    <WaypointID>320</WaypointID>
+    <WaypointName>Wegmarke Alter Hammergrund</WaypointName>
+    <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>26</TrekID>
+    <TrekName>Eisendock-Aussichtspunkt</TrekName>
+    <WaypointID>69</WaypointID>
+    <WaypointName>Wegmarke Dämmerspalt-Aussichtspunkt</WaypointName>
+    <WaypointChatcode>[&amp;BIkBAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>27</TrekID>
+    <TrekName>Eiswurmgraben</TrekName>
+    <WaypointID>410</WaypointID>
+    <WaypointName>Wegmarke Dimotiki</WaypointName>
+    <WaypointChatcode>[&amp;BH8CAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>28</TrekID>
+    <TrekName>Elises Überraschung</TrekName>
+    <WaypointID>219</WaypointID>
+    <WaypointName>Wegmarke Demetra</WaypointName>
+    <WaypointChatcode>[&amp;BKsAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>30</TrekID>
+    <TrekName>Engkral-Kreuzung</TrekName>
+    <WaypointID>86</WaypointID>
+    <WaypointName>Wegmarke Ogerstraße</WaypointName>
+    <WaypointChatcode>[&amp;BE8BAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>29</TrekID>
+    <TrekName>Entweihte Senke</TrekName>
+    <WaypointID>235</WaypointID>
+    <WaypointName>Wegmarke Dunkelwund-Klause</WaypointName>
+    <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>31</TrekID>
+    <TrekName>Eremiten-Schlafplatz</TrekName>
+    <WaypointID>93</WaypointID>
+    <WaypointName>Wegmarke Roskos Lager</WaypointName>
+    <WaypointChatcode>[&amp;BNgAAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>32</TrekID>
+    <TrekName>Erzwagen-Winde</TrekName>
+    <WaypointID>101</WaypointID>
+    <WaypointName>Wegmarke Roheisen</WaypointName>
+    <WaypointChatcode>[&amp;BBcCAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>33</TrekID>
+    <TrekName>Ettinodem-Versteck</TrekName>
+    <WaypointID>439</WaypointID>
+    <WaypointName>Wegmarke Dämonenschlund</WaypointName>
+    <WaypointChatcode>[&amp;BOYAAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>34</TrekID>
+    <TrekName>Falkenaugen-Warte</TrekName>
+    <WaypointID>468</WaypointID>
+    <WaypointName>Wegmarke Schlangensteine</WaypointName>
+    <WaypointChatcode>[&amp;BEUCAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>35</TrekID>
+    <TrekName>Fasskeilerei-Wacht</TrekName>
+    <WaypointID>534</WaypointID>
+    <WaypointName>Wegmarke Heldenzirkel</WaypointName>
+    <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>36</TrekID>
+    <TrekName>Fawcetts Vordach</TrekName>
+    <WaypointID>226</WaypointID>
+    <WaypointName>Wegmarke Arcallion</WaypointName>
+    <WaypointChatcode>[&amp;BMMAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>37</TrekID>
+    <TrekName>Feuerfrosch-Quellen</TrekName>
+    <WaypointID>336</WaypointID>
+    <WaypointName>Wegmarke Flammenfrosch</WaypointName>
+    <WaypointChatcode>[&amp;BMwBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>38</TrekID>
+    <TrekName>Feuer-Kobolds Schlupfloch</TrekName>
+    <WaypointID>307</WaypointID>
+    <WaypointName>Wegmarke Mahlstrom</WaypointName>
+    <WaypointChatcode>[&amp;BM0CAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>39</TrekID>
+    <TrekName>Feuerwacht-Brücke</TrekName>
+    <WaypointID>49</WaypointID>
+    <WaypointName>Wegmarke Feuerwacht-Lager</WaypointName>
+    <WaypointChatcode>[&amp;BO0BAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>41</TrekID>
+    <TrekName>Fiesquallen-Tangbeet</TrekName>
+    <WaypointID>452</WaypointID>
+    <WaypointName>Wegmarke Exil</WaypointName>
+    <WaypointChatcode>[&amp;BLwAAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>40</TrekID>
+    <TrekName>Fischers Klippe</TrekName>
+    <WaypointID>299</WaypointID>
+    <WaypointName>Wegmarke Alte Golem-Fabrik</WaypointName>
+    <WaypointChatcode>[&amp;BK4EAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>42</TrekID>
+    <TrekName>Flakks Steinschneider-Eck</TrekName>
+    <WaypointID>557</WaypointID>
+    <WaypointName>Wegmarke Buchhaltung</WaypointName>
+    <WaypointChatcode>[&amp;BLYEAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>43</TrekID>
+    <TrekName>Flaschenhals-Feuerstelle des Gründers</TrekName>
+    <WaypointID>81</WaypointID>
+    <WaypointName>Wegmarke Kestrel</WaypointName>
+    <WaypointChatcode>[&amp;BD0EAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>44</TrekID>
+    <TrekName>Forscher-Ansitz</TrekName>
+    <WaypointID>397</WaypointID>
+    <WaypointName>Wegmarke Stahlbrachen</WaypointName>
+    <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>45</TrekID>
+    <TrekName>Freistehendes Gerüst</TrekName>
+    <WaypointID>507</WaypointID>
+    <WaypointName>Wegmarke Ruinen von Rin</WaypointName>
+    <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>46</TrekID>
+    <TrekName>Fundbüro der Hafenbehörde</TrekName>
+    <WaypointID>549</WaypointID>
+    <WaypointName>Wegmarke Hafen</WaypointName>
+    <WaypointChatcode>[&amp;BAcFAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>47</TrekID>
+    <TrekName>Fünf-Klafter-Kraftfeld</TrekName>
+    <WaypointID>375</WaypointID>
+    <WaypointName>Wegmarke Die Abendsternglocke</WaypointName>
+    <WaypointChatcode>[&amp;BPICAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>48</TrekID>
+    <TrekName>Galgenschluchten</TrekName>
+    <WaypointID>266</WaypointID>
+    <WaypointName>Wegmarke Spukfelder</WaypointName>
+    <WaypointChatcode>[&amp;BGMAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>49</TrekID>
+    <TrekName>Gartenwurzel-Alkoven</TrekName>
+    <WaypointID>559</WaypointID>
+    <WaypointName>Wegmarke Obere Distrikte</WaypointName>
+    <WaypointChatcode>[&amp;BLoEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>50</TrekID>
+    <TrekName>Gedankensprung</TrekName>
+    <WaypointID>556</WaypointID>
+    <WaypointName>Wegmarke Ideengeburten</WaypointName>
+    <WaypointChatcode>[&amp;BLUEAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>51</TrekID>
+    <TrekName>Gefrorene Höhle</TrekName>
+    <WaypointID>461</WaypointID>
+    <WaypointName>Wegmarke Weißpapierhügel</WaypointName>
+    <WaypointChatcode>[&amp;BE8CAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>52</TrekID>
+    <TrekName>Geißelkiefer-Wachturm</TrekName>
+    <WaypointID>53</WaypointID>
+    <WaypointName>Wegmarke Glanzfell-Lager</WaypointName>
+    <WaypointChatcode>[&amp;BOgBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>53</TrekID>
+    <TrekName>Geschäfte der Arbeiter</TrekName>
+    <WaypointID>396</WaypointID>
+    <WaypointName>Wegmarke Graue Straße</WaypointName>
+    <WaypointChatcode>[&amp;BFoCAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>54</TrekID>
+    <TrekName>Gespensterjagd-Sockel</TrekName>
+    <WaypointID>362</WaypointID>
+    <WaypointName>Wegmarke Lichter</WaypointName>
+    <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>55</TrekID>
+    <TrekName>Gnashar-Aussichtspunkt</TrekName>
+    <WaypointID>259</WaypointID>
+    <WaypointName>Wegmarke Wendon</WaypointName>
+    <WaypointChatcode>[&amp;BF0AAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>57</TrekID>
+    <TrekName>Grabkammernluke</TrekName>
+    <WaypointID>365</WaypointID>
+    <WaypointName>Wegmarke Sammelpunkt</WaypointName>
+    <WaypointChatcode>[&amp;BNIEAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>58</TrekID>
+    <TrekName>Grenths Pavillon</TrekName>
+    <WaypointID>516</WaypointID>
+    <WaypointName>Wegmarke Grenth</WaypointName>
+    <WaypointChatcode>[&amp;BCQDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>56</TrekID>
+    <TrekName>Grimsdottirs Pflicht</TrekName>
+    <WaypointID>530</WaypointID>
+    <WaypointName>Wegmarke Zufluchtsfelsen</WaypointName>
+    <WaypointChatcode>[&amp;BIsDAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>59</TrekID>
+    <TrekName>Grünmoa-Koppel</TrekName>
+    <WaypointID>282</WaypointID>
+    <WaypointName>Wegmarke Caledon-Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>60</TrekID>
+    <TrekName>Haitiefen-Schneide</TrekName>
+    <WaypointID>17</WaypointID>
+    <WaypointName>Wegmarke Splitterkamm-Fort</WaypointName>
+    <WaypointChatcode>[&amp;BFEDAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>61</TrekID>
+    <TrekName>Hallerzeuger-Wacht</TrekName>
+    <WaypointID>489</WaypointID>
+    <WaypointName>Wegmarke Dunkelfluss-Klippen</WaypointName>
+    <WaypointChatcode>[&amp;BHUBAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>62</TrekID>
+    <TrekName>Halsabschneiders Ruhestatt</TrekName>
+    <WaypointID>202</WaypointID>
+    <WaypointName>Wegmarke Brigantine</WaypointName>
+    <WaypointChatcode>[&amp;BM0DAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>64</TrekID>
+    <TrekName>Händlervorrat</TrekName>
+    <WaypointID>533</WaypointID>
+    <WaypointName>Wegmarke Handelsdistrikt</WaypointName>
+    <WaypointChatcode>[&amp;BIYDAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>63</TrekID>
+    <TrekName>Hauptkontrollkonsole LIN39</TrekName>
+    <WaypointID>291</WaypointID>
+    <WaypointName>Wegmarke Muridianisches Hochland</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>65</TrekID>
+    <TrekName>Heidis Meisterwerk</TrekName>
+    <WaypointID>215</WaypointID>
+    <WaypointName>Wegmarke Seraphenlände</WaypointName>
+    <WaypointChatcode>[&amp;BKcAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>66</TrekID>
+    <TrekName>Heiligstein-Refugium</TrekName>
+    <WaypointID>34</WaypointID>
+    <WaypointName>Wegmarke Refugium</WaypointName>
+    <WaypointChatcode>[&amp;BMUDAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>67</TrekID>
+    <TrekName>Herzwald-Honigspeicher</TrekName>
+    <WaypointID>252</WaypointID>
+    <WaypointName>Wegmarke Phinney</WaypointName>
+    <WaypointChatcode>[&amp;BPMAAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>68</TrekID>
+    <TrekName>Himmelsschimmer-Riss</TrekName>
+    <WaypointID>217</WaypointID>
+    <WaypointName>Wegmarke Grau-Grittas-Posten</WaypointName>
+    <WaypointChatcode>[&amp;BKkAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>69</TrekID>
+    <TrekName>Hinterwurzel-Brunnen</TrekName>
+    <WaypointID>560</WaypointID>
+    <WaypointName>Wegmarke Rechenmeister</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>70</TrekID>
+    <TrekName>Höhlenbärenversteck</TrekName>
+    <WaypointID>442</WaypointID>
+    <WaypointName>Wegmarke Anlegestelle des Schneefalken</WaypointName>
+    <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>71</TrekID>
+    <TrekName>Höhlenspinnen-Nest</TrekName>
+    <WaypointID>429</WaypointID>
+    <WaypointName>Wegmarke Gipfelenklave</WaypointName>
+    <WaypointChatcode>[&amp;BJgBAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>72</TrekID>
+    <TrekName>Hymnenfeste</TrekName>
+    <WaypointID>574</WaypointID>
+    <WaypointName>Wegmarke Schiffswrackfelsen</WaypointName>
+    <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>73</TrekID>
+    <TrekName>Isenfell-Gerinne</TrekName>
+    <WaypointID>445</WaypointID>
+    <WaypointName>Wegmarke Isenfall</WaypointName>
+    <WaypointChatcode>[&amp;BLgAAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>74</TrekID>
+    <TrekName>Isgarren-Aussichtspunkt</TrekName>
+    <WaypointID>235</WaypointID>
+    <WaypointName>Wegmarke Dunkelwund-Klause</WaypointName>
+    <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>75</TrekID>
+    <TrekName>Jaguarstolz-Bau</TrekName>
+    <WaypointID>291</WaypointID>
+    <WaypointName>Wegmarke Muridianisches Hochland</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>76</TrekID>
+    <TrekName>Kaldars Schleudersitz</TrekName>
+    <WaypointID>523</WaypointID>
+    <WaypointName>Wegmarke Östlicher Wachtposten</WaypointName>
+    <WaypointChatcode>[&amp;BI0DAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>77</TrekID>
+    <TrekName>Karis Brennpunkt</TrekName>
+    <WaypointID>236</WaypointID>
+    <WaypointName>Wegmarke Cereboth</WaypointName>
+    <WaypointChatcode>[&amp;BBIAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>78</TrekID>
+    <TrekName>Kathedralenraum</TrekName>
+    <WaypointID>358</WaypointID>
+    <WaypointName>Wegmarke Wren</WaypointName>
+    <WaypointChatcode>[&amp;BKwCAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>79</TrekID>
+    <TrekName>Kevachs Stahlkammer</TrekName>
+    <WaypointID>492</WaypointID>
+    <WaypointName>Wegmarke Findwurm-Höhle</WaypointName>
+    <WaypointChatcode>[&amp;BMEDAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>80</TrekID>
+    <TrekName>Koboldspuk-Mulde</TrekName>
+    <WaypointID>285</WaypointID>
+    <WaypointName>Wegmarke Bergsuhlensumpf</WaypointName>
+    <WaypointChatcode>[&amp;BEEBAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>81</TrekID>
+    <TrekName>Koje des Kapitäns</TrekName>
+    <WaypointID>362</WaypointID>
+    <WaypointName>Wegmarke Lichter</WaypointName>
+    <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>82</TrekID>
+    <TrekName>Lawen-Grotte</TrekName>
+    <WaypointID>194</WaypointID>
+    <WaypointName>Wegmarke Erste Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>83</TrekID>
+    <TrekName>Leerstehende Einsiedelei</TrekName>
+    <WaypointID>7</WaypointID>
+    <WaypointName>Wegmarke Wächterstein</WaypointName>
+    <WaypointChatcode>[&amp;BP8BAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>84</TrekID>
+    <TrekName>Leichenhof-Wachposten</TrekName>
+    <WaypointID>232</WaypointID>
+    <WaypointName>Wegmarke Schattenherzgrund</WaypointName>
+    <WaypointChatcode>[&amp;BAwAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>85</TrekID>
+    <TrekName>Leichtfuß-Dock</TrekName>
+    <WaypointID>371</WaypointID>
+    <WaypointName>Wegmarke Donnerkopf</WaypointName>
+    <WaypointChatcode>[&amp;BPACAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>86</TrekID>
+    <TrekName>Lilys Biwack</TrekName>
+    <WaypointID>41</WaypointID>
+    <WaypointName>Wegmarke Eisspeer</WaypointName>
+    <WaypointChatcode>[&amp;BCACAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>87</TrekID>
+    <TrekName>Lindwurmnest-Küste</TrekName>
+    <WaypointID>31</WaypointID>
+    <WaypointName>Wegmarke Bruchwasser-See</WaypointName>
+    <WaypointChatcode>[&amp;BGQBAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>88</TrekID>
+    <TrekName>Lindwurmschlund-Riff</TrekName>
+    <WaypointID>89</WaypointID>
+    <WaypointName>Wegmarke Fangzornwacht</WaypointName>
+    <WaypointChatcode>[&amp;BEwBAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Felder der Verwüstung</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>89</TrekID>
+    <TrekName>Löwengarden-Speisekammer</TrekName>
+    <WaypointID>479</WaypointID>
+    <WaypointName>Wegmarke Doppelsporn-Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BH0BAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>90</TrekID>
+    <TrekName>Magihedron-Ecke</TrekName>
+    <WaypointID>550</WaypointID>
+    <WaypointName>Wegmarke Metrischer Hof</WaypointName>
+    <WaypointChatcode>[&amp;BBMEAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>91</TrekID>
+    <TrekName>Maulberia-Gefängnis</TrekName>
+    <WaypointID>482</WaypointID>
+    <WaypointName>Wegmarke Halvaunt</WaypointName>
+    <WaypointChatcode>[&amp;BHgBAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>92</TrekID>
+    <TrekName>Melandrus Quelle</TrekName>
+    <WaypointID>511</WaypointID>
+    <WaypointName>Wegmarke Melandru</WaypointName>
+    <WaypointChatcode>[&amp;BCcDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>93</TrekID>
+    <TrekName>Minas Schießstand</TrekName>
+    <WaypointID>515</WaypointID>
+    <WaypointName>Wegmarke Marktviertel</WaypointName>
+    <WaypointChatcode>[&amp;BCoDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>95</TrekID>
+    <TrekName>Monument des Alten</TrekName>
+    <WaypointID>385</WaypointID>
+    <WaypointName>Wegmarke Owains Zuflucht</WaypointName>
+    <WaypointChatcode>[&amp;BNgGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>94</TrekID>
+    <TrekName>Morgenrot-Pergola</TrekName>
+    <WaypointID>561</WaypointID>
+    <WaypointName>Wegmarke Ronan</WaypointName>
+    <WaypointChatcode>[&amp;BLwEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>96</TrekID>
+    <TrekName>Nebelschleier-Riff</TrekName>
+    <WaypointID>430</WaypointID>
+    <WaypointName>Wegmarke Nebelriss-Klamm</WaypointName>
+    <WaypointChatcode>[&amp;BJkBAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>97</TrekID>
+    <TrekName>Nekrolithen-Anlegestelle</TrekName>
+    <WaypointID>558</WaypointID>
+    <WaypointName>Wegmarke Caledon</WaypointName>
+    <WaypointChatcode>[&amp;BBIEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>98</TrekID>
+    <TrekName>Netzschluchthöhle</TrekName>
+    <WaypointID>12</WaypointID>
+    <WaypointName>Wegmarke Brandblick</WaypointName>
+    <WaypointChatcode>[&amp;BAQCAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>99</TrekID>
+    <TrekName>Oberherren-Halle</TrekName>
+    <WaypointID>231</WaypointID>
+    <WaypointName>Wegmarke Oberherr</WaypointName>
+    <WaypointChatcode>[&amp;BAQAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>100</TrekID>
+    <TrekName>Orvanische Gewässer</TrekName>
+    <WaypointID>331</WaypointID>
+    <WaypointName>Wegmarke Ozeanschlund</WaypointName>
+    <WaypointChatcode>[&amp;BMkBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>101</TrekID>
+    <TrekName>Osenfold-Gegengewichte</TrekName>
+    <WaypointID>478</WaypointID>
+    <WaypointName>Wegmarke Osenfold-Schneide</WaypointName>
+    <WaypointChatcode>[&amp;BAEEAAA=]</WaypointChatcode>
+    <MapID>44</MapID>
+    <MapName>Wanderer-Hügel</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>102</TrekID>
+    <TrekName>Ostend-Fälle</TrekName>
+    <WaypointID>263</WaypointID>
+    <WaypointName>Wegmarke Ostend</WaypointName>
+    <WaypointChatcode>[&amp;BGAAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>103</TrekID>
+    <TrekName>Ostlauergasse</TrekName>
+    <WaypointID>514</WaypointID>
+    <WaypointName>Wegmarke Dwayna</WaypointName>
+    <WaypointChatcode>[&amp;BCMDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>104</TrekID>
+    <TrekName>Phasmatis-Fernblick</TrekName>
+    <WaypointID>71</WaypointID>
+    <WaypointName>Wegmarke Eisendock-Werft</WaypointName>
+    <WaypointChatcode>[&amp;BIoBAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>105</TrekID>
+    <TrekName>Platz des Ertrinkens</TrekName>
+    <WaypointID>377</WaypointID>
+    <WaypointName>Wegmarke Der royale Markt</WaypointName>
+    <WaypointChatcode>[&amp;BPMCAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>106</TrekID>
+    <TrekName>Pochtecatls Begehr</TrekName>
+    <WaypointID>178</WaypointID>
+    <WaypointName>Wegmarke Jelako</WaypointName>
+    <WaypointChatcode>[&amp;BK8BAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>107</TrekID>
+    <TrekName>Portmatts Kap</TrekName>
+    <WaypointID>184</WaypointID>
+    <WaypointName>Wegmarke Gramvoll</WaypointName>
+    <WaypointChatcode>[&amp;BKQBAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>108</TrekID>
+    <TrekName>Provatum Carcer</TrekName>
+    <WaypointID>47</WaypointID>
+    <WaypointName>Wegmarke Hüter</WaypointName>
+    <WaypointChatcode>[&amp;BCYCAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>109</TrekID>
+    <TrekName>Quelle der Klage</TrekName>
+    <WaypointID>417</WaypointID>
+    <WaypointName>Wegmarke Himmelshöh-Gehöft</WaypointName>
+    <WaypointChatcode>[&amp;BIECAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>110</TrekID>
+    <TrekName>Rabenwinkel</TrekName>
+    <WaypointID>527</WaypointID>
+    <WaypointName>Wegmarke des Raben</WaypointName>
+    <WaypointChatcode>[&amp;BIgDAAA=]</WaypointChatcode>
+    <MapID>48</MapID>
+    <MapName>Hoelbrak</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>111</TrekID>
+    <TrekName>Radhafen-Schänke</TrekName>
+    <WaypointID>506</WaypointID>
+    <WaypointName>Wegmarke Appellplatz</WaypointName>
+    <WaypointChatcode>[&amp;BKUDAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>112</TrekID>
+    <TrekName>Raptorenhorst</TrekName>
+    <WaypointID>59</WaypointID>
+    <WaypointName>Wegmarke Kuttenzahns Stern</WaypointName>
+    <WaypointChatcode>[&amp;BOsBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>113</TrekID>
+    <TrekName>Raptorwarte</TrekName>
+    <WaypointID>206</WaypointID>
+    <WaypointName>Wegmarke Winter-Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BO4AAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>114</TrekID>
+    <TrekName>Rata Pten-Kolonnade</TrekName>
+    <WaypointID>312</WaypointID>
+    <WaypointName>Wegmarke Richtwert</WaypointName>
+    <WaypointChatcode>[&amp;BMkCAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>115</TrekID>
+    <TrekName>Rifflindwurm-Brutstätte</TrekName>
+    <WaypointID>387</WaypointID>
+    <WaypointName>Wegmarke Perlen-Inselchen</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>116</TrekID>
+    <TrekName>Ruhelose Pfade</TrekName>
+    <WaypointID>318</WaypointID>
+    <WaypointName>Wegmarke Irwin-Insel</WaypointName>
+    <WaypointChatcode>[&amp;BNICAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>117</TrekID>
+    <TrekName>Rümplers Gipfel</TrekName>
+    <WaypointID>498</WaypointID>
+    <WaypointName>Wegmarke Rümpler</WaypointName>
+    <WaypointChatcode>[&amp;BDcEAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>118</TrekID>
+    <TrekName>Ruriks Ausblick</TrekName>
+    <WaypointID>517</WaypointID>
+    <WaypointName>Wegmarke Rurikstadt</WaypointName>
+    <WaypointChatcode>[&amp;BCsDAAA=]</WaypointChatcode>
+    <MapID>47</MapID>
+    <MapName>Götterfels</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>119</TrekID>
+    <TrekName>Sackgasse der geplatzten Träume</TrekName>
+    <WaypointID>18</WaypointID>
+    <WaypointName>Wegmarke Rußstraße</WaypointName>
+    <WaypointChatcode>[&amp;BFIDAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>120</TrekID>
+    <TrekName>Sackgasse der Massen</TrekName>
+    <WaypointID>412</WaypointID>
+    <WaypointName>Wegmarke Groznev</WaypointName>
+    <WaypointChatcode>[&amp;BHkCAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>121</TrekID>
+    <TrekName>Salzflut-Altar</TrekName>
+    <WaypointID>329</WaypointID>
+    <WaypointName>Wegmarke Salzflut</WaypointName>
+    <WaypointChatcode>[&amp;BMcBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>122</TrekID>
+    <TrekName>Sandwurm-Pirsch</TrekName>
+    <WaypointID>387</WaypointID>
+    <WaypointName>Wegmarke Perlen-Inselchen</WaypointName>
+    <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Südlicht-Bucht</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Meer des Leids</RegionName>
+  </trek>
+  <trek>
+    <TrekID>123</TrekID>
+    <TrekName>Schildwächtersenke</TrekName>
+    <WaypointID>55</WaypointID>
+    <WaypointName>Wegmarke Brandwacht-Lager</WaypointName>
+    <WaypointChatcode>[&amp;BOkBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>124</TrekID>
+    <TrekName>Schlafsaal der Skibo-Halle</TrekName>
+    <WaypointID>554</WaypointID>
+    <WaypointName>Wegmarke Zusätzliche Studierräume</WaypointName>
+    <WaypointChatcode>[&amp;BLkEAAA=]</WaypointChatcode>
+    <MapID>50</MapID>
+    <MapName>Rata Sum</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>127</TrekID>
+    <TrekName>Schmelzwasser-Kaverne</TrekName>
+    <WaypointID>463</WaypointID>
+    <WaypointName>Wegmarke Schuppenstrand</WaypointName>
+    <WaypointChatcode>[&amp;BEgCAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>128</TrekID>
+    <TrekName>Schmutzklauenkluft</TrekName>
+    <WaypointID>56</WaypointID>
+    <WaypointName>Wegmarke Blutflossen-See</WaypointName>
+    <WaypointChatcode>[&amp;BOMBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>125</TrekID>
+    <TrekName>Schneegeheul-Bau</TrekName>
+    <WaypointID>442</WaypointID>
+    <WaypointName>Wegmarke Anlegestelle des Schneefalken</WaypointName>
+    <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>126</TrekID>
+    <TrekName>Schneekuhlen-Unterschlupf</TrekName>
+    <WaypointID>446</WaypointID>
+    <WaypointName>Wegmarke Schneeweh-Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BLkAAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>129</TrekID>
+    <TrekName>Schwarzklingen-Kuppe</TrekName>
+    <WaypointID>22</WaypointID>
+    <WaypointName>Wegmarke Rhands Brunnen</WaypointName>
+    <WaypointChatcode>[&amp;BNwAAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>130</TrekID>
+    <TrekName>Schwarzlöwen-Wurzelkeller</TrekName>
+    <WaypointID>560</WaypointID>
+    <WaypointName>Wegmarke Rechenmeister</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>131</TrekID>
+    <TrekName>Schwundfallhof</TrekName>
+    <WaypointID>507</WaypointID>
+    <WaypointName>Wegmarke Ruinen von Rin</WaypointName>
+    <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>132</TrekID>
+    <TrekName>Seegrundtunnel</TrekName>
+    <WaypointID>251</WaypointID>
+    <WaypointName>Wegmarke Ojons Sägewerk</WaypointName>
+    <WaypointChatcode>[&amp;BPkAAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>133</TrekID>
+    <TrekName>Siamoth-Zuflucht</TrekName>
+    <WaypointID>327</WaypointID>
+    <WaypointName>Wegmarke Brackwasser</WaypointName>
+    <WaypointChatcode>[&amp;BM4BAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>134</TrekID>
+    <TrekName>Skal-Fang-Metzgerei</TrekName>
+    <WaypointID>52</WaypointID>
+    <WaypointName>Wegmarke Dorf Schuppenfang</WaypointName>
+    <WaypointChatcode>[&amp;BOcBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Eisenmark</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>135</TrekID>
+    <TrekName>Skal-Fund-Bucht</TrekName>
+    <WaypointID>102</WaypointID>
+    <WaypointName>Wegmarke Tuyere-Kommandostelle</WaypointName>
+    <WaypointChatcode>[&amp;BBgCAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>136</TrekID>
+    <TrekName>Skal-Lager-Versteck</TrekName>
+    <WaypointID>75</WaypointID>
+    <WaypointName>Wegmarke Feritas</WaypointName>
+    <WaypointChatcode>[&amp;BJcDAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>138</TrekID>
+    <TrekName>Skal-Schwall-Fälle</TrekName>
+    <WaypointID>470</WaypointID>
+    <WaypointName>Wegmarke Okarinuu</WaypointName>
+    <WaypointChatcode>[&amp;BEYCAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>137</TrekID>
+    <TrekName>Skelknest-Bohrloch</TrekName>
+    <WaypointID>415</WaypointID>
+    <WaypointName>Wegmarke Pfuhl der Verzweiflung</WaypointName>
+    <WaypointChatcode>[&amp;BHwCAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>139</TrekID>
+    <TrekName>Skriptorium-Winkel</TrekName>
+    <WaypointID>500</WaypointID>
+    <WaypointName>Wegmarke Factorium</WaypointName>
+    <WaypointChatcode>[&amp;BKcDAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>141</TrekID>
+    <TrekName>Soggorsort-Rundbau</TrekName>
+    <WaypointID>274</WaypointID>
+    <WaypointName>Wegmarke Annwen-Weiler</WaypointName>
+    <WaypointChatcode>[&amp;BD8BAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>142</TrekID>
+    <TrekName>Soran Draa-Raststätte</TrekName>
+    <WaypointID>290</WaypointID>
+    <WaypointName>Wegmarke Soran Draa</WaypointName>
+    <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>140</TrekID>
+    <TrekName>Spatwinds Stube</TrekName>
+    <WaypointID>499</WaypointID>
+    <WaypointName>Wegmarke des Imperators</WaypointName>
+    <WaypointChatcode>[&amp;BK0DAAA=]</WaypointChatcode>
+    <MapID>46</MapID>
+    <MapName>Schwarze Zitadelle</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>143</TrekID>
+    <TrekName>Stadthalle des Schicksals</TrekName>
+    <WaypointID>245</WaypointID>
+    <WaypointName>Wegmarke Shaermoor</WaypointName>
+    <WaypointChatcode>[&amp;BO8AAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>144</TrekID>
+    <TrekName>Stahlband-Tunnel</TrekName>
+    <WaypointID>3</WaypointID>
+    <WaypointName>Wegmarke Tumok</WaypointName>
+    <WaypointChatcode>[&amp;BPsBAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>145</TrekID>
+    <TrekName>Starkprankes Garten</TrekName>
+    <WaypointID>23</WaypointID>
+    <WaypointName>Wegmarke Nageling</WaypointName>
+    <WaypointChatcode>[&amp;BN0AAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>146</TrekID>
+    <TrekName>Steinbohrung-Spinnenloch</TrekName>
+    <WaypointID>195</WaypointID>
+    <WaypointName>Wegmarke Talajisches Bergvorland</WaypointName>
+    <WaypointChatcode>[&amp;BIwBAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>147</TrekID>
+    <TrekName>Stentor-Unterschlupf</TrekName>
+    <WaypointID>366</WaypointID>
+    <WaypointName>Wegmarke Signalgipfel</WaypointName>
+    <WaypointChatcode>[&amp;BO0CAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>148</TrekID>
+    <TrekName>Sternbildbrüstung</TrekName>
+    <WaypointID>560</WaypointID>
+    <WaypointName>Wegmarke Rechenmeister</WaypointName>
+    <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
+    <MapID>51</MapID>
+    <MapName>Der Hain</MapName>
+    <RegionID>12</RegionID>
+    <RegionName>Städte</RegionName>
+  </trek>
+  <trek>
+    <TrekID>149</TrekID>
+    <TrekName>Stiegwild-Anger</TrekName>
+    <WaypointID>179</WaypointID>
+    <WaypointName>Wegmarke Remanda</WaypointName>
+    <WaypointChatcode>[&amp;BKcBAAA=]</WaypointChatcode>
+    <MapID>21</MapID>
+    <MapName>Blutstromküste</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>150</TrekID>
+    <TrekName>Stummherz-Engpass</TrekName>
+    <WaypointID>98</WaypointID>
+    <WaypointName>Wegmarke Häretiker-Einöde</WaypointName>
+    <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>154</TrekID>
+    <TrekName>Taktischer Rückzug</TrekName>
+    <WaypointID>574</WaypointID>
+    <WaypointName>Wegmarke Schiffswrackfelsen</WaypointName>
+    <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>151</TrekID>
+    <TrekName>Talus-Aufgang</TrekName>
+    <WaypointID>466</WaypointID>
+    <WaypointName>Wegmarke Talus-Wassersturtz</WaypointName>
+    <WaypointChatcode>[&amp;BEQCAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>152</TrekID>
+    <TrekName>Tarstarwäldchen</TrekName>
+    <WaypointID>98</WaypointID>
+    <WaypointName>Wegmarke Häretiker-Einöde</WaypointName>
+    <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Feuerherzhügel</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>155</TrekID>
+    <TrekName>Tekkis Reißbrett</TrekName>
+    <WaypointID>268</WaypointID>
+    <WaypointName>Wegmarke Ulta Metamagikale</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>156</TrekID>
+    <TrekName>Thaumanova-Überlauf</TrekName>
+    <WaypointID>291</WaypointID>
+    <WaypointName>Wegmarke Muridianisches Hochland</WaypointName>
+    <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>157</TrekID>
+    <TrekName>Tiefschlamm-Taucher</TrekName>
+    <WaypointID>317</WaypointID>
+    <WaypointName>Wegmarke Ochsenjoch-Insel</WaypointName>
+    <WaypointChatcode>[&amp;BNECAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>153</TrekID>
+    <TrekName>Togatl-Küste</TrekName>
+    <WaypointID>234</WaypointID>
+    <WaypointName>Wegmarke Viathan</WaypointName>
+    <WaypointChatcode>[&amp;BBAAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex-Hügel</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>158</TrekID>
+    <TrekName>Tonteich-Außenhof</TrekName>
+    <WaypointID>258</WaypointID>
+    <WaypointName>Wegmarke Tonteich</WaypointName>
+    <WaypointChatcode>[&amp;BPYAAAA=]</WaypointChatcode>
+    <MapID>25</MapID>
+    <MapName>Königintal</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>159</TrekID>
+    <TrekName>Toxal-Überlauf</TrekName>
+    <WaypointID>268</WaypointID>
+    <WaypointName>Wegmarke Ulta Metamagikale</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>160</TrekID>
+    <TrekName>Troll-Fallen-Grube</TrekName>
+    <WaypointID>434</WaypointID>
+    <WaypointName>Wegmarke Abtei Durmand</WaypointName>
+    <WaypointChatcode>[&amp;BOkAAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>161</TrekID>
+    <TrekName>Turm der Trübsal</TrekName>
+    <WaypointID>389</WaypointID>
+    <WaypointName>Wegmarke Umarmung der Betrübnis</WaypointName>
+    <WaypointChatcode>[&amp;BD8FAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>162</TrekID>
+    <TrekName>Überwachender Wächter</TrekName>
+    <WaypointID>212</WaypointID>
+    <WaypointName>Wegmarke Barrikadenlager</WaypointName>
+    <WaypointChatcode>[&amp;BK0AAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi-Hinterland</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>163</TrekID>
+    <TrekName>Ulta-Schrottkammer</TrekName>
+    <WaypointID>268</WaypointID>
+    <WaypointName>Wegmarke Ulta Metamagikale</WaypointName>
+    <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban-Wildnis</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>164</TrekID>
+    <TrekName>Ungesehenen Riss</TrekName>
+    <WaypointID>282</WaypointID>
+    <WaypointName>Wegmarke Caledon-Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>165</TrekID>
+    <TrekName>Upsilon-Hyperboloid</TrekName>
+    <WaypointID>579</WaypointID>
+    <WaypointName>Wegmarke Abfall-Senken</WaypointName>
+    <WaypointChatcode>[&amp;BKgCAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>166</TrekID>
+    <TrekName>Usharrs Schwelle</TrekName>
+    <WaypointID>334</WaypointID>
+    <WaypointName>Wegmarke Toades Kopf</WaypointName>
+    <WaypointChatcode>[&amp;BMsBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>167</TrekID>
+    <TrekName>Verbotene Schneide</TrekName>
+    <WaypointID>577</WaypointID>
+    <WaypointName>Wegmarke Wisper</WaypointName>
+    <WaypointChatcode>[&amp;BK8CAAA=]</WaypointChatcode>
+    <MapID>36</MapID>
+    <MapName>Malchors Sprung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>168</TrekID>
+    <TrekName>Verdammnis-Grabkammer</TrekName>
+    <WaypointID>20</WaypointID>
+    <WaypointName>Wegmarke Ödmoore</WaypointName>
+    <WaypointChatcode>[&amp;BNoAAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa-Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>169</TrekID>
+    <TrekName>Vergessene Grotte</TrekName>
+    <WaypointID>9</WaypointID>
+    <WaypointName>Wegmarke Terra Carorunda</WaypointName>
+    <WaypointChatcode>[&amp;BAECAAA=]</WaypointChatcode>
+    <MapID>1</MapID>
+    <MapName>Flammenkamm-Steppe</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>170</TrekID>
+    <TrekName>Versteckte Eulenbrennerei</TrekName>
+    <WaypointID>456</WaypointID>
+    <WaypointName>Wegmarke Eulenhütte</WaypointName>
+    <WaypointChatcode>[&amp;BMEAAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Schneekuhlenhöhen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>171</TrekID>
+    <TrekName>Vorarbeiters Rast</TrekName>
+    <WaypointID>394</WaypointID>
+    <WaypointName>Wegmarke Dociu-Ausgrabung</WaypointName>
+    <WaypointChatcode>[&amp;BFgCAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>172</TrekID>
+    <TrekName>Vorratslager der Verfolgten</TrekName>
+    <WaypointID>572</WaypointID>
+    <WaypointName>Wegmarke Kastell Schattenlieb</WaypointName>
+    <WaypointChatcode>[&amp;BCEDAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>173</TrekID>
+    <TrekName>Wachposten Decimus</TrekName>
+    <WaypointID>76</WaypointID>
+    <WaypointName>Wegmarke Decimus Wachpunkt</WaypointName>
+    <WaypointChatcode>[&amp;BJgDAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Ebenen von Aschfurt</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </trek>
+  <trek>
+    <TrekID>174</TrekID>
+    <TrekName>Wassas Terrasse</TrekName>
+    <WaypointID>194</WaypointID>
+    <WaypointName>Wegmarke Erste Freistatt</WaypointName>
+    <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>175</TrekID>
+    <TrekName>Wesirs Vortor</TrekName>
+    <WaypointID>372</WaypointID>
+    <WaypointName>Wegmarke Verlassener Posten</WaypointName>
+    <WaypointChatcode>[&amp;BPcCAAA=]</WaypointChatcode>
+    <MapID>37</MapID>
+    <MapName>Meerenge der Verwüstung</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>176</TrekID>
+    <TrekName>Widderblickgipfel</TrekName>
+    <WaypointID>404</WaypointID>
+    <WaypointName>Travelens Wegmarke</WaypointName>
+    <WaypointChatcode>[&amp;BGQCAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Schauflerschreck-Klippen</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>177</TrekID>
+    <TrekName>Widds Torheit</TrekName>
+    <WaypointID>278</WaypointID>
+    <WaypointName>Wegmarke Mabon-Markt</WaypointName>
+    <WaypointChatcode>[&amp;BDoBAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>178</TrekID>
+    <TrekName>Wikks Tor</TrekName>
+    <WaypointID>469</WaypointID>
+    <WaypointName>Wegmarke Vorsprunghut</WaypointName>
+    <WaypointChatcode>[&amp;BEwCAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Baumgrenzen-Fälle</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>179</TrekID>
+    <TrekName>Wildbret-Senke</TrekName>
+    <WaypointID>437</WaypointID>
+    <WaypointName>Wegmarke Vanjirs Hof</WaypointName>
+    <WaypointChatcode>[&amp;BOUAAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornars Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>180</TrekID>
+    <TrekName>Wilddorn-Barriere</TrekName>
+    <WaypointID>281</WaypointID>
+    <WaypointName>Wegmarke Morgan-Spirale</WaypointName>
+    <WaypointChatcode>[&amp;BDUBAAA=]</WaypointChatcode>
+    <MapID>27</MapID>
+    <MapName>Caledon-Wald</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>181</TrekID>
+    <TrekName>Wildflammenwächter</TrekName>
+    <WaypointID>290</WaypointID>
+    <WaypointName>Wegmarke Soran Draa</WaypointName>
+    <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
+    <MapID>28</MapID>
+    <MapName>Provinz Metrica</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>182</TrekID>
+    <TrekName>Wintertotengeläut-Sackgasse</TrekName>
+    <WaypointID>566</WaypointID>
+    <WaypointName>Wegmarke R&amp;D</WaypointName>
+    <WaypointChatcode>[&amp;BBgDAAA=]</WaypointChatcode>
+    <MapID>35</MapID>
+    <MapName>Fluchküste</MapName>
+    <RegionID>8</RegionID>
+    <RegionName>Ruinen von Orr</RegionName>
+  </trek>
+  <trek>
+    <TrekID>183</TrekID>
+    <TrekName>Winzland-Krater</TrekName>
+    <WaypointID>320</WaypointID>
+    <WaypointName>Wegmarke Alter Hammergrund</WaypointName>
+    <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mahlstromgipfel</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+  <trek>
+    <TrekID>184</TrekID>
+    <TrekName>Wrelks Salon</TrekName>
+    <WaypointID>200</WaypointID>
+    <WaypointName>Wegmarke Almuten-Anwesen</WaypointName>
+    <WaypointChatcode>[&amp;BJQBAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran-Felder</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </trek>
+  <trek>
+    <TrekID>185</TrekID>
+    <TrekName>Zähne der Verderbnis</TrekName>
+    <WaypointID>422</WaypointID>
+    <WaypointName>Wegmarke Drakkar</WaypointName>
+    <WaypointChatcode>[&amp;BIYCAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Eisklamm-Sund</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Zittergipfel-Gebirge</RegionName>
+  </trek>
+  <trek>
+    <TrekID>186</TrekID>
+    <TrekName>Zertrümmerter Speicher</TrekName>
+    <WaypointID>335</WaypointID>
+    <WaypointName>Wegmarke Fort Gleichschritt</WaypointName>
+    <WaypointChatcode>[&amp;BMUBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Funkenschwärmersumpf</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma-Dschungel</RegionName>
+  </trek>
+</root>
