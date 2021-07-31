@@ -187,6 +187,8 @@
   <ItemGroup>
     <Content Include="Blish HUD.DebugHelper.exe" />
     <Content Include="ref\157353.png" />
+    <Content Include="ref\arrow_right_icon.png" />
+    <Content Include="ref\close_icon.png" />
     <Content Include="ref\guildtrek_data.xml" />
     <Content Include="ref\guildtrek_icon.png" />
   </ItemGroup>
