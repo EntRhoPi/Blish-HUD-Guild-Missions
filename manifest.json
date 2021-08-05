@@ -1,11 +1,11 @@
 {
   "name": "Guild Missions",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "namespace": "entrhopi.Guild_Missions",
   "package": "Guild-Missions.dll",
   "manifest_version": 1,
 
-  "description": "Helps with guild trek missions and hopefully other guild things in the future.",
+  "description": "Helps with guild trek missions and hopefully other guild missions in the future.",
   "dependencies": {
     "bh.blishhud": ">=0.8.0"
   },
