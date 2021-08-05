@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.Composition;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using Blish_HUD;
@@ -33,8 +34,7 @@ namespace entrhopi.Guild_Missions
         
         private Panel trekListPanel, savedTrekListPanel;
         public List<Panel> resultPanels = new List<Panel>();
-        public List<Panel> savedPanels = new List<Panel>();
-        public List<XElement> savedTreks = new List<XElement>();
+        Dictionary<int, int> savedGuildTreks = new Dictionary<int, int>();
 
 
         #endregion
@@ -102,21 +102,22 @@ namespace entrhopi.Guild_Missions
             };
             clearAllImage.Click += delegate { ClearWPList(); };
 
+            searchTextBox = new TextBox()
+            {
+                PlaceholderText = "Enter name here ...",
+                Size = new Point(parentPanel.Width - LEFT_MARGIN - RIGHT_MARGIN, 43),
+                Font = GameService.Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN, TOP_MARGIN),
+                Parent = parentPanel,
+            };
+
             trekListPanel = new Panel()
             {
                 ShowBorder = true,
                 Title = "Search Guild Treks",
                 Size = new Point(400, parentPanel.Height - BOTTOM_MARGIN),
-                Location = new Point(LEFT_MARGIN, TOP_MARGIN),
+                Location = new Point(LEFT_MARGIN, searchTextBox.Bottom + TOP_MARGIN),
                 Parent = parentPanel,
-            };
-
-            searchTextBox = new TextBox()
-            {
-                PlaceholderText = "Enter name here ...",
-                Size = new Point(parentPanel.Width - LEFT_MARGIN, TextBox.Standard.Size.Y),
-                Location = new Point(0, 0),
-                Parent = trekListPanel,
             };
 
 
@@ -126,7 +127,7 @@ namespace entrhopi.Guild_Missions
                 ShowBorder = true,
                 Title = "Saved Guild Treks",
                 Size = new Point(400, parentPanel.Height - BOTTOM_MARGIN),
-                Location = new Point(parentPanel.Width - 400, TOP_MARGIN),
+                Location = new Point(parentPanel.Width - 400, searchTextBox.Bottom + TOP_MARGIN),
                 Parent = parentPanel,
             };
 
@@ -143,10 +144,7 @@ namespace entrhopi.Guild_Missions
             string searchText = searchTextBox.Text;
 
             // Dispose of current search result
-            foreach (Panel searchItem in resultPanels)
-            {
-                searchItem.Dispose();
-            }
+            trekListPanel.ClearChildren();
 
             XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
 
@@ -155,166 +153,124 @@ namespace entrhopi.Guild_Missions
                 //if (trek.Element("TrekName").Value.ToLower().StartsWith(searchText.ToLower()))
                 if (trek.Element("TrekName").Value.ToLower().Contains(searchText.ToLower()))
                 {
-                    Panel searchItem = new Panel()
-                    {
-                        ShowBorder = false,
-                        Title = trek.Element("TrekName").Value,
-                        Size = new Point(trekListPanel.Width, 70),
-                        Location = new Point(LEFT_MARGIN, searchTextBox.Bottom + 5 + i * 70),
-                        Parent = trekListPanel
-                    };
-                    Label searchWaypoint = new Label()
-                    {
-                        Text = trek.Element("WaypointName").Value,
-                        Font = Content.DefaultFont14,
-                        Location = new Point(LEFT_MARGIN + 30, 5),
-                        TextColor = Color.White,
-                        ShadowColor = Color.Black,
-                        ShowShadow = true,
-                        AutoSizeWidth = true,
-                        AutoSizeHeight = true,
-                        Parent = searchItem
-                    };
-
-                    Image searchWPImage = new Image(_wpTexture)
-                    {
-                        Size = new Point(30, 30),
-                        Location = new Point(0, 0),
-                        Parent = searchItem
-                    };
-                    searchWPImage.Click += delegate
-                    {
-                        ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("TrekName").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
-                        {
-                            if (clipboardResult.IsFaulted)
-                            {
-                                ScreenNotification.ShowNotification("Failed to copy waypoint to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
-                            }
-                            else
-                            {
-                                ScreenNotification.ShowNotification("Copied waypoint to clipboard!", duration: 2);
-                            }
-                        });
-                    };
-
-                    Image addToSavedImage = new Image(_arrowRightIconTexture)
-                    {
-                        Size = new Point(20, 20),
-                        Location = new Point(trekListPanel.Width - 40, 4),
-                        Parent = searchItem,
-                        ZIndex = 9999
-                    };
-                    addToSavedImage.Click += delegate { AddWPToList(trek); };
-
-                    resultPanels.Add(searchItem);
+                    AddTrekPanel(trek, trekListPanel, i, true, false);
 
                     i++;
                     if (i >= MAX_RESULT_COUNT) break;
                 }
             }
-
-            //var treks = from trek in doc.Root.Elements("trek")
-            //                where trek.Element("TrekName").Value.ToLower().Contains(searchText.ToLower())
-            //                select trek;
         }
 
-        private void AddWPToList(XElement newtrek)
+        private void AddWPToList(int trekID, int mapID)
         {
-            // TODO: Check if WP already exists in list
-
-            savedTreks.Add(newtrek);
-
-            // TODO: Sort treks by region and map
-
-            UpdateSavedWPList();
-        }
-
-        private void RemoveWPFromList(XElement trek)
-        {
-            // Dispose of current search result
-            foreach (Panel savedItem in savedPanels)
+            if (savedGuildTreks.ContainsKey(trekID) == false)
             {
-                savedItem.Dispose();
+                savedGuildTreks.Add(trekID, mapID);
+                UpdateSavedWPList();
             }
 
-            savedTreks.Remove(trek);
+        }
 
+        private void RemoveWPFromList(int trek)
+        {
+            savedGuildTreks.Remove(trek);
             UpdateSavedWPList();
+        }
+
+        private void ClearWPList()
+        {
+            savedGuildTreks.Clear();
+            savedTrekListPanel.ClearChildren();
         }
 
         private void UpdateSavedWPList()
         {
+            savedTrekListPanel.ClearChildren();
+
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
+
+            // Sort saved treks by map id
             int i = 0;
-
-            foreach (var trek in savedTreks)
+            foreach (KeyValuePair<int, int> wp in savedGuildTreks.OrderBy(key => key.Value))
             {
-                Panel searchItem = new Panel()
-                {
-                    ShowBorder = false,
-                    Title = trek.Element("TrekName").Value,
-                    Size = new Point(trekListPanel.Width, 70),
-                    Location = new Point(LEFT_MARGIN, searchTextBox.Bottom + 5 + i * 70),
-                    Parent = savedTrekListPanel
-                };
-                Label searchWaypoint = new Label()
-                {
-                    Text = trek.Element("WaypointName").Value,
-                    Font = Content.DefaultFont14,
-                    Location = new Point(LEFT_MARGIN + 30, 5),
-                    TextColor = Color.White,
-                    ShadowColor = Color.Black,
-                    ShowShadow = true,
-                    AutoSizeWidth = true,
-                    AutoSizeHeight = true,
-                    Parent = searchItem
-                };
+                // Grab trek data from xml
+                var trek = doc.Descendants("trek")
+                    .Where(x => x.Element("TrekID").Value == wp.Key.ToString())
+                    .FirstOrDefault();
 
-                Image searchWPImage = new Image(_wpTexture)
-                {
-                    Size = new Point(30, 30),
-                    Location = new Point(0, 0),
-                    Parent = searchItem
-                };
-                searchWPImage.Click += delegate
-                {
-                    ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("TrekName").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
-                    {
-                        if (clipboardResult.IsFaulted)
-                        {
-                            ScreenNotification.ShowNotification("Failed to copy waypoint to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
-                        }
-                        else
-                        {
-                            ScreenNotification.ShowNotification("Copied waypoint to clipboard!", duration: 2);
-                        }
-                    });
-                };
+                if (trek == null) continue;
 
-                Image removeImage = new Image(_closeTexture)
-                {
-                    Size = new Point(20, 20),
-                    Location = new Point(trekListPanel.Width - 40, 4),
-                    Parent = searchItem,
-                    ZIndex = 9999
-                };
-                removeImage.Click += delegate { RemoveWPFromList(trek); };
-
-                savedPanels.Add(searchItem);
+                AddTrekPanel(trek, savedTrekListPanel, i, false, true);
 
                 i++;
             }
         }
 
-        private void ClearWPList()
+        private void AddTrekPanel(XElement trek, Panel parent, int position, bool add = false, bool remove = false)
         {
 
-            foreach (Panel savedItem in savedPanels)
+            Panel trekPanel = new Panel()
             {
-                savedItem.Dispose();
+                ShowBorder = false,
+                Title = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
+                Size = new Point(trekListPanel.Width, 70),
+                Location = new Point(LEFT_MARGIN, 5 + position * 70),
+                Parent = parent
+            };
+            Image trekPanelWPImage = new Image(_wpTexture)
+            {
+                Size = new Point(30, 30),
+                Location = new Point(0, 0),
+                Parent = trekPanel
+            };
+            trekPanelWPImage.Click += delegate
+            {
+                ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("TrekName").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
+                {
+                    if (clipboardResult.IsFaulted)
+                    {
+                        ScreenNotification.ShowNotification("Failed to copy waypoint to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
+                    }
+                    else
+                    {
+                        ScreenNotification.ShowNotification("Copied waypoint to clipboard!", duration: 2);
+                    }
+                });
+            };
+            new Label()
+            {
+                Text = trek.Element("WaypointName").Value,
+                Font = Content.DefaultFont14,
+                Location = new Point(LEFT_MARGIN + 30, 5),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = trekPanel
+            };
+
+            if(add)
+            {
+                Image addImage = new Image(_arrowRightIconTexture)
+                {
+                    Size = new Point(20, 20),
+                    Location = new Point(trekListPanel.Width - 40, 4),
+                    Parent = trekPanel
+                };
+                addImage.Click += delegate { AddWPToList((int)trek.Element("TrekID"), (int)trek.Element("MapID")); };
             }
 
-            savedPanels.Clear();
-            savedTreks.Clear();
+            if(remove)
+            {
+                Image removeImage = new Image(_closeTexture)
+                {
+                    Size = new Point(20, 20),
+                    Location = new Point(trekListPanel.Width - 40, 4),
+                    Parent = trekPanel
+                };
+                removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("TrekID")); };
+            }
         }
 
         protected override void Update(GameTime gameTime)
