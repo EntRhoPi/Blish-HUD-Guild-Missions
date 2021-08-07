@@ -30,9 +30,9 @@ namespace entrhopi.Guild_Missions
         private const int BOTTOM_MARGIN = 10;
         private const int LEFT_MARGIN = 9;
 
-        private const int MAX_RESULT_COUNT = 8;
+        private const int MAX_RESULT_COUNT = 7;
         
-        private Panel trekListPanel, savedTrekListPanel;
+        private Panel trekListPanel, savedTrekListPanel, contentPanel;
         public List<Panel> resultPanels = new List<Panel>();
         Dictionary<int, int> savedGuildTreks = new Dictionary<int, int>();
 
@@ -54,21 +54,43 @@ namespace entrhopi.Guild_Missions
 
         }
 
-        private Texture2D _guildTrekIconTexture;
-        private Texture2D _arrowRightIconTexture;
-        private Texture2D _wpTexture;
+        private Texture2D _guildMissionIcon;
+        private Texture2D _guildTrekIcon;
+        private Texture2D _guildBountyIcon;
+        private Texture2D _guildRaceIcon;
+        private Texture2D _guildPuzzleIcon;
+        private Texture2D _guildChallengeIcon;
+
+        private Texture2D _lockedIcon;
+        private Texture2D _wipIcon;
+
+        private Texture2D _waypointIcon;
+        private Texture2D _rightArrowIcon;
+
         private Texture2D _closeTexture;
 
-        internal string GuildTrekTabName = "Guild Trek";
+        internal string GuildTrekTabName = "Guild Missions";
 
         private WindowTab _moduleTab;
         private TextBox searchTextBox;
 
+        private int panelsize = 56;
+
         protected override void Initialize()
         {
-            _guildTrekIconTexture = ContentsManager.GetTexture("guildtrek_icon.png");
-            _arrowRightIconTexture = ContentsManager.GetTexture("arrow_right_icon.png");
-            _wpTexture = ContentsManager.GetTexture("157353.png");
+            _guildMissionIcon = ContentsManager.GetTexture("528697.png");
+            _guildTrekIcon = ContentsManager.GetTexture("1228320.png");
+            _guildBountyIcon = ContentsManager.GetTexture("1228316.png");
+            _guildRaceIcon = ContentsManager.GetTexture("1228319.png");
+            _guildPuzzleIcon = ContentsManager.GetTexture("1228318.png");
+            _guildChallengeIcon = ContentsManager.GetTexture("1228317.png");
+
+            _lockedIcon = ContentsManager.GetTexture("1827421.png");
+            _wipIcon = ContentsManager.GetTexture("2221493.png");
+
+            _waypointIcon = ContentsManager.GetTexture("157354.png");
+            _rightArrowIcon = ContentsManager.GetTexture("784266.png");
+
             _closeTexture = ContentsManager.GetTexture("close_icon.png");
         }
 
@@ -80,13 +102,13 @@ namespace entrhopi.Guild_Missions
         protected override void OnModuleLoaded(EventArgs e)
         {
 
-            _moduleTab = Overlay.BlishHudWindow.AddTab(GuildTrekTabName, _guildTrekIconTexture, GuildTrekView(Overlay.BlishHudWindow));
+            _moduleTab = Overlay.BlishHudWindow.AddTab(GuildTrekTabName, _guildMissionIcon, GuildMissionsView(Overlay.BlishHudWindow));
 
             // Base handler must be called
             base.OnModuleLoaded(e);
         }
 
-        private Panel GuildTrekView(WindowBase wndw)
+        private Panel GuildMissionsView(WindowBase wndw)
         {
             var parentPanel = new Panel()
             {
@@ -94,46 +116,274 @@ namespace entrhopi.Guild_Missions
                 Size = wndw.ContentRegion.Size
             };
 
-            Image clearAllImage = new Image(_closeTexture)
+            var missionTypePanel = new Panel()
             {
-                Size = new Point(50, 50),
-                Location = new Point(parentPanel.Width / 2 - 25, parentPanel.Height / 2 - 25),
-                Parent = parentPanel
-            };
-            clearAllImage.Click += delegate { ClearWPList(); };
-
-            searchTextBox = new TextBox()
-            {
-                PlaceholderText = "Enter name here ...",
-                Size = new Point(parentPanel.Width - LEFT_MARGIN - RIGHT_MARGIN, 43),
-                Font = GameService.Content.DefaultFont16,
+                ShowBorder = true,
+                Title = "Choose Guild Mission Type",
+                Size = new Point(265, parentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN, TOP_MARGIN),
                 Parent = parentPanel,
             };
 
-            trekListPanel = new Panel()
+            var guildTrekPanel = new Panel()
             {
-                ShowBorder = true,
-                Title = "Search Guild Treks",
-                Size = new Point(400, parentPanel.Height - BOTTOM_MARGIN),
-                Location = new Point(LEFT_MARGIN, searchTextBox.Bottom + TOP_MARGIN),
+                ShowBorder = false,
+                Size = new Point(missionTypePanel.Width, panelsize),
+                Location = new Point(0, 0),
+                Parent = missionTypePanel,
+            };
+            guildTrekPanel.Click += delegate { guildTrekContent(); };
+            new Image(_guildTrekIcon)
+            {
+                Size = new Point(panelsize, panelsize),
+                Location = new Point(0, 0),
+                Parent = guildTrekPanel
+            };
+            new Label()
+            {
+                Text = "Trek",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = guildTrekPanel
+            };
+
+            var guildBountyPanel = new Panel()
+            {
+                ShowBorder = false,
+                Size = new Point(missionTypePanel.Width, panelsize),
+                Location = new Point(0, panelsize),
+                Parent = missionTypePanel,
+            };
+            guildBountyPanel.Click += delegate { lockedContent(); };
+            new Image(_guildBountyIcon)
+            {
+                Size = new Point(panelsize, panelsize),
+                Location = new Point(0, 0),
+                Parent = guildBountyPanel
+            };
+            new Label()
+            {
+                Text = "Bounty",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = guildBountyPanel
+            };
+            new Image(_wipIcon)
+            {
+                Size = new Point(40, 40),
+                Location = new Point(guildBountyPanel.Width - panelsize, 13),
+                Parent = guildBountyPanel
+            };
+
+            var guildRacePanel = new Panel()
+            {
+                ShowBorder = false,
+                Size = new Point(missionTypePanel.Width, panelsize),
+                Location = new Point(0, panelsize * 2),
+                Parent = missionTypePanel,
+            };
+            guildRacePanel.Click += delegate { lockedContent(); };
+            new Image(_guildRaceIcon)
+            {
+                Size = new Point(panelsize, panelsize),
+                Location = new Point(0, 0),
+                Parent = guildRacePanel
+            };
+            new Label()
+            {
+                Text = "Race",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = guildRacePanel
+            };
+            new Image(_wipIcon)
+            {
+                Size = new Point(40, 40),
+                Location = new Point(guildRacePanel.Width - panelsize, 13),
+                Parent = guildRacePanel
+            };
+
+            var guildChallengePanel = new Panel()
+            {
+                ShowBorder = false,
+                Size = new Point(missionTypePanel.Width, panelsize),
+                Location = new Point(0, panelsize * 3),
+                Parent = missionTypePanel,
+            };
+            guildChallengePanel.Click += delegate { lockedContent(); };
+            new Image(_guildChallengeIcon)
+            {
+                Size = new Point(panelsize, panelsize),
+                Location = new Point(0, 0),
+                Parent = guildChallengePanel
+            };
+            new Label()
+            {
+                Text = "Challenge",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = guildChallengePanel
+            };
+            new Image(_wipIcon)
+            {
+                Size = new Point(40, 40),
+                Location = new Point(guildChallengePanel.Width - panelsize, 13),
+                Parent = guildChallengePanel
+            };
+
+            var guildPuzzlePanel = new Panel()
+            {
+                ShowBorder = false,
+                Size = new Point(missionTypePanel.Width, panelsize),
+                Location = new Point(0, panelsize * 4),
+                Parent = missionTypePanel,
+            };
+            guildPuzzlePanel.Click += delegate { lockedContent(); };
+            new Image(_guildPuzzleIcon)
+            {
+                Size = new Point(panelsize, panelsize),
+                Location = new Point(0, 0),
+                Parent = guildPuzzlePanel
+            };
+            new Label()
+            {
+                Text = "Puzzle",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = guildPuzzlePanel
+            };
+            new Image(_wipIcon)
+            {
+                Size = new Point(40, 40),
+                Location = new Point(guildChallengePanel.Width - panelsize, 13),
+                Parent = guildPuzzlePanel
+            };
+
+
+            contentPanel = new Panel()
+            {
+                ShowBorder = false,
+                Size = new Point(parentPanel.Width - missionTypePanel.Right - RIGHT_MARGIN, parentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(missionTypePanel.Right + LEFT_MARGIN, TOP_MARGIN),
                 Parent = parentPanel,
             };
 
+            return parentPanel;
+        }
+
+        private void guildTrekContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_guildTrekIcon)
+            {
+                Size = new Point(72, 72),
+                Location = new Point(LEFT_MARGIN, 0),
+                Parent = contentPanel
+            };
+            new Label()
+            {
+                Text = "Trek",
+                Font = Content.DefaultFont32,
+                Location = new Point(82, 18),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = contentPanel
+            };
+
+            searchTextBox = new TextBox()
+            {
+                PlaceholderText = "Enter name here ...",
+                Size = new Point(358, 43),
+                Font = GameService.Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+            searchTextBox.TextChanged += SearchboxOnTextChanged;
+
+            trekListPanel = new Panel()
+            {
+                ShowBorder = true,
+                Title = "Search Results",
+                Size = new Point(364, contentPanel.Height - searchTextBox.Bottom - BOTTOM_MARGIN),
+                Location = new Point(LEFT_MARGIN - 3, searchTextBox.Bottom + TOP_MARGIN),
+                Parent = contentPanel,
+            };
 
             savedTrekListPanel = new Panel()
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Saved Guild Treks",
-                Size = new Point(400, parentPanel.Height - BOTTOM_MARGIN),
-                Location = new Point(parentPanel.Width - 400, searchTextBox.Bottom + TOP_MARGIN),
-                Parent = parentPanel,
+                Title = "Saved Treks",
+                Size = new Point(364, contentPanel.Height - searchTextBox.Bottom - BOTTOM_MARGIN),
+                Location = new Point(trekListPanel.Right + LEFT_MARGIN, searchTextBox.Bottom + TOP_MARGIN),
+                Parent = contentPanel,
             };
 
-            searchTextBox.TextChanged += SearchboxOnTextChanged;
+            var clearAllButton = new StandardButton()
+            {
+                Text = "Clear All",
+                Size = new Point(110, 30),
+                Location = new Point(trekListPanel.Right + 20, searchTextBox.Top - 1),
+                Parent = contentPanel,
+            };
+            clearAllButton.Click += delegate { ClearWPList(); };
 
-            return parentPanel;
+            new StandardButton()
+            {
+                Text = "Export",
+                Size = new Point(110, 30),
+                Location = new Point(trekListPanel.Right + 130 + LEFT_MARGIN, searchTextBox.Top - 1),
+                Parent = contentPanel,
+            };
+
+            new StandardButton()
+            {
+                Text = "Import",
+                Size = new Point(110, 30),
+                Location = new Point(trekListPanel.Right + 250 + LEFT_MARGIN, searchTextBox.Top - 1),
+                Parent = contentPanel,
+            };
+        }
+
+        private void lockedContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_lockedIcon)
+            {
+                Size = new Point(656, 680),
+                Location = new Point(contentPanel.Width / 2 - 328, contentPanel.Height / 2 - 340),
+                Parent = contentPanel
+            };
         }
 
         private void SearchboxOnTextChanged(object sender, EventArgs e)
@@ -150,8 +400,8 @@ namespace entrhopi.Guild_Missions
 
             foreach(var trek in doc.Root.Elements("trek"))
             {
-                //if (trek.Element("TrekName").Value.ToLower().StartsWith(searchText.ToLower()))
-                if (trek.Element("TrekName").Value.ToLower().Contains(searchText.ToLower()))
+                if (trek.Element("TrekName").Value.ToLower().StartsWith(searchText.ToLower()))
+                //if (trek.Element("TrekName").Value.ToLower().Contains(searchText.ToLower()))
                 {
                     AddTrekPanel(trek, trekListPanel, i, true, false);
 
@@ -212,15 +462,15 @@ namespace entrhopi.Guild_Missions
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
-                Title = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
+                //Title = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
                 Size = new Point(trekListPanel.Width, 70),
                 Location = new Point(LEFT_MARGIN, 5 + position * 70),
                 Parent = parent
             };
-            Image trekPanelWPImage = new Image(_wpTexture)
+            Image trekPanelWPImage = new Image(_waypointIcon)
             {
-                Size = new Point(30, 30),
-                Location = new Point(0, 0),
+                Size = new Point(50, 50),
+                Location = new Point(0, 4),
                 Parent = trekPanel
             };
             trekPanelWPImage.Click += delegate
@@ -239,9 +489,9 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = trek.Element("WaypointName").Value,
-                Font = Content.DefaultFont14,
-                Location = new Point(LEFT_MARGIN + 30, 5),
+                Text = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + 50, 3),
                 TextColor = Color.White,
                 ShadowColor = Color.Black,
                 ShowShadow = true,
@@ -249,13 +499,25 @@ namespace entrhopi.Guild_Missions
                 AutoSizeHeight = true,
                 Parent = trekPanel
             };
-
-            if(add)
+            new Label()
             {
-                Image addImage = new Image(_arrowRightIconTexture)
+                Text = trek.Element("WaypointName").Value,
+                Font = Content.DefaultFont14,
+                Location = new Point(LEFT_MARGIN + 50, 32),
+                TextColor = Color.Silver,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = trekPanel
+            };
+
+            if (add)
+            {
+                Image addImage = new Image(_rightArrowIcon)
                 {
-                    Size = new Point(20, 20),
-                    Location = new Point(trekListPanel.Width - 40, 4),
+                    Size = new Point(70, 70),
+                    Location = new Point(trekListPanel.Width - 70, -10),
                     Parent = trekPanel
                 };
                 addImage.Click += delegate { AddWPToList((int)trek.Element("TrekID"), (int)trek.Element("MapID")); };
