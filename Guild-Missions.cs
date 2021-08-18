@@ -32,7 +32,7 @@ namespace entrhopi.Guild_Missions
 
         private const int MAX_RESULT_COUNT = 7;
         
-        private Panel trekListPanel, savedTrekListPanel, contentPanel;
+        private Panel trekListPanel, savedTrekListPanel, contentPanel, raceListPanel;
         public List<Panel> resultPanels = new List<Panel>();
         Dictionary<int, int> savedGuildTreks = new Dictionary<int, int>();
 
@@ -192,7 +192,7 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(0, panelsize * 2),
                 Parent = missionTypePanel,
             };
-            guildRacePanel.Click += delegate { lockedContent(); };
+            guildRacePanel.Click += delegate { guildRaceContent(); };
             new Image(_guildRaceIcon)
             {
                 Size = new Point(panelsize, panelsize),
@@ -209,12 +209,6 @@ namespace entrhopi.Guild_Missions
                 ShowShadow = true,
                 AutoSizeWidth = true,
                 AutoSizeHeight = true,
-                Parent = guildRacePanel
-            };
-            new Image(_wipIcon)
-            {
-                Size = new Point(40, 40),
-                Location = new Point(guildRacePanel.Width - panelsize, 13),
                 Parent = guildRacePanel
             };
 
@@ -374,6 +368,61 @@ namespace entrhopi.Guild_Missions
             };
         }
 
+        private void guildRaceContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_guildRaceIcon)
+            {
+                Size = new Point(72, 72),
+                Location = new Point(LEFT_MARGIN, 0),
+                Parent = contentPanel
+            };
+            new Label()
+            {
+                Text = "Race",
+                Font = Content.DefaultFont32,
+                Location = new Point(82, 18),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = contentPanel
+            };
+
+            raceListPanel = new Panel()
+            {
+                ShowBorder = true,
+                Title = "List",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            new Panel()
+            {
+                CanScroll = true,
+                ShowBorder = true,
+                Title = "Info",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(raceListPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            // Dispose of current search result
+            raceListPanel.ClearChildren();
+
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildrace_data.xml"));
+
+            int i = 0;
+            foreach (var race in doc.Root.Elements("race"))
+            {
+                AddTrekPanel(race, raceListPanel, i, false, false);
+                i++;
+            }
+        }
+
         private void lockedContent()
         {
             contentPanel.ClearChildren();
@@ -400,8 +449,8 @@ namespace entrhopi.Guild_Missions
 
             foreach(var trek in doc.Root.Elements("trek"))
             {
-                if (trek.Element("TrekName").Value.ToLower().StartsWith(searchText.ToLower()))
-                //if (trek.Element("TrekName").Value.ToLower().Contains(searchText.ToLower()))
+                if (trek.Element("Name").Value.ToLower().StartsWith(searchText.ToLower()))
+                //if (trek.Element("Name").Value.ToLower().Contains(searchText.ToLower()))
                 {
                     AddTrekPanel(trek, trekListPanel, i, true, false);
 
@@ -445,7 +494,7 @@ namespace entrhopi.Guild_Missions
             {
                 // Grab trek data from xml
                 var trek = doc.Descendants("trek")
-                    .Where(x => x.Element("TrekID").Value == wp.Key.ToString())
+                    .Where(x => x.Element("ID").Value == wp.Key.ToString())
                     .FirstOrDefault();
 
                 if (trek == null) continue;
@@ -462,8 +511,8 @@ namespace entrhopi.Guild_Missions
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
-                //Title = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
-                Size = new Point(trekListPanel.Width, 70),
+                //Title = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
+                Size = new Point(parent.Width, 70),
                 Location = new Point(LEFT_MARGIN, 5 + position * 70),
                 Parent = parent
             };
@@ -475,7 +524,7 @@ namespace entrhopi.Guild_Missions
             };
             trekPanelWPImage.Click += delegate
             {
-                ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("TrekName").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
+                ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("Name").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
                 {
                     if (clipboardResult.IsFaulted)
                     {
@@ -489,7 +538,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = trek.Element("TrekName").Value + " (" + trek.Element("MapName").Value + ")",
+                Text = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + 50, 3),
                 TextColor = Color.White,
@@ -517,10 +566,10 @@ namespace entrhopi.Guild_Missions
                 Image addImage = new Image(_rightArrowIcon)
                 {
                     Size = new Point(70, 70),
-                    Location = new Point(trekListPanel.Width - 70, -10),
+                    Location = new Point(parent.Width - 70, -10),
                     Parent = trekPanel
                 };
-                addImage.Click += delegate { AddWPToList((int)trek.Element("TrekID"), (int)trek.Element("MapID")); };
+                addImage.Click += delegate { AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID")); };
             }
 
             if(remove)
@@ -528,10 +577,10 @@ namespace entrhopi.Guild_Missions
                 Image removeImage = new Image(_closeTexture)
                 {
                     Size = new Point(20, 20),
-                    Location = new Point(trekListPanel.Width - 40, 4),
+                    Location = new Point(parent.Width - 40, 4),
                     Parent = trekPanel
                 };
-                removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("TrekID")); };
+                removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("ID")); };
             }
         }
 

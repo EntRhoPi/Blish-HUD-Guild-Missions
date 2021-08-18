@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>
   <trek>
-    <TrekID>2</TrekID>
-    <TrekName>Altar Brook Lair</TrekName>
+    <ID>2</ID>
+    <Name>Altar Brook Lair</Name>
     <WaypointID>250</WaypointID>
     <WaypointName>Crossing Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPIAAAA=]</WaypointChatcode>
@@ -12,8 +12,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>72</TrekID>
-    <TrekName>Anthem&apos;s Hold</TrekName>
+    <ID>72</ID>
+    <Name>Anthem&apos;s Hold</Name>
     <WaypointID>574</WaypointID>
     <WaypointName>Shipwreck Rock Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
@@ -23,8 +23,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>3</TrekID>
-    <TrekName>Anya&apos;s Patch</TrekName>
+    <ID>3</ID>
+    <Name>Anya&apos;s Patch</Name>
     <WaypointID>24</WaypointID>
     <WaypointName>Nolan Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BN4AAAA=]</WaypointChatcode>
@@ -34,8 +34,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>4</TrekID>
-    <TrekName>Arctodus Haunt</TrekName>
+    <ID>4</ID>
+    <Name>Arctodus Haunt</Name>
     <WaypointID>480</WaypointID>
     <WaypointName>Vendrake&apos;s Homestead Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BH4BAAA=]</WaypointChatcode>
@@ -45,8 +45,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>69</TrekID>
-    <TrekName>Backroot Fountain</TrekName>
+    <ID>69</ID>
+    <Name>Backroot Fountain</Name>
     <WaypointID>560</WaypointID>
     <WaypointName>Reckoner&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
@@ -56,8 +56,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>41</TrekID>
-    <TrekName>Badjelly Kelpbed</TrekName>
+    <ID>41</ID>
+    <Name>Badjelly Kelpbed</Name>
     <WaypointID>452</WaypointID>
     <WaypointName>Exile Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLwAAAA=]</WaypointChatcode>
@@ -67,8 +67,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>7</TrekID>
-    <TrekName>Bandit&apos;s Cabbage Patch</TrekName>
+    <ID>7</ID>
+    <Name>Bandit&apos;s Cabbage Patch</Name>
     <WaypointID>216</WaypointID>
     <WaypointName>Wynchona Rally Point Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKgAAAA=]</WaypointChatcode>
@@ -78,8 +78,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>9</TrekID>
-    <TrekName>Beetlestone Mirador</TrekName>
+    <ID>9</ID>
+    <Name>Beetlestone Mirador</Name>
     <WaypointID>253</WaypointID>
     <WaypointName>Beetletun Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPoAAAA=]</WaypointChatcode>
@@ -89,8 +89,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>130</TrekID>
-    <TrekName>Black Lion Root Cellar</TrekName>
+    <ID>130</ID>
+    <Name>Black Lion Root Cellar</Name>
     <WaypointID>560</WaypointID>
     <WaypointName>Reckoner&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
@@ -100,8 +100,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>129</TrekID>
-    <TrekName>Blackblade Butte</TrekName>
+    <ID>129</ID>
+    <Name>Blackblade Butte</Name>
     <WaypointID>22</WaypointID>
     <WaypointName>Font of Rhand Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNwAAAA=]</WaypointChatcode>
@@ -111,8 +111,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>168</TrekID>
-    <TrekName>Blasted Sepulchre</TrekName>
+    <ID>168</ID>
+    <Name>Blasted Sepulchre</Name>
     <WaypointID>20</WaypointID>
     <WaypointName>Blasted Moors Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNoAAAA=]</WaypointChatcode>
@@ -122,8 +122,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>10</TrekID>
-    <TrekName>Blood Ooze Gallery</TrekName>
+    <ID>10</ID>
+    <Name>Blood Ooze Gallery</Name>
     <WaypointID>176</WaypointID>
     <WaypointName>Mournful Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
@@ -133,8 +133,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>11</TrekID>
-    <TrekName>Bluup&apos;s Comeuppance</TrekName>
+    <ID>11</ID>
+    <Name>Bluup&apos;s Comeuppance</Name>
     <WaypointID>553</WaypointID>
     <WaypointName>Research Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLgEAAA=]</WaypointChatcode>
@@ -144,8 +144,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>12</TrekID>
-    <TrekName>Brandstrike Dig</TrekName>
+    <ID>12</ID>
+    <Name>Brandstrike Dig</Name>
     <WaypointID>88</WaypointID>
     <WaypointName>Helliot Mine Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEsBAAA=]</WaypointChatcode>
@@ -155,8 +155,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>180</TrekID>
-    <TrekName>Briarthorn Barrier</TrekName>
+    <ID>180</ID>
+    <Name>Briarthorn Barrier</Name>
     <WaypointID>281</WaypointID>
     <WaypointName>Spiral Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BDUBAAA=]</WaypointChatcode>
@@ -166,8 +166,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>131</TrekID>
-    <TrekName>Broken Falls Courtyard</TrekName>
+    <ID>131</ID>
+    <Name>Broken Falls Courtyard</Name>
     <WaypointID>507</WaypointID>
     <WaypointName>Ruins of Rin Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
@@ -177,8 +177,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>15</TrekID>
-    <TrekName>Broodmother Falls</TrekName>
+    <ID>15</ID>
+    <Name>Broodmother Falls</Name>
     <WaypointID>420</WaypointID>
     <WaypointName>Yak&apos;s Bend Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIQCAAA=]</WaypointChatcode>
@@ -188,8 +188,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>14</TrekID>
-    <TrekName>Brother&apos;s Notch</TrekName>
+    <ID>14</ID>
+    <Name>Brother&apos;s Notch</Name>
     <WaypointID>534</WaypointID>
     <WaypointName>Hero&apos;s Compass Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
@@ -199,8 +199,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>119</TrekID>
-    <TrekName>Burstbubble Blind</TrekName>
+    <ID>119</ID>
+    <Name>Burstbubble Blind</Name>
     <WaypointID>18</WaypointID>
     <WaypointName>Soot Road Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFIDAAA=]</WaypointChatcode>
@@ -210,8 +210,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>172</TrekID>
-    <TrekName>Cache of the Pursued</TrekName>
+    <ID>172</ID>
+    <Name>Cache of the Pursued</Name>
     <WaypointID>572</WaypointID>
     <WaypointName>Caer Shadowfain Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCEDAAA=]</WaypointChatcode>
@@ -221,8 +221,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>16</TrekID>
-    <TrekName>Cademkrall Overlook</TrekName>
+    <ID>16</ID>
+    <Name>Cademkrall Overlook</Name>
     <WaypointID>67</WaypointID>
     <WaypointName>Watchcrag Tower Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIgBAAA=]</WaypointChatcode>
@@ -232,8 +232,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>98</TrekID>
-    <TrekName>Canyonweb Cave</TrekName>
+    <ID>98</ID>
+    <Name>Canyonweb Cave</Name>
     <WaypointID>12</WaypointID>
     <WaypointName>Brandview Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAQCAAA=]</WaypointChatcode>
@@ -243,8 +243,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>81</TrekID>
-    <TrekName>Captain&apos;s Berth</TrekName>
+    <ID>81</ID>
+    <Name>Captain&apos;s Berth</Name>
     <WaypointID>362</WaypointID>
     <WaypointName>Lights Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
@@ -254,8 +254,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>17</TrekID>
-    <TrekName>Castavall Corner</TrekName>
+    <ID>17</ID>
+    <Name>Castavall Corner</Name>
     <WaypointID>176</WaypointID>
     <WaypointName>Mournful Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK0BAAA=]</WaypointChatcode>
@@ -265,8 +265,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>78</TrekID>
-    <TrekName>Cathedral&apos;s Cavity</TrekName>
+    <ID>78</ID>
+    <Name>Cathedral&apos;s Cavity</Name>
     <WaypointID>358</WaypointID>
     <WaypointName>Wren Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKwCAAA=]</WaypointChatcode>
@@ -276,8 +276,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>70</TrekID>
-    <TrekName>Cave Bear Cache</TrekName>
+    <ID>70</ID>
+    <Name>Cave Bear Cache</Name>
     <WaypointID>442</WaypointID>
     <WaypointName>Snowhawk Landing Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
@@ -287,8 +287,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>71</TrekID>
-    <TrekName>Cave Spider Nidus</TrekName>
+    <ID>71</ID>
+    <Name>Cave Spider Nidus</Name>
     <WaypointID>429</WaypointID>
     <WaypointName>Pinnacle Enclave Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJgBAAA=]</WaypointChatcode>
@@ -298,8 +298,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>158</TrekID>
-    <TrekName>Claypool Bailey</TrekName>
+    <ID>158</ID>
+    <Name>Claypool Bailey</Name>
     <WaypointID>258</WaypointID>
     <WaypointName>Claypool Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPYAAAA=]</WaypointChatcode>
@@ -309,8 +309,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>148</TrekID>
-    <TrekName>Constellation Parapet</TrekName>
+    <ID>148</ID>
+    <Name>Constellation Parapet</Name>
     <WaypointID>560</WaypointID>
     <WaypointName>Reckoner&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLsEAAA=]</WaypointChatcode>
@@ -320,8 +320,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>185</TrekID>
-    <TrekName>Corruption&apos;s Teeth</TrekName>
+    <ID>185</ID>
+    <Name>Corruption&apos;s Teeth</Name>
     <WaypointID>422</WaypointID>
     <WaypointName>Drakkar Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIYCAAA=]</WaypointChatcode>
@@ -331,8 +331,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>18</TrekID>
-    <TrekName>Covington&apos;s Stowage</TrekName>
+    <ID>18</ID>
+    <Name>Covington&apos;s Stowage</Name>
     <WaypointID>180</WaypointID>
     <WaypointName>Laughing Gull Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKgBAAA=]</WaypointChatcode>
@@ -342,8 +342,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>62</TrekID>
-    <TrekName>Cutthroat&apos;s Rest</TrekName>
+    <ID>62</ID>
+    <Name>Cutthroat&apos;s Rest</Name>
     <WaypointID>202</WaypointID>
     <WaypointName>Brigantine Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BM0DAAA=]</WaypointChatcode>
@@ -353,8 +353,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>19</TrekID>
-    <TrekName>Cymbel&apos;s Glen</TrekName>
+    <ID>19</ID>
+    <Name>Cymbel&apos;s Glen</Name>
     <WaypointID>95</WaypointID>
     <WaypointName>Deathblade&apos;s Watch Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNQAAAA=]</WaypointChatcode>
@@ -364,8 +364,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>94</TrekID>
-    <TrekName>Dawngleam Pergola</TrekName>
+    <ID>94</ID>
+    <Name>Dawngleam Pergola</Name>
     <WaypointID>561</WaypointID>
     <WaypointName>Ronan&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLwEAAA=]</WaypointChatcode>
@@ -375,8 +375,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>157</TrekID>
-    <TrekName>Deepmire Diver</TrekName>
+    <ID>157</ID>
+    <Name>Deepmire Diver</Name>
     <WaypointID>317</WaypointID>
     <WaypointName>Oxbow Isle Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNECAAA=]</WaypointChatcode>
@@ -386,8 +386,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>29</TrekID>
-    <TrekName>Defiled Delve</TrekName>
+    <ID>29</ID>
+    <Name>Defiled Delve</Name>
     <WaypointID>235</WaypointID>
     <WaypointName>Darkwound Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
@@ -397,8 +397,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>6</TrekID>
-    <TrekName>Delight&apos;s Balcony</TrekName>
+    <ID>6</ID>
+    <Name>Delight&apos;s Balcony</Name>
     <WaypointID>359</WaypointID>
     <WaypointName>Pagga&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKYCAAA=]</WaypointChatcode>
@@ -408,8 +408,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>143</TrekID>
-    <TrekName>Destiny&apos;s Guildhall</TrekName>
+    <ID>143</ID>
+    <Name>Destiny&apos;s Guildhall</Name>
     <WaypointID>245</WaypointID>
     <WaypointName>Shaemoor Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BO8AAAA=]</WaypointChatcode>
@@ -419,8 +419,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>128</TrekID>
-    <TrekName>Dirtclaw Cleft</TrekName>
+    <ID>128</ID>
+    <Name>Dirtclaw Cleft</Name>
     <WaypointID>56</WaypointID>
     <WaypointName>Bloodfin Lake Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOMBAAA=]</WaypointChatcode>
@@ -430,8 +430,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>20</TrekID>
-    <TrekName>Doefalls Court</TrekName>
+    <ID>20</ID>
+    <Name>Doefalls Court</Name>
     <WaypointID>65</WaypointID>
     <WaypointName>Ascalon City Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIcBAAA=]</WaypointChatcode>
@@ -441,8 +441,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>88</TrekID>
-    <TrekName>Drakecleft Shelf</TrekName>
+    <ID>88</ID>
+    <Name>Drakecleft Shelf</Name>
     <WaypointID>89</WaypointID>
     <WaypointName>Fangfury Watch Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEwBAAA=]</WaypointChatcode>
@@ -452,8 +452,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>87</TrekID>
-    <TrekName>Drakehatch Shore</TrekName>
+    <ID>87</ID>
+    <Name>Drakehatch Shore</Name>
     <WaypointID>31</WaypointID>
     <WaypointName>Breachwater Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGQBAAA=]</WaypointChatcode>
@@ -463,8 +463,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>25</TrekID>
-    <TrekName>Droknah&apos;s Gate</TrekName>
+    <ID>25</ID>
+    <Name>Droknah&apos;s Gate</Name>
     <WaypointID>320</WaypointID>
     <WaypointName>Old Sledge Site Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
@@ -474,8 +474,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>105</TrekID>
-    <TrekName>Drowned Plaza</TrekName>
+    <ID>105</ID>
+    <Name>Drowned Plaza</Name>
     <WaypointID>377</WaypointID>
     <WaypointName>Royal Forum Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPMCAAA=]</WaypointChatcode>
@@ -485,8 +485,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>102</TrekID>
-    <TrekName>East End Falls</TrekName>
+    <ID>102</ID>
+    <Name>East End Falls</Name>
     <WaypointID>263</WaypointID>
     <WaypointName>East End Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGAAAAA=]</WaypointChatcode>
@@ -496,8 +496,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>103</TrekID>
-    <TrekName>Eastlurk Alley</TrekName>
+    <ID>103</ID>
+    <Name>Eastlurk Alley</Name>
     <WaypointID>514</WaypointID>
     <WaypointName>Dwayna Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCMDAAA=]</WaypointChatcode>
@@ -507,8 +507,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>28</TrekID>
-    <TrekName>Elise&apos;s Surprise</TrekName>
+    <ID>28</ID>
+    <Name>Elise&apos;s Surprise</Name>
     <WaypointID>219</WaypointID>
     <WaypointName>Demetra Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKsAAAA=]</WaypointChatcode>
@@ -518,8 +518,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>33</TrekID>
-    <TrekName>Ettinbreath Lair</TrekName>
+    <ID>33</ID>
+    <Name>Ettinbreath Lair</Name>
     <WaypointID>439</WaypointID>
     <WaypointName>Demon&apos;s Maw Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOYAAAA=]</WaypointChatcode>
@@ -529,8 +529,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>47</TrekID>
-    <TrekName>Fathom Five Forcefield</TrekName>
+    <ID>47</ID>
+    <Name>Fathom Five Forcefield</Name>
     <WaypointID>375</WaypointID>
     <WaypointName>Vesper Bell Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPICAAA=]</WaypointChatcode>
@@ -540,8 +540,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>36</TrekID>
-    <TrekName>Fawcett&apos;s Porch</TrekName>
+    <ID>36</ID>
+    <Name>Fawcett&apos;s Porch</Name>
     <WaypointID>226</WaypointID>
     <WaypointName>Arcallion Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMMAAAA=]</WaypointChatcode>
@@ -551,8 +551,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>38</TrekID>
-    <TrekName>Fire Imp Pocket</TrekName>
+    <ID>38</ID>
+    <Name>Fire Imp Pocket</Name>
     <WaypointID>307</WaypointID>
     <WaypointName>Maelstrom&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BM0CAAA=]</WaypointChatcode>
@@ -562,8 +562,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>37</TrekID>
-    <TrekName>Firefrog Springs</TrekName>
+    <ID>37</ID>
+    <Name>Firefrog Springs</Name>
     <WaypointID>336</WaypointID>
     <WaypointName>Flamefrog Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMwBAAA=]</WaypointChatcode>
@@ -573,8 +573,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>39</TrekID>
-    <TrekName>Firewatch Flybridge</TrekName>
+    <ID>39</ID>
+    <Name>Firewatch Flybridge</Name>
     <WaypointID>49</WaypointID>
     <WaypointName>Firewatch Encampment Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BO0BAAA=]</WaypointChatcode>
@@ -584,8 +584,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>40</TrekID>
-    <TrekName>Fisher&apos;s Crag</TrekName>
+    <ID>40</ID>
+    <Name>Fisher&apos;s Crag</Name>
     <WaypointID>299</WaypointID>
     <WaypointName>Old Golem Factory Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK4EAAA=]</WaypointChatcode>
@@ -595,8 +595,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>42</TrekID>
-    <TrekName>Flakk&apos;s Lapidary Nook</TrekName>
+    <ID>42</ID>
+    <Name>Flakk&apos;s Lapidary Nook</Name>
     <WaypointID>557</WaypointID>
     <WaypointName>Accountancy Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLYEAAA=]</WaypointChatcode>
@@ -606,8 +606,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>1</TrekID>
-    <TrekName>Forager&apos;s Midden</TrekName>
+    <ID>1</ID>
+    <Name>Forager&apos;s Midden</Name>
     <WaypointID>397</WaypointID>
     <WaypointName>Steelbrachen Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
@@ -617,8 +617,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>167</TrekID>
-    <TrekName>Forbidden Shear</TrekName>
+    <ID>167</ID>
+    <Name>Forbidden Shear</Name>
     <WaypointID>577</WaypointID>
     <WaypointName>Murmur Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK8CAAA=]</WaypointChatcode>
@@ -628,8 +628,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>171</TrekID>
-    <TrekName>Foreman&apos;s Recess</TrekName>
+    <ID>171</ID>
+    <Name>Foreman&apos;s Recess</Name>
     <WaypointID>394</WaypointID>
     <WaypointName>Dociu Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFgCAAA=]</WaypointChatcode>
@@ -639,8 +639,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>169</TrekID>
-    <TrekName>Forgotten Grotto</TrekName>
+    <ID>169</ID>
+    <Name>Forgotten Grotto</Name>
     <WaypointID>9</WaypointID>
     <WaypointName>Terra Carorunda Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAECAAA=]</WaypointChatcode>
@@ -650,8 +650,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>43</TrekID>
-    <TrekName>Founder&apos;s Flagon Hearth</TrekName>
+    <ID>43</ID>
+    <Name>Founder&apos;s Flagon Hearth</Name>
     <WaypointID>81</WaypointID>
     <WaypointName>Kestrel Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BD0EAAA=]</WaypointChatcode>
@@ -661,8 +661,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>45</TrekID>
-    <TrekName>Freestand Scaffold</TrekName>
+    <ID>45</ID>
+    <Name>Freestand Scaffold</Name>
     <WaypointID>507</WaypointID>
     <WaypointName>Ruins of Rin Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKwDAAA=]</WaypointChatcode>
@@ -672,8 +672,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>51</TrekID>
-    <TrekName>Frozen Antrum</TrekName>
+    <ID>51</ID>
+    <Name>Frozen Antrum</Name>
     <WaypointID>461</WaypointID>
     <WaypointName>White Paper Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BE8CAAA=]</WaypointChatcode>
@@ -683,8 +683,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>48</TrekID>
-    <TrekName>Gallow Canyons</TrekName>
+    <ID>48</ID>
+    <Name>Gallow Canyons</Name>
     <WaypointID>266</WaypointID>
     <WaypointName>Gallowfields Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGMAAAA=]</WaypointChatcode>
@@ -694,8 +694,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>49</TrekID>
-    <TrekName>Gardenroot Alcove</TrekName>
+    <ID>49</ID>
+    <Name>Gardenroot Alcove</Name>
     <WaypointID>559</WaypointID>
     <WaypointName>Upper Commons Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLoEAAA=]</WaypointChatcode>
@@ -705,8 +705,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>55</TrekID>
-    <TrekName>Gnashar&apos;s Viewpoint</TrekName>
+    <ID>55</ID>
+    <Name>Gnashar&apos;s Viewpoint</Name>
     <WaypointID>259</WaypointID>
     <WaypointName>Wendon Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BF0AAAA=]</WaypointChatcode>
@@ -716,8 +716,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>59</TrekID>
-    <TrekName>Green Moa Paddock</TrekName>
+    <ID>59</ID>
+    <Name>Green Moa Paddock</Name>
     <WaypointID>282</WaypointID>
     <WaypointName>Caledon Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
@@ -727,8 +727,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>58</TrekID>
-    <TrekName>Grenth&apos;s Pavillion</TrekName>
+    <ID>58</ID>
+    <Name>Grenth&apos;s Pavillion</Name>
     <WaypointID>516</WaypointID>
     <WaypointName>Grenth Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCQDAAA=]</WaypointChatcode>
@@ -738,8 +738,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>56</TrekID>
-    <TrekName>Grimdottir&apos;s Duty</TrekName>
+    <ID>56</ID>
+    <Name>Grimdottir&apos;s Duty</Name>
     <WaypointID>530</WaypointID>
     <WaypointName>Shelter Rock Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIsDAAA=]</WaypointChatcode>
@@ -749,8 +749,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>162</TrekID>
-    <TrekName>Guardian Overwatch</TrekName>
+    <ID>162</ID>
+    <Name>Guardian Overwatch</Name>
     <WaypointID>212</WaypointID>
     <WaypointName>Barricade Camp Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK0AAAA=]</WaypointChatcode>
@@ -760,8 +760,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>34</TrekID>
-    <TrekName>Hawkeye Perch</TrekName>
+    <ID>34</ID>
+    <Name>Hawkeye Perch</Name>
     <WaypointID>468</WaypointID>
     <WaypointName>Serpent Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEUCAAA=]</WaypointChatcode>
@@ -771,8 +771,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>150</TrekID>
-    <TrekName>Heart Speaks Notch</TrekName>
+    <ID>150</ID>
+    <Name>Heart Speaks Notch</Name>
     <WaypointID>98</WaypointID>
     <WaypointName>Apostate Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
@@ -782,8 +782,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>67</TrekID>
-    <TrekName>Heartwood Honey Cache</TrekName>
+    <ID>67</ID>
+    <Name>Heartwood Honey Cache</Name>
     <WaypointID>252</WaypointID>
     <WaypointName>Phinney Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPMAAAA=]</WaypointChatcode>
@@ -793,8 +793,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>65</TrekID>
-    <TrekName>Heidi&apos;s Showpiece</TrekName>
+    <ID>65</ID>
+    <Name>Heidi&apos;s Showpiece</Name>
     <WaypointID>215</WaypointID>
     <WaypointName>Seraph&apos;s Landing Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKcAAAA=]</WaypointChatcode>
@@ -804,8 +804,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>31</TrekID>
-    <TrekName>Hermit&apos;s Roost</TrekName>
+    <ID>31</ID>
+    <Name>Hermit&apos;s Roost</Name>
     <WaypointID>93</WaypointID>
     <WaypointName>Rosko&apos;s Campsite Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNgAAAA=]</WaypointChatcode>
@@ -815,8 +815,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>170</TrekID>
-    <TrekName>Hidden Owl Distillery</TrekName>
+    <ID>170</ID>
+    <Name>Hidden Owl Distillery</Name>
     <WaypointID>456</WaypointID>
     <WaypointName>Owl Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMEAAAA=]</WaypointChatcode>
@@ -826,8 +826,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>66</TrekID>
-    <TrekName>Holystone Sanctum</TrekName>
+    <ID>66</ID>
+    <Name>Holystone Sanctum</Name>
     <WaypointID>34</WaypointID>
     <WaypointName>Sanctum Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMUDAAA=]</WaypointChatcode>
@@ -837,8 +837,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>27</TrekID>
-    <TrekName>Icewurm Trench</TrekName>
+    <ID>27</ID>
+    <Name>Icewurm Trench</Name>
     <WaypointID>410</WaypointID>
     <WaypointName>Dimotiki Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BH8CAAA=]</WaypointChatcode>
@@ -848,8 +848,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>50</TrekID>
-    <TrekName>Ideation Leap</TrekName>
+    <ID>50</ID>
+    <Name>Ideation Leap</Name>
     <WaypointID>556</WaypointID>
     <WaypointName>Incubation Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLUEAAA=]</WaypointChatcode>
@@ -859,8 +859,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>80</TrekID>
-    <TrekName>Imphaunt Hallow</TrekName>
+    <ID>80</ID>
+    <Name>Imphaunt Hallow</Name>
     <WaypointID>285</WaypointID>
     <WaypointName>Wychmire Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEEBAAA=]</WaypointChatcode>
@@ -870,8 +870,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>26</TrekID>
-    <TrekName>Irondock Viewpoint</TrekName>
+    <ID>26</ID>
+    <Name>Irondock Viewpoint</Name>
     <WaypointID>69</WaypointID>
     <WaypointName>Duskrend Overlook Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIkBAAA=]</WaypointChatcode>
@@ -881,8 +881,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>73</TrekID>
-    <TrekName>Isenfell Wash</TrekName>
+    <ID>73</ID>
+    <Name>Isenfell Wash</Name>
     <WaypointID>445</WaypointID>
     <WaypointName>Isenfall Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLgAAAA=]</WaypointChatcode>
@@ -892,8 +892,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>74</TrekID>
-    <TrekName>Isgarren Viewpoint</TrekName>
+    <ID>74</ID>
+    <Name>Isgarren Viewpoint</Name>
     <WaypointID>235</WaypointID>
     <WaypointName>Darkwound Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBEAAAA=]</WaypointChatcode>
@@ -903,8 +903,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>75</TrekID>
-    <TrekName>Jaguar Pride Den</TrekName>
+    <ID>75</ID>
+    <Name>Jaguar Pride Den</Name>
     <WaypointID>291</WaypointID>
     <WaypointName>Muridian Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
@@ -914,8 +914,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>117</TrekID>
-    <TrekName>Junker&apos;s Apex</TrekName>
+    <ID>117</ID>
+    <Name>Junker&apos;s Apex</Name>
     <WaypointID>498</WaypointID>
     <WaypointName>Junker&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BDcEAAA=]</WaypointChatcode>
@@ -925,8 +925,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>76</TrekID>
-    <TrekName>Kaldar&apos;s Hot Seat</TrekName>
+    <ID>76</ID>
+    <Name>Kaldar&apos;s Hot Seat</Name>
     <WaypointID>523</WaypointID>
     <WaypointName>Eastern Watchpost Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BI0DAAA=]</WaypointChatcode>
@@ -936,8 +936,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>77</TrekID>
-    <TrekName>Kari&apos;s Hot Spot</TrekName>
+    <ID>77</ID>
+    <Name>Kari&apos;s Hot Spot</Name>
     <WaypointID>236</WaypointID>
     <WaypointName>Cereboth Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBIAAAA=]</WaypointChatcode>
@@ -947,8 +947,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>35</TrekID>
-    <TrekName>Kegbrawl Watch</TrekName>
+    <ID>35</ID>
+    <Name>Kegbrawl Watch</Name>
     <WaypointID>534</WaypointID>
     <WaypointName>Hero&apos;s Compass Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJADAAA=]</WaypointChatcode>
@@ -958,8 +958,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>79</TrekID>
-    <TrekName>Kevach&apos;s Strongroom</TrekName>
+    <ID>79</ID>
+    <Name>Kevach&apos;s Strongroom</Name>
     <WaypointID>492</WaypointID>
     <WaypointName>Lostvyrm Cave Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMEDAAA=]</WaypointChatcode>
@@ -969,8 +969,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>132</TrekID>
-    <TrekName>Lakebottom Underpass</TrekName>
+    <ID>132</ID>
+    <Name>Lakebottom Underpass</Name>
     <WaypointID>251</WaypointID>
     <WaypointName>Ojon&apos;s Lumbermill Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPkAAAA=]</WaypointChatcode>
@@ -980,8 +980,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>82</TrekID>
-    <TrekName>Lawen Grotto</TrekName>
+    <ID>82</ID>
+    <Name>Lawen Grotto</Name>
     <WaypointID>194</WaypointID>
     <WaypointName>First Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
@@ -991,8 +991,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>85</TrekID>
-    <TrekName>Lightfoot Dock</TrekName>
+    <ID>85</ID>
+    <Name>Lightfoot Dock</Name>
     <WaypointID>371</WaypointID>
     <WaypointName>Thunderhead Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPACAAA=]</WaypointChatcode>
@@ -1002,8 +1002,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>86</TrekID>
-    <TrekName>Lily&apos;s Bivvy</TrekName>
+    <ID>86</ID>
+    <Name>Lily&apos;s Bivvy</Name>
     <WaypointID>41</WaypointID>
     <WaypointName>Icespear&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCACAAA=]</WaypointChatcode>
@@ -1013,8 +1013,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>89</TrekID>
-    <TrekName>Lionguard Larder</TrekName>
+    <ID>89</ID>
+    <Name>Lionguard Larder</Name>
     <WaypointID>479</WaypointID>
     <WaypointName>Twinspur Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BH0BAAA=]</WaypointChatcode>
@@ -1024,8 +1024,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>84</TrekID>
-    <TrekName>Lychcroft Wardenship</TrekName>
+    <ID>84</ID>
+    <Name>Lychcroft Wardenship</Name>
     <WaypointID>232</WaypointID>
     <WaypointName>Shadowheart Site Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAwAAAA=]</WaypointChatcode>
@@ -1035,8 +1035,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>90</TrekID>
-    <TrekName>Magihedron Corner</TrekName>
+    <ID>90</ID>
+    <Name>Magihedron Corner</Name>
     <WaypointID>550</WaypointID>
     <WaypointName>Metrical Court Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBMEAAA=]</WaypointChatcode>
@@ -1046,8 +1046,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>63</TrekID>
-    <TrekName>Master Control LIN39</TrekName>
+    <ID>63</ID>
+    <Name>Master Control LIN39</Name>
     <WaypointID>291</WaypointID>
     <WaypointName>Muridian Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
@@ -1057,8 +1057,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>92</TrekID>
-    <TrekName>Melandru&apos;s Fount</TrekName>
+    <ID>92</ID>
+    <Name>Melandru&apos;s Fount</Name>
     <WaypointID>511</WaypointID>
     <WaypointName>Melandru Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCcDAAA=]</WaypointChatcode>
@@ -1068,8 +1068,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>127</TrekID>
-    <TrekName>Meltwater Cave</TrekName>
+    <ID>127</ID>
+    <Name>Meltwater Cave</Name>
     <WaypointID>463</WaypointID>
     <WaypointName>Scale Strand Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEgCAAA=]</WaypointChatcode>
@@ -1079,8 +1079,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>93</TrekID>
-    <TrekName>Minar&apos;s Target Shoot</TrekName>
+    <ID>93</ID>
+    <Name>Minar&apos;s Target Shoot</Name>
     <WaypointID>515</WaypointID>
     <WaypointName>Commons Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCoDAAA=]</WaypointChatcode>
@@ -1090,8 +1090,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>96</TrekID>
-    <TrekName>Mistriven Shelf</TrekName>
+    <ID>96</ID>
+    <Name>Mistriven Shelf</Name>
     <WaypointID>430</WaypointID>
     <WaypointName>Mistriven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJkBAAA=]</WaypointChatcode>
@@ -1101,8 +1101,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>91</TrekID>
-    <TrekName>Moleberia Prison</TrekName>
+    <ID>91</ID>
+    <Name>Moleberia Prison</Name>
     <WaypointID>482</WaypointID>
     <WaypointName>Halvaunt Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BHgBAAA=]</WaypointChatcode>
@@ -1112,8 +1112,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>95</TrekID>
-    <TrekName>Monument to the Ancient One</TrekName>
+    <ID>95</ID>
+    <Name>Monument to the Ancient One</Name>
     <WaypointID>385</WaypointID>
     <WaypointName>Owain&apos;s Refuge Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNgGAAA=]</WaypointChatcode>
@@ -1123,8 +1123,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>30</TrekID>
-    <TrekName>Narrowkraal Crossing</TrekName>
+    <ID>30</ID>
+    <Name>Narrowkraal Crossing</Name>
     <WaypointID>86</WaypointID>
     <WaypointName>Ogre Road Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BE8BAAA=]</WaypointChatcode>
@@ -1134,8 +1134,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>97</TrekID>
-    <TrekName>Necrolith Landing</TrekName>
+    <ID>97</ID>
+    <Name>Necrolith Landing</Name>
     <WaypointID>558</WaypointID>
     <WaypointName>Caledon Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBIEAAA=]</WaypointChatcode>
@@ -1145,8 +1145,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>32</TrekID>
-    <TrekName>Orecart Hoist</TrekName>
+    <ID>32</ID>
+    <Name>Orecart Hoist</Name>
     <WaypointID>101</WaypointID>
     <WaypointName>Pig Iron Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBcCAAA=]</WaypointChatcode>
@@ -1156,8 +1156,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>100</TrekID>
-    <TrekName>Orvanic Sourcewaters</TrekName>
+    <ID>100</ID>
+    <Name>Orvanic Sourcewaters</Name>
     <WaypointID>331</WaypointID>
     <WaypointName>Ocean&apos;s Gullet Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMkBAAA=]</WaypointChatcode>
@@ -1167,8 +1167,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>101</TrekID>
-    <TrekName>Osenfold Counterweights</TrekName>
+    <ID>101</ID>
+    <Name>Osenfold Counterweights</Name>
     <WaypointID>478</WaypointID>
     <WaypointName>Osenfold Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAEEAAA=]</WaypointChatcode>
@@ -1178,8 +1178,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>99</TrekID>
-    <TrekName>Overlord Lodge</TrekName>
+    <ID>99</ID>
+    <Name>Overlord Lodge</Name>
     <WaypointID>231</WaypointID>
     <WaypointName>Overlord&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAQAAAA=]</WaypointChatcode>
@@ -1189,8 +1189,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>104</TrekID>
-    <TrekName>Phasmatis Prospect</TrekName>
+    <ID>104</ID>
+    <Name>Phasmatis Prospect</Name>
     <WaypointID>71</WaypointID>
     <WaypointName>Irondock Shipyard Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIoBAAA=]</WaypointChatcode>
@@ -1200,8 +1200,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>106</TrekID>
-    <TrekName>Pochtecatl&apos;s Desire</TrekName>
+    <ID>106</ID>
+    <Name>Pochtecatl&apos;s Desire</Name>
     <WaypointID>178</WaypointID>
     <WaypointName>Jelako Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK8BAAA=]</WaypointChatcode>
@@ -1211,8 +1211,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>46</TrekID>
-    <TrekName>Port Authority Lost and Found</TrekName>
+    <ID>46</ID>
+    <Name>Port Authority Lost and Found</Name>
     <WaypointID>549</WaypointID>
     <WaypointName>Port Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BAcFAAA=]</WaypointChatcode>
@@ -1222,8 +1222,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>107</TrekID>
-    <TrekName>Portmatt&apos;s Promontory</TrekName>
+    <ID>107</ID>
+    <Name>Portmatt&apos;s Promontory</Name>
     <WaypointID>184</WaypointID>
     <WaypointName>Sorrowful Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKQBAAA=]</WaypointChatcode>
@@ -1233,8 +1233,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>108</TrekID>
-    <TrekName>Provatum Carcer</TrekName>
+    <ID>108</ID>
+    <Name>Provatum Carcer</Name>
     <WaypointID>47</WaypointID>
     <WaypointName>Keeper&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCYCAAA=]</WaypointChatcode>
@@ -1244,8 +1244,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>176</TrekID>
-    <TrekName>Ramview Peak</TrekName>
+    <ID>176</ID>
+    <Name>Ramview Peak</Name>
     <WaypointID>404</WaypointID>
     <WaypointName>Travelen&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGQCAAA=]</WaypointChatcode>
@@ -1255,8 +1255,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>112</TrekID>
-    <TrekName>Raptor&apos;s Aerie</TrekName>
+    <ID>112</ID>
+    <Name>Raptor&apos;s Aerie</Name>
     <WaypointID>59</WaypointID>
     <WaypointName>Town of Cowlfang&apos;s Star Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOsBAAA=]</WaypointChatcode>
@@ -1266,8 +1266,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>113</TrekID>
-    <TrekName>Raptor&apos;s Perch</TrekName>
+    <ID>113</ID>
+    <Name>Raptor&apos;s Perch</Name>
     <WaypointID>206</WaypointID>
     <WaypointName>Winter Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BO4AAAA=]</WaypointChatcode>
@@ -1277,8 +1277,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>114</TrekID>
-    <TrekName>Rata Pten Portico</TrekName>
+    <ID>114</ID>
+    <Name>Rata Pten Portico</Name>
     <WaypointID>312</WaypointID>
     <WaypointName>Criterion Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMkCAAA=]</WaypointChatcode>
@@ -1288,8 +1288,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>110</TrekID>
-    <TrekName>Raven Nook</TrekName>
+    <ID>110</ID>
+    <Name>Raven Nook</Name>
     <WaypointID>527</WaypointID>
     <WaypointName>Raven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIgDAAA=]</WaypointChatcode>
@@ -1299,8 +1299,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>115</TrekID>
-    <TrekName>Reef Drake Nestling Grounds</TrekName>
+    <ID>115</ID>
+    <Name>Reef Drake Nestling Grounds</Name>
     <WaypointID>387</WaypointID>
     <WaypointName>Pearl Islet Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
@@ -1310,8 +1310,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>116</TrekID>
-    <TrekName>Restless Footings</TrekName>
+    <ID>116</ID>
+    <Name>Restless Footings</Name>
     <WaypointID>318</WaypointID>
     <WaypointName>Irwin Isle Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNICAAA=]</WaypointChatcode>
@@ -1321,8 +1321,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>61</TrekID>
-    <TrekName>Reverberant&apos;s Watch</TrekName>
+    <ID>61</ID>
+    <Name>Reverberant&apos;s Watch</Name>
     <WaypointID>489</WaypointID>
     <WaypointName>Darkriven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BHUBAAA=]</WaypointChatcode>
@@ -1332,8 +1332,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>149</TrekID>
-    <TrekName>Risewild Green</TrekName>
+    <ID>149</ID>
+    <Name>Risewild Green</Name>
     <WaypointID>179</WaypointID>
     <WaypointName>Remanda Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKcBAAA=]</WaypointChatcode>
@@ -1343,8 +1343,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>118</TrekID>
-    <TrekName>Rurik&apos;s View</TrekName>
+    <ID>118</ID>
+    <Name>Rurik&apos;s View</Name>
     <WaypointID>517</WaypointID>
     <WaypointName>Rurikton Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCsDAAA=]</WaypointChatcode>
@@ -1354,8 +1354,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>121</TrekID>
-    <TrekName>Saltflood Altar</TrekName>
+    <ID>121</ID>
+    <Name>Saltflood Altar</Name>
     <WaypointID>329</WaypointID>
     <WaypointName>Saltflood Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMcBAAA=]</WaypointChatcode>
@@ -1365,8 +1365,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>122</TrekID>
-    <TrekName>Sandwurm Prowl</TrekName>
+    <ID>122</ID>
+    <Name>Sandwurm Prowl</Name>
     <WaypointID>387</WaypointID>
     <WaypointName>Pearl Islet Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
@@ -1376,8 +1376,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>44</TrekID>
-    <TrekName>Scholar&apos;s Blind</TrekName>
+    <ID>44</ID>
+    <Name>Scholar&apos;s Blind</Name>
     <WaypointID>397</WaypointID>
     <WaypointName>Steelbrachen Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFsCAAA=]</WaypointChatcode>
@@ -1387,8 +1387,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>52</TrekID>
-    <TrekName>Scourgejaw Watchtower</TrekName>
+    <ID>52</ID>
+    <Name>Scourgejaw Watchtower</Name>
     <WaypointID>53</WaypointID>
     <WaypointName>Sleekfur Encampment Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOgBAAA=]</WaypointChatcode>
@@ -1398,8 +1398,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>139</TrekID>
-    <TrekName>Scriptorium Nook</TrekName>
+    <ID>139</ID>
+    <Name>Scriptorium Nook</Name>
     <WaypointID>500</WaypointID>
     <WaypointName>Factorium Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKcDAAA=]</WaypointChatcode>
@@ -1409,8 +1409,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>5</TrekID>
-    <TrekName>Sea Scorpion&apos;s Eye</TrekName>
+    <ID>5</ID>
+    <Name>Sea Scorpion&apos;s Eye</Name>
     <WaypointID>563</WaypointID>
     <WaypointName>Meddler&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BB4DAAA=]</WaypointChatcode>
@@ -1420,8 +1420,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>123</TrekID>
-    <TrekName>Sentinel Sink</TrekName>
+    <ID>123</ID>
+    <Name>Sentinel Sink</Name>
     <WaypointID>55</WaypointID>
     <WaypointName>Brandwatch Encampment Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOkBAAA=]</WaypointChatcode>
@@ -1431,8 +1431,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>57</TrekID>
-    <TrekName>Sepulchre Skylight</TrekName>
+    <ID>57</ID>
+    <Name>Sepulchre Skylight</Name>
     <WaypointID>365</WaypointID>
     <WaypointName>Rally Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNIEAAA=]</WaypointChatcode>
@@ -1442,8 +1442,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>60</TrekID>
-    <TrekName>Sharkhollow&apos;s Edge</TrekName>
+    <ID>60</ID>
+    <Name>Sharkhollow&apos;s Edge</Name>
     <WaypointID>17</WaypointID>
     <WaypointName>Splintercrest Fort Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFEDAAA=]</WaypointChatcode>
@@ -1453,8 +1453,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>186</TrekID>
-    <TrekName>Shattered Loft</TrekName>
+    <ID>186</ID>
+    <Name>Shattered Loft</Name>
     <WaypointID>335</WaypointID>
     <WaypointName>Fort Cadence Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMUBAAA=]</WaypointChatcode>
@@ -1464,8 +1464,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>133</TrekID>
-    <TrekName>Siamoth Refuge</TrekName>
+    <ID>133</ID>
+    <Name>Siamoth Refuge</Name>
     <WaypointID>327</WaypointID>
     <WaypointName>Brackwater Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BM4BAAA=]</WaypointChatcode>
@@ -1475,8 +1475,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>134</TrekID>
-    <TrekName>Skalecatch Butcher Shop</TrekName>
+    <ID>134</ID>
+    <Name>Skalecatch Butcher Shop</Name>
     <WaypointID>52</WaypointID>
     <WaypointName>Village of Scalecatch Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOcBAAA=]</WaypointChatcode>
@@ -1486,8 +1486,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>135</TrekID>
-    <TrekName>Skalefound Cove</TrekName>
+    <ID>135</ID>
+    <Name>Skalefound Cove</Name>
     <WaypointID>102</WaypointID>
     <WaypointName>Tuyere Command Post Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBgCAAA=]</WaypointChatcode>
@@ -1497,8 +1497,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>138</TrekID>
-    <TrekName>Skalesplash Falls</TrekName>
+    <ID>138</ID>
+    <Name>Skalesplash Falls</Name>
     <WaypointID>470</WaypointID>
     <WaypointName>Okarinoo Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEYCAAA=]</WaypointChatcode>
@@ -1508,8 +1508,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>136</TrekID>
-    <TrekName>Skalestash Hideaway</TrekName>
+    <ID>136</ID>
+    <Name>Skalestash Hideaway</Name>
     <WaypointID>75</WaypointID>
     <WaypointName>Feritas Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJcDAAA=]</WaypointChatcode>
@@ -1519,8 +1519,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>137</TrekID>
-    <TrekName>Skelknest Borehole</TrekName>
+    <ID>137</ID>
+    <Name>Skelknest Borehole</Name>
     <WaypointID>415</WaypointID>
     <WaypointName>Slough of Despond Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BHwCAAA=]</WaypointChatcode>
@@ -1530,8 +1530,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>124</TrekID>
-    <TrekName>Skibo Hall Dormitory</TrekName>
+    <ID>124</ID>
+    <Name>Skibo Hall Dormitory</Name>
     <WaypointID>554</WaypointID>
     <WaypointName>Auxiliary Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLkEAAA=]</WaypointChatcode>
@@ -1541,8 +1541,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>68</TrekID>
-    <TrekName>Skyshine Scratch</TrekName>
+    <ID>68</ID>
+    <Name>Skyshine Scratch</Name>
     <WaypointID>217</WaypointID>
     <WaypointName>Grey Gritta&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKkAAAA=]</WaypointChatcode>
@@ -1552,8 +1552,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>126</TrekID>
-    <TrekName>Snowden Safehouse</TrekName>
+    <ID>126</ID>
+    <Name>Snowden Safehouse</Name>
     <WaypointID>446</WaypointID>
     <WaypointName>Snowdrift Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLkAAAA=]</WaypointChatcode>
@@ -1563,8 +1563,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>125</TrekID>
-    <TrekName>Snowhowl Den</TrekName>
+    <ID>125</ID>
+    <Name>Snowhowl Den</Name>
     <WaypointID>442</WaypointID>
     <WaypointName>Snowhawk Landing Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BL8AAAA=]</WaypointChatcode>
@@ -1574,8 +1574,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>141</TrekID>
-    <TrekName>Soggorsort Rotunda</TrekName>
+    <ID>141</ID>
+    <Name>Soggorsort Rotunda</Name>
     <WaypointID>274</WaypointID>
     <WaypointName>Hamlet of Annwen Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BD8BAAA=]</WaypointChatcode>
@@ -1585,8 +1585,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>142</TrekID>
-    <TrekName>Soran Draa Rest Stop</TrekName>
+    <ID>142</ID>
+    <Name>Soran Draa Rest Stop</Name>
     <WaypointID>290</WaypointID>
     <WaypointName>Soren Draa Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
@@ -1596,8 +1596,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>109</TrekID>
-    <TrekName>Source of Lament</TrekName>
+    <ID>109</ID>
+    <Name>Source of Lament</Name>
     <WaypointID>417</WaypointID>
     <WaypointName>Skyheight Steading Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIECAAA=]</WaypointChatcode>
@@ -1607,8 +1607,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>140</TrekID>
-    <TrekName>Sparwind&apos;s Lounge</TrekName>
+    <ID>140</ID>
+    <Name>Sparwind&apos;s Lounge</Name>
     <WaypointID>499</WaypointID>
     <WaypointName>Imperator&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BK0DAAA=]</WaypointChatcode>
@@ -1618,8 +1618,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>54</TrekID>
-    <TrekName>Spectrehaunt Socket</TrekName>
+    <ID>54</ID>
+    <Name>Spectrehaunt Socket</Name>
     <WaypointID>362</WaypointID>
     <WaypointName>Lights Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BLICAAA=]</WaypointChatcode>
@@ -1629,8 +1629,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>21</TrekID>
-    <TrekName>Steampipe Perch</TrekName>
+    <ID>21</ID>
+    <Name>Steampipe Perch</Name>
     <WaypointID>383</WaypointID>
     <WaypointName>Lion Point Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
@@ -1640,8 +1640,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>22</TrekID>
-    <TrekName>Steamscrap Overlook</TrekName>
+    <ID>22</ID>
+    <Name>Steamscrap Overlook</Name>
     <WaypointID>435</WaypointID>
     <WaypointName>Lamentation Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOoAAAA=]</WaypointChatcode>
@@ -1651,8 +1651,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>23</TrekID>
-    <TrekName>Steamy Steps</TrekName>
+    <ID>23</ID>
+    <Name>Steamy Steps</Name>
     <WaypointID>383</WaypointID>
     <WaypointName>Lion Point Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
@@ -1662,8 +1662,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>144</TrekID>
-    <TrekName>Steelband&apos;s Tunnel</TrekName>
+    <ID>144</ID>
+    <Name>Steelband&apos;s Tunnel</Name>
     <WaypointID>3</WaypointID>
     <WaypointName>Tumok&apos;s Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPsBAAA=]</WaypointChatcode>
@@ -1673,8 +1673,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>147</TrekID>
-    <TrekName>Stentor Shelter</TrekName>
+    <ID>147</ID>
+    <Name>Stentor Shelter</Name>
     <WaypointID>366</WaypointID>
     <WaypointName>Signal Peak Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BO0CAAA=]</WaypointChatcode>
@@ -1684,8 +1684,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>146</TrekID>
-    <TrekName>Stonebore Spiderhole</TrekName>
+    <ID>146</ID>
+    <Name>Stonebore Spiderhole</Name>
     <WaypointID>195</WaypointID>
     <WaypointName>Talajian Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIwBAAA=]</WaypointChatcode>
@@ -1695,8 +1695,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>145</TrekID>
-    <TrekName>Strongpaw&apos;s Garden</TrekName>
+    <ID>145</ID>
+    <Name>Strongpaw&apos;s Garden</Name>
     <WaypointID>23</WaypointID>
     <WaypointName>Nageling Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BN0AAAA=]</WaypointChatcode>
@@ -1706,8 +1706,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>154</TrekID>
-    <TrekName>Tactical Retreat</TrekName>
+    <ID>154</ID>
+    <Name>Tactical Retreat</Name>
     <WaypointID>574</WaypointID>
     <WaypointName>Shipwreck Rock Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOQGAAA=]</WaypointChatcode>
@@ -1717,8 +1717,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>151</TrekID>
-    <TrekName>Talus Steps</TrekName>
+    <ID>151</ID>
+    <Name>Talus Steps</Name>
     <WaypointID>466</WaypointID>
     <WaypointName>Talus Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEQCAAA=]</WaypointChatcode>
@@ -1728,8 +1728,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>152</TrekID>
-    <TrekName>Tarstar Copse</TrekName>
+    <ID>152</ID>
+    <Name>Tarstar Copse</Name>
     <WaypointID>98</WaypointID>
     <WaypointName>Apostate Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BB0CAAA=]</WaypointChatcode>
@@ -1739,8 +1739,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>155</TrekID>
-    <TrekName>Tekki&apos;s Drawing Board</TrekName>
+    <ID>155</ID>
+    <Name>Tekki&apos;s Drawing Board</Name>
     <WaypointID>268</WaypointID>
     <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
@@ -1750,8 +1750,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>156</TrekID>
-    <TrekName>Thaumanova Spillway</TrekName>
+    <ID>156</ID>
+    <Name>Thaumanova Spillway</Name>
     <WaypointID>291</WaypointID>
     <WaypointName>Muridian Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEcAAAA=]</WaypointChatcode>
@@ -1761,8 +1761,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>24</TrekID>
-    <TrekName>The Karka Club</TrekName>
+    <ID>24</ID>
+    <Name>The Karka Club</Name>
     <WaypointID>387</WaypointID>
     <WaypointName>Pearl Islet Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNUGAAA=]</WaypointChatcode>
@@ -1772,8 +1772,8 @@
     <RegionName>Sea of Sorrows</RegionName>
   </trek>
   <trek>
-    <TrekID>120</TrekID>
-    <TrekName>The People&apos;s Deadlock</TrekName>
+    <ID>120</ID>
+    <Name>The People&apos;s Deadlock</Name>
     <WaypointID>412</WaypointID>
     <WaypointName>Groznev Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BHkCAAA=]</WaypointChatcode>
@@ -1783,8 +1783,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>53</TrekID>
-    <TrekName>The Workers&apos; Stores</TrekName>
+    <ID>53</ID>
+    <Name>The Workers&apos; Stores</Name>
     <WaypointID>396</WaypointID>
     <WaypointName>Grey Road Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BFoCAAA=]</WaypointChatcode>
@@ -1794,8 +1794,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>153</TrekID>
-    <TrekName>Togatl Shore</TrekName>
+    <ID>153</ID>
+    <Name>Togatl Shore</Name>
     <WaypointID>234</WaypointID>
     <WaypointName>Viathan Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBAAAAA=]</WaypointChatcode>
@@ -1805,8 +1805,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>161</TrekID>
-    <TrekName>Tower of Tribulation</TrekName>
+    <ID>161</ID>
+    <Name>Tower of Tribulation</Name>
     <WaypointID>389</WaypointID>
     <WaypointName>Sorrow&apos;s Embrace Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BD8FAAA=]</WaypointChatcode>
@@ -1816,8 +1816,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>159</TrekID>
-    <TrekName>Toxal Spill</TrekName>
+    <ID>159</ID>
+    <Name>Toxal Spill</Name>
     <WaypointID>268</WaypointID>
     <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
@@ -1827,8 +1827,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>64</TrekID>
-    <TrekName>Trader&apos;s Stash</TrekName>
+    <ID>64</ID>
+    <Name>Trader&apos;s Stash</Name>
     <WaypointID>533</WaypointID>
     <WaypointName>Trade Commons Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIYDAAA=]</WaypointChatcode>
@@ -1838,8 +1838,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>160</TrekID>
-    <TrekName>Trolltrap Pit</TrekName>
+    <ID>160</ID>
+    <Name>Trolltrap Pit</Name>
     <WaypointID>434</WaypointID>
     <WaypointName>Durmand Priory Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOkAAAA=]</WaypointChatcode>
@@ -1849,8 +1849,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>13</TrekID>
-    <TrekName>Turai Tavern Stillroom</TrekName>
+    <ID>13</ID>
+    <Name>Turai Tavern Stillroom</Name>
     <WaypointID>512</WaypointID>
     <WaypointName>Balthazar Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BCgDAAA=]</WaypointChatcode>
@@ -1860,8 +1860,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>163</TrekID>
-    <TrekName>Ulta Scraproom</TrekName>
+    <ID>163</ID>
+    <Name>Ulta Scraproom</Name>
     <WaypointID>268</WaypointID>
     <WaypointName>Ulta Metamagicals Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BGUAAAA=]</WaypointChatcode>
@@ -1871,8 +1871,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>164</TrekID>
-    <TrekName>Unseen Scratch</TrekName>
+    <ID>164</ID>
+    <Name>Unseen Scratch</Name>
     <WaypointID>282</WaypointID>
     <WaypointName>Caledon Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BDwBAAA=]</WaypointChatcode>
@@ -1882,8 +1882,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>165</TrekID>
-    <TrekName>Upsilon Hyperboloid</TrekName>
+    <ID>165</ID>
+    <Name>Upsilon Hyperboloid</Name>
     <WaypointID>579</WaypointID>
     <WaypointName>Waste Hollows Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKgCAAA=]</WaypointChatcode>
@@ -1893,8 +1893,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>166</TrekID>
-    <TrekName>Usharr&apos;s Threshold</TrekName>
+    <ID>166</ID>
+    <Name>Usharr&apos;s Threshold</Name>
     <WaypointID>334</WaypointID>
     <WaypointName>Toade&apos;s Head Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BMsBAAA=]</WaypointChatcode>
@@ -1904,8 +1904,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>83</TrekID>
-    <TrekName>Vacant Hermitage</TrekName>
+    <ID>83</ID>
+    <Name>Vacant Hermitage</Name>
     <WaypointID>7</WaypointID>
     <WaypointName>Guardian Stone Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BP8BAAA=]</WaypointChatcode>
@@ -1915,8 +1915,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>179</TrekID>
-    <TrekName>Venison Hollow</TrekName>
+    <ID>179</ID>
+    <Name>Venison Hollow</Name>
     <WaypointID>437</WaypointID>
     <WaypointName>Vanjir&apos;s Stead Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BOUAAAA=]</WaypointChatcode>
@@ -1926,8 +1926,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>8</TrekID>
-    <TrekName>Verdance Font</TrekName>
+    <ID>8</ID>
+    <Name>Verdance Font</Name>
     <WaypointID>569</WaypointID>
     <WaypointName>Verdance Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBsDAAA=]</WaypointChatcode>
@@ -1937,8 +1937,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>175</TrekID>
-    <TrekName>Vizier&apos;s Anteport</TrekName>
+    <ID>175</ID>
+    <Name>Vizier&apos;s Anteport</Name>
     <WaypointID>372</WaypointID>
     <WaypointName>Lone Post Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BPcCAAA=]</WaypointChatcode>
@@ -1948,8 +1948,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>174</TrekID>
-    <TrekName>Wassa&apos;s Terrace</TrekName>
+    <ID>174</ID>
+    <Name>Wassa&apos;s Terrace</Name>
     <WaypointID>194</WaypointID>
     <WaypointName>First Haven Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BIsBAAA=]</WaypointChatcode>
@@ -1959,8 +1959,8 @@
     <RegionName>Kryta</RegionName>
   </trek>
   <trek>
-    <TrekID>173</TrekID>
-    <TrekName>Watchpoint Decimus</TrekName>
+    <ID>173</ID>
+    <Name>Watchpoint Decimus</Name>
     <WaypointID>76</WaypointID>
     <WaypointName>Guardpoint Decimus Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJgDAAA=]</WaypointChatcode>
@@ -1970,8 +1970,8 @@
     <RegionName>Ascalon</RegionName>
   </trek>
   <trek>
-    <TrekID>111</TrekID>
-    <TrekName>Wheelport Pub</TrekName>
+    <ID>111</ID>
+    <Name>Wheelport Pub</Name>
     <WaypointID>506</WaypointID>
     <WaypointName>Mustering Ground Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BKUDAAA=]</WaypointChatcode>
@@ -1981,8 +1981,8 @@
     <RegionName>Cities</RegionName>
   </trek>
   <trek>
-    <TrekID>183</TrekID>
-    <TrekName>Whitland Sinkhole</TrekName>
+    <ID>183</ID>
+    <Name>Whitland Sinkhole</Name>
     <WaypointID>320</WaypointID>
     <WaypointName>Old Sledge Site Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BNQCAAA=]</WaypointChatcode>
@@ -1992,8 +1992,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>177</TrekID>
-    <TrekName>Widd&apos;s Folly</TrekName>
+    <ID>177</ID>
+    <Name>Widd&apos;s Folly</Name>
     <WaypointID>278</WaypointID>
     <WaypointName>Mabon Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BDoBAAA=]</WaypointChatcode>
@@ -2003,8 +2003,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>178</TrekID>
-    <TrekName>Wikk&apos;s Gate</TrekName>
+    <ID>178</ID>
+    <Name>Wikk&apos;s Gate</Name>
     <WaypointID>469</WaypointID>
     <WaypointName>Valance Tutory Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEwCAAA=]</WaypointChatcode>
@@ -2014,8 +2014,8 @@
     <RegionName>Shiverpeak Mountains</RegionName>
   </trek>
   <trek>
-    <TrekID>181</TrekID>
-    <TrekName>Wildflame Monitor</TrekName>
+    <ID>181</ID>
+    <Name>Wildflame Monitor</Name>
     <WaypointID>290</WaypointID>
     <WaypointName>Soren Draa Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BEAAAAA=]</WaypointChatcode>
@@ -2025,8 +2025,8 @@
     <RegionName>Maguuma Jungle</RegionName>
   </trek>
   <trek>
-    <TrekID>182</TrekID>
-    <TrekName>Winterknell Impasse</TrekName>
+    <ID>182</ID>
+    <Name>Winterknell Impasse</Name>
     <WaypointID>566</WaypointID>
     <WaypointName>R&amp;D Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BBgDAAA=]</WaypointChatcode>
@@ -2036,8 +2036,8 @@
     <RegionName>Ruins of Orr</RegionName>
   </trek>
   <trek>
-    <TrekID>184</TrekID>
-    <TrekName>Wrelk&apos;s Salon</TrekName>
+    <ID>184</ID>
+    <Name>Wrelk&apos;s Salon</Name>
     <WaypointID>200</WaypointID>
     <WaypointName>Almuten Waypoint</WaypointName>
     <WaypointChatcode>[&amp;BJQBAAA=]</WaypointChatcode>
