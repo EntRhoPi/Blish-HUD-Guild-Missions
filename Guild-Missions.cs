@@ -32,7 +32,7 @@ namespace entrhopi.Guild_Missions
 
         private const int MAX_RESULT_COUNT = 7;
         
-        private Panel trekListPanel, savedTrekListPanel, contentPanel, raceListPanel;
+        private Panel trekListPanel, savedTrekListPanel, contentPanel, raceListPanel, infoPanel;
         public List<Panel> resultPanels = new List<Panel>();
         Dictionary<int, int> savedGuildTreks = new Dictionary<int, int>();
 
@@ -74,6 +74,8 @@ namespace entrhopi.Guild_Missions
         private WindowTab _moduleTab;
         private TextBox searchTextBox;
 
+        Dictionary<int, Texture2D> _guildRaceMap = new Dictionary<int, Texture2D>();
+
         private int panelsize = 56;
 
         protected override void Initialize()
@@ -92,6 +94,14 @@ namespace entrhopi.Guild_Missions
             _rightArrowIcon = ContentsManager.GetTexture("784266.png");
 
             _closeTexture = ContentsManager.GetTexture("close_icon.png");
+
+            _guildRaceMap.Add(1, ContentsManager.GetTexture("racemaps/bear_lope.jpg"));
+            _guildRaceMap.Add(2, ContentsManager.GetTexture("racemaps/chicken_run.jpg"));
+            _guildRaceMap.Add(3, ContentsManager.GetTexture("racemaps/crab_scuttle.jpg"));
+            _guildRaceMap.Add(4, ContentsManager.GetTexture("racemaps/devourer_burrow.jpg"));
+            _guildRaceMap.Add(5, ContentsManager.GetTexture("racemaps/ghost_wolf_run.jpg"));
+            _guildRaceMap.Add(6, ContentsManager.GetTexture("racemaps/quaggan_paddle.jpg"));
+            _guildRaceMap.Add(7, ContentsManager.GetTexture("racemaps/spider_scurry.jpg"));
         }
 
         protected override async Task LoadAsync()
@@ -400,7 +410,7 @@ namespace entrhopi.Guild_Missions
                 Parent = contentPanel,
             };
 
-            new Panel()
+            infoPanel = new Panel()
             {
                 CanScroll = true,
                 ShowBorder = true,
@@ -418,7 +428,7 @@ namespace entrhopi.Guild_Missions
             int i = 0;
             foreach (var race in doc.Root.Elements("race"))
             {
-                AddTrekPanel(race, raceListPanel, i, false, false);
+                ViewInfoPanel(race, raceListPanel, i);
                 i++;
             }
         }
@@ -572,7 +582,7 @@ namespace entrhopi.Guild_Missions
                 addImage.Click += delegate { AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID")); };
             }
 
-            if(remove)
+            if (remove)
             {
                 Image removeImage = new Image(_closeTexture)
                 {
@@ -582,6 +592,82 @@ namespace entrhopi.Guild_Missions
                 };
                 removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("ID")); };
             }
+        }
+
+        private void ViewInfoPanel(XElement element, Panel parent, int position)
+        {
+
+            Panel trekPanel = new Panel()
+            {
+                ShowBorder = false,
+                //Title = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
+                Size = new Point(parent.Width, 70),
+                Location = new Point(LEFT_MARGIN, 5 + position * 70),
+                Parent = parent
+            };
+            Image trekPanelWPImage = new Image(_waypointIcon)
+            {
+                Size = new Point(50, 50),
+                Location = new Point(0, 4),
+                Parent = trekPanel
+            };
+            trekPanelWPImage.Click += delegate
+            {
+                ClipboardUtil.WindowsClipboardService.SetTextAsync(element.Element("Name").Value + " " + element.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
+                {
+                    if (clipboardResult.IsFaulted)
+                    {
+                        ScreenNotification.ShowNotification("Failed to copy waypoint to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
+                    }
+                    else
+                    {
+                        ScreenNotification.ShowNotification("Copied waypoint to clipboard!", duration: 2);
+                    }
+                });
+            };
+            new Label()
+            {
+                Text = element.Element("Name").Value + " (" + element.Element("MapName").Value + ")",
+                Font = Content.DefaultFont16,
+                Location = new Point(LEFT_MARGIN + 50, 3),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = trekPanel
+            };
+            new Label()
+            {
+                Text = element.Element("WaypointName").Value,
+                Font = Content.DefaultFont14,
+                Location = new Point(LEFT_MARGIN + 50, 32),
+                TextColor = Color.Silver,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = trekPanel
+            };
+            Image addImage = new Image(_rightArrowIcon)
+            {
+                Size = new Point(70, 70),
+                Location = new Point(parent.Width - 70, -10),
+                Parent = trekPanel
+            };
+            addImage.Click += delegate { DisplayInfo((int)element.Element("ID")); };
+        }
+
+        private void DisplayInfo(int v)
+        {
+            infoPanel.ClearChildren();
+
+            new Image(_guildRaceMap[v])
+            {
+                Size = new Point(310, 500),
+                Location = new Point(0, 4),
+                Parent = infoPanel
+            };
         }
 
         protected override void Update(GameTime gameTime)

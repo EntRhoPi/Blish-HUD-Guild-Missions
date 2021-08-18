@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -204,7 +204,15 @@
     <Content Include="ref\guildtrek_data.xml" />
     <Content Include="ref\guildtrek_data_de.xml" />
     <Content Include="ref\guildtrek_icon.png" />
+    <Content Include="ref\racemaps\bear_lope.jpg" />
+    <Content Include="ref\racemaps\chicken_run.jpg" />
+    <Content Include="ref\racemaps\crab_scuttle.jpg" />
+    <Content Include="ref\racemaps\devourer_burrow.jpg" />
+    <Content Include="ref\racemaps\ghost_wolf_run.jpg" />
+    <Content Include="ref\racemaps\quaggan_paddle.jpg" />
+    <Content Include="ref\racemaps\spider_scurry.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PreBuildEvent>
