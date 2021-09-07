@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <puzzle>
+    <ID>1</ID>
+    <Name>Angvar&apos;s Trove</Name>
+    <WaypointID>458</WaypointID>
+    <WaypointName>Angvar&apos;s Trove Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BP8GAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Snowden Drifts</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </puzzle>
+  <puzzle>
+    <ID>2</ID>
+    <Name>Langmar Estate</Name>
+    <WaypointID>80</WaypointID>
+    <WaypointName>Langmar Estate Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPgGAAA=]</WaypointChatcode>
+    <MapID>6</MapID>
+    <MapName>Plains of Ashford</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </puzzle>
+  <puzzle>
+    <ID>3</ID>
+    <Name>Proxemics Lab</Name>
+    <WaypointID>271</WaypointID>
+    <WaypointName>Proxemics Lab Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BPkGAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban Wildlands</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma Jungle</RegionName>
+  </puzzle>
+</root>

@@ -32,7 +32,7 @@ namespace entrhopi.Guild_Missions
 
         private const int MAX_RESULT_COUNT = 7;
         
-        private Panel trekListPanel, savedTrekListPanel, contentPanel, raceListPanel, infoPanel;
+        private Panel trekListPanel, savedTrekListPanel, contentPanel, listPanel, infoPanel;
         public List<Panel> resultPanels = new List<Panel>();
         Dictionary<int, int> savedGuildTreks = new Dictionary<int, int>();
 
@@ -75,6 +75,7 @@ namespace entrhopi.Guild_Missions
         private TextBox searchTextBox;
 
         Dictionary<int, Texture2D> _guildRaceMap = new Dictionary<int, Texture2D>();
+        Dictionary<int, Texture2D> _guildPuzzleInfo = new Dictionary<int, Texture2D>();
 
         private int panelsize = 56;
 
@@ -94,6 +95,10 @@ namespace entrhopi.Guild_Missions
             _rightArrowIcon = ContentsManager.GetTexture("784266.png");
 
             _closeTexture = ContentsManager.GetTexture("close_icon.png");
+
+            _guildPuzzleInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
+            _guildPuzzleInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
+            _guildPuzzleInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
 
             _guildRaceMap.Add(1, ContentsManager.GetTexture("racemaps/bear_lope.jpg"));
             _guildRaceMap.Add(2, ContentsManager.GetTexture("racemaps/chicken_run.jpg"));
@@ -262,7 +267,7 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(0, panelsize * 4),
                 Parent = missionTypePanel,
             };
-            guildPuzzlePanel.Click += delegate { lockedContent(); };
+            guildPuzzlePanel.Click += delegate { guildPuzzleContent(); };
             new Image(_guildPuzzleIcon)
             {
                 Size = new Point(panelsize, panelsize),
@@ -279,12 +284,6 @@ namespace entrhopi.Guild_Missions
                 ShowShadow = true,
                 AutoSizeWidth = true,
                 AutoSizeHeight = true,
-                Parent = guildPuzzlePanel
-            };
-            new Image(_wipIcon)
-            {
-                Size = new Point(40, 40),
-                Location = new Point(guildChallengePanel.Width - panelsize, 13),
                 Parent = guildPuzzlePanel
             };
 
@@ -401,7 +400,7 @@ namespace entrhopi.Guild_Missions
                 Parent = contentPanel
             };
 
-            raceListPanel = new Panel()
+            listPanel = new Panel()
             {
                 ShowBorder = true,
                 Title = "List",
@@ -416,19 +415,74 @@ namespace entrhopi.Guild_Missions
                 ShowBorder = true,
                 Title = "Info",
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
-                Location = new Point(raceListPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
+                Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
                 Parent = contentPanel,
             };
 
             // Dispose of current search result
-            raceListPanel.ClearChildren();
+            listPanel.ClearChildren();
 
             XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildrace_data.xml"));
 
             int i = 0;
             foreach (var race in doc.Root.Elements("race"))
             {
-                ViewInfoPanel(race, raceListPanel, i);
+                ViewInfoPanel(race, listPanel, i, "race");
+                i++;
+            }
+        }
+
+        private void guildPuzzleContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_guildPuzzleIcon)
+            {
+                Size = new Point(72, 72),
+                Location = new Point(LEFT_MARGIN, 0),
+                Parent = contentPanel
+            };
+            new Label()
+            {
+                Text = "Puzzle",
+                Font = Content.DefaultFont32,
+                Location = new Point(82, 18),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = contentPanel
+            };
+
+            listPanel = new Panel()
+            {
+                ShowBorder = true,
+                Title = "List",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            infoPanel = new Panel()
+            {
+                CanScroll = true,
+                ShowBorder = true,
+                Title = "Info",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            // Dispose of current search result
+            listPanel.ClearChildren();
+
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildpuzzle_data.xml"));
+
+            int i = 0;
+            foreach (var puzzle in doc.Root.Elements("puzzle"))
+            {
+                ViewInfoPanel(puzzle, listPanel, i, "puzzle");
                 i++;
             }
         }
@@ -594,7 +648,7 @@ namespace entrhopi.Guild_Missions
             }
         }
 
-        private void ViewInfoPanel(XElement element, Panel parent, int position)
+        private void ViewInfoPanel(XElement element, Panel parent, int position, String type)
         {
 
             Panel trekPanel = new Panel()
@@ -655,19 +709,34 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(parent.Width - 70, -10),
                 Parent = trekPanel
             };
-            addImage.Click += delegate { DisplayInfo((int)element.Element("ID")); };
+            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type); };
         }
 
-        private void DisplayInfo(int v)
+        private void DisplayInfo(int v, String type)
         {
             infoPanel.ClearChildren();
 
-            new Image(_guildRaceMap[v])
+            switch(type)
             {
-                Size = new Point(310, 500),
-                Location = new Point(0, 4),
-                Parent = infoPanel
-            };
+                case "race":
+                    new Image(_guildRaceMap[v])
+                    {
+                        Size = new Point(310, 500),
+                        Location = new Point(0, 4),
+                        Parent = infoPanel
+                    };
+                    break;
+                case "puzzle":
+                    new Image(_guildPuzzleInfo[v])
+                    {
+                        Size = new Point(310, 200),
+                        Location = new Point(0, 4),
+                        Parent = infoPanel
+                    };
+                    break;
+                default:
+                    break;
+            }
         }
 
         protected override void Update(GameTime gameTime)
