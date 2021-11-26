@@ -360,21 +360,23 @@ namespace entrhopi.Guild_Missions
             };
             clearAllButton.Click += delegate { ClearWPList(); };
 
-            new StandardButton()
+            var exportButton = new StandardButton()
             {
                 Text = "Export",
                 Size = new Point(110, 30),
                 Location = new Point(trekListPanel.Right + 130 + LEFT_MARGIN, searchTextBox.Top - 1),
                 Parent = contentPanel,
             };
+            exportButton.Click += delegate { ExportWPList(); };
 
-            new StandardButton()
+            var importButton = new StandardButton()
             {
                 Text = "Import",
                 Size = new Point(110, 30),
                 Location = new Point(trekListPanel.Right + 250 + LEFT_MARGIN, searchTextBox.Top - 1),
                 Parent = contentPanel,
             };
+            importButton.Click += delegate { ImportWPList(); };
         }
 
         private void guildRaceContent()
@@ -544,6 +546,72 @@ namespace entrhopi.Guild_Missions
         {
             savedGuildTreks.Clear();
             savedTrekListPanel.ClearChildren();
+        }
+
+        private void ExportWPList()
+        {
+            int i = 0;
+            var export = "BlishGM";
+            foreach (KeyValuePair<int, int> wp in savedGuildTreks.OrderBy(key => key.Value))
+            {
+                export = export + ';' + wp.Key.ToString();
+            }
+
+            ClipboardUtil.WindowsClipboardService.SetTextAsync(export).ContinueWith((clipboardResult) =>
+            {
+                if (clipboardResult.IsFaulted)
+                {
+                    ScreenNotification.ShowNotification("Failed to copy export to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
+                }
+                else
+                {
+                    ScreenNotification.ShowNotification("Copied export to clipboard!", duration: 2);
+                }
+            });
+        }
+
+        private void ImportWPList()
+        {
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
+            ClipboardUtil.WindowsClipboardService.GetTextAsync()
+                         .ContinueWith((import) => {
+                             if (!import.IsFaulted)
+                             {
+                                 if (!string.IsNullOrEmpty(import.Result))
+                                 {
+                                     int i = 0;
+                                     foreach (string wp in import.Result.Split(';'))
+                                     {
+                                         if (i == 0 && String.Equals(wp, "BlishGM"))
+                                         {
+                                             i++;
+                                             continue;
+                                         }
+                                         else if (i == 0 && !String.Equals(wp, "BlishGM")) return;
+
+                                         Logger.Warn(import.Exception, i + ":" + wp);
+
+                                         // Grab trek data from xml
+                                         var trek = doc.Descendants("trek")
+                                             .Where(x => x.Element("ID").Value == wp)
+                                             .FirstOrDefault();
+
+                                         if (trek == null) continue;
+
+                                         AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID"));
+                                         i++;
+                                     }
+
+                                     ScreenNotification.ShowNotification("Imported " + (i-1) + " waypoints from clipboard!", duration: 2);
+                                 }
+                             }
+                             else
+                             {
+                                 Logger.Warn(import.Exception, "Failed to read clipboard text from system clipboard!");
+                             }
+                         });
+
+
         }
 
         private void UpdateSavedWPList()
