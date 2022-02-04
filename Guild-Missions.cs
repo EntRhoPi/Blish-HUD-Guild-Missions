@@ -76,9 +76,6 @@ namespace entrhopi.Guild_Missions
         private TextBox searchTextBox;
 
         Dictionary<int, Texture2D> _guildRaceMap = new Dictionary<int, Texture2D>();
-        Dictionary<int, Texture2D> _guildPuzzleInfo = new Dictionary<int, Texture2D>();
-        Dictionary<int, Texture2D> _guildBountyInfo = new Dictionary<int, Texture2D>();
-        Dictionary<int, Texture2D> _guildChallengeInfo = new Dictionary<int, Texture2D>();
 
         private int panelsize = 56;
 
@@ -99,10 +96,6 @@ namespace entrhopi.Guild_Missions
 
             _closeTexture = ContentsManager.GetTexture("close_icon.png");
 
-            _guildPuzzleInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
-            _guildPuzzleInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
-            _guildPuzzleInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
-
             _guildRaceMap.Add(1, ContentsManager.GetTexture("racemaps/bear_lope.jpg"));
             _guildRaceMap.Add(2, ContentsManager.GetTexture("racemaps/chicken_run.jpg"));
             _guildRaceMap.Add(3, ContentsManager.GetTexture("racemaps/crab_scuttle.jpg"));
@@ -110,32 +103,6 @@ namespace entrhopi.Guild_Missions
             _guildRaceMap.Add(5, ContentsManager.GetTexture("racemaps/ghost_wolf_run.jpg"));
             _guildRaceMap.Add(6, ContentsManager.GetTexture("racemaps/quaggan_paddle.jpg"));
             _guildRaceMap.Add(7, ContentsManager.GetTexture("racemaps/spider_scurry.jpg"));
-
-            _guildBountyInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(4, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(5, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(6, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(7, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(8, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(9, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(10, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(11, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(12, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(13, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(14, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(15, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(16, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(17, ContentsManager.GetTexture("1827421.png"));
-            _guildBountyInfo.Add(18, ContentsManager.GetTexture("1827421.png"));
-
-            _guildChallengeInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
-            _guildChallengeInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
-            _guildChallengeInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
-            _guildChallengeInfo.Add(4, ContentsManager.GetTexture("1827421.png"));
-            _guildChallengeInfo.Add(5, ContentsManager.GetTexture("1827421.png"));
-            _guildChallengeInfo.Add(6, ContentsManager.GetTexture("1827421.png"));
         }
 
         protected override async Task LoadAsync()
