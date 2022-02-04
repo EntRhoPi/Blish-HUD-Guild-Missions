@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <bounty>
+    <ID>1</ID>
+    <Name>2-MULT</Name>
+    <WaypointID>472</WaypointID>
+    <WaypointName>Gentle River Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFACAAA=]</WaypointChatcode>
+    <MapID>43</MapID>
+    <MapName>Timberline Falls</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </bounty>
+  <bounty>
+    <ID>2</ID>
+    <Name>Ander &quot;Wildman&quot; Westward</Name>
+    <WaypointID>383</WaypointID>
+    <WaypointName>Lion Point Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapID>38</MapID>
+    <MapName>Southsun Cove</MapName>
+    <RegionID>9</RegionID>
+    <RegionName>Sea of Sorrows</RegionName>
+  </bounty>
+  <bounty>
+    <ID>3</ID>
+    <Name>Bookworm Bwikki</Name>
+    <WaypointID>425</WaypointID>
+    <WaypointName>Refuge Peak Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFIGAAA=]</WaypointChatcode>
+    <MapID>41</MapID>
+    <MapName>Lornar's Pass</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </bounty>
+  <bounty>
+    <ID>4</ID>
+    <Name>Big Mayana</Name>
+    <WaypointID>334</WaypointID>
+    <WaypointName>Toade&apos;s Head Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMsBAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Sparkfly Fen</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma Jungle</RegionName>
+  </bounty>
+  <bounty>
+    <ID>5</ID>
+    <Name>Brekkabek</Name>
+    <WaypointID>215</WaypointID>
+    <WaypointName>Seraph&apos;s Landing Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BKcAAAA=]</WaypointChatcode>
+    <MapID>23</MapID>
+    <MapName>Harathi Hinterlands</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </bounty>
+  <bounty>
+    <ID>6</ID>
+    <Name>Crusader Michiele</Name>
+    <WaypointID>336</WaypointID>
+    <WaypointName>Flamefrog Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNAGAAA=]</WaypointChatcode>
+    <MapID>30</MapID>
+    <MapName>Sparkfly Fen</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma Jungle</RegionName>
+  </bounty>
+  <bounty>
+    <ID>7</ID>
+    <Name>&quot;Deputy&quot; Brooke</Name>
+    <WaypointID>446</WaypointID>
+    <WaypointName>Snowdrift Haven Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BLkAAAA=]</WaypointChatcode>
+    <MapID>42</MapID>
+    <MapName>Snowden Drifts</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </bounty>
+  <bounty>
+    <ID>8</ID>
+    <Name>Devious Teesa</Name>
+    <WaypointID>417</WaypointID>
+    <WaypointName>Skyheight Steading Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BIECAAA=]</WaypointChatcode>
+    <MapID>40</MapID>
+    <MapName>Frostgorge Sound</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </bounty>
+  <bounty>
+    <ID>9</ID>
+    <Name>Diplomat Tarban</Name>
+    <WaypointID>270</WaypointID>
+    <WaypointName>Mirkrise Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BHYAAAA=]</WaypointChatcode>
+    <MapID>26</MapID>
+    <MapName>Brisban Wildlands</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma Jungle</RegionName>
+  </bounty>
+  <bounty>
+    <ID>10</ID>
+    <Name>Half-Baked Komali</Name>
+    <WaypointID>313</WaypointID>
+    <WaypointName>Firebreak Fort Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMoCAAA=]</WaypointChatcode>
+    <MapID>29</MapID>
+    <MapName>Mount Maelstrom</MapName>
+    <RegionID>5</RegionID>
+    <RegionName>Maguuma Jungle</RegionName>
+  </bounty>
+  <bounty>
+    <ID>11</ID>
+    <Name>Poobadoo</Name>
+    <WaypointID>230</WaypointID>
+    <WaypointName>Ireko Tradecamp Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BAoAAAA=]</WaypointChatcode>
+    <MapID>24</MapID>
+    <MapName>Kessex Hills</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </bounty>
+  <bounty>
+    <ID>12</ID>
+    <Name>Prisoner 1141</Name>
+    <WaypointID>59</WaypointID>
+    <WaypointName>Town of Cowlfang&apos;s Star Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOsBAAA=]</WaypointChatcode>
+    <MapID>5</MapID>
+    <MapName>Iron Marches</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </bounty>
+  <bounty>
+    <ID>13</ID>
+    <Name>Shaman Arderus</Name>
+    <WaypointID>47</WaypointID>
+    <WaypointName>Keeper&apos;s Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BCYCAAA=]</WaypointChatcode>
+    <MapID>4</MapID>
+    <MapName>Fireheart Rise</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </bounty>
+  <bounty>
+    <ID>14</ID>
+    <Name>Short-Fuse Felix</Name>
+    <WaypointID>36</WaypointID>
+    <WaypointName>Manbane&apos;s Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BMkDAAA=]</WaypointChatcode>
+    <MapID>2</MapID>
+    <MapName>Diessa Plateau</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </bounty>
+  <bounty>
+    <ID>15</ID>
+    <Name>Sotzz the Scallywag</Name>
+    <WaypointID>210</WaypointID>
+    <WaypointName>Cornucopian Fields Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BOMAAAA=]</WaypointChatcode>
+    <MapID>22</MapID>
+    <MapName>Gendarran Fields</MapName>
+    <RegionID>4</RegionID>
+    <RegionName>Kryta</RegionName>
+  </bounty>
+  <bounty>
+    <ID>16</ID>
+    <Name>Tricksy Trekksa</Name>
+    <WaypointID>6</WaypointID>
+    <WaypointName>Expanse Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BP4BAAA=]</WaypointChatcode>
+    <MapID>39</MapID>
+    <MapName>Dredgehaunt Cliffs</MapName>
+    <RegionID>10</RegionID>
+    <RegionName>Shiverpeak Mountains</RegionName>
+  </bounty>
+  <bounty>
+    <ID>17</ID>
+    <Name>Trillia Midwell</Name>
+    <WaypointID>94</WaypointID>
+    <WaypointName>Hawkgates Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BNMAAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Fields of Ruin</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </bounty>
+  <bounty>
+    <ID>18</ID>
+    <Name>Yanonka the Rat-Wrangler</Name>
+    <WaypointID>90</WaypointID>
+    <WaypointName>Forlorn Gate Waypoint</WaypointName>
+    <WaypointChatcode>[&amp;BFABAAA=]</WaypointChatcode>
+    <MapID>3</MapID>
+    <MapName>Fields of Ruin</MapName>
+    <RegionID>1</RegionID>
+    <RegionName>Ascalon</RegionName>
+  </bounty>
+</root>

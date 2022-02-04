@@ -76,6 +76,8 @@ namespace entrhopi.Guild_Missions
 
         Dictionary<int, Texture2D> _guildRaceMap = new Dictionary<int, Texture2D>();
         Dictionary<int, Texture2D> _guildPuzzleInfo = new Dictionary<int, Texture2D>();
+        Dictionary<int, Texture2D> _guildBountyInfo = new Dictionary<int, Texture2D>();
+        Dictionary<int, Texture2D> _guildChallengeInfo = new Dictionary<int, Texture2D>();
 
         private int panelsize = 56;
 
@@ -107,6 +109,32 @@ namespace entrhopi.Guild_Missions
             _guildRaceMap.Add(5, ContentsManager.GetTexture("racemaps/ghost_wolf_run.jpg"));
             _guildRaceMap.Add(6, ContentsManager.GetTexture("racemaps/quaggan_paddle.jpg"));
             _guildRaceMap.Add(7, ContentsManager.GetTexture("racemaps/spider_scurry.jpg"));
+
+            _guildBountyInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(4, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(5, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(6, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(7, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(8, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(9, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(10, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(11, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(12, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(13, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(14, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(15, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(16, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(17, ContentsManager.GetTexture("1827421.png"));
+            _guildBountyInfo.Add(18, ContentsManager.GetTexture("1827421.png"));
+
+            _guildChallengeInfo.Add(1, ContentsManager.GetTexture("1827421.png"));
+            _guildChallengeInfo.Add(2, ContentsManager.GetTexture("1827421.png"));
+            _guildChallengeInfo.Add(3, ContentsManager.GetTexture("1827421.png"));
+            _guildChallengeInfo.Add(4, ContentsManager.GetTexture("1827421.png"));
+            _guildChallengeInfo.Add(5, ContentsManager.GetTexture("1827421.png"));
+            _guildChallengeInfo.Add(6, ContentsManager.GetTexture("1827421.png"));
         }
 
         protected override async Task LoadAsync()
@@ -174,7 +202,7 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(0, panelsize),
                 Parent = missionTypePanel,
             };
-            guildBountyPanel.Click += delegate { lockedContent(); };
+            guildBountyPanel.Click += delegate { guildBountyContent(); };
             new Image(_guildBountyIcon)
             {
                 Size = new Point(panelsize, panelsize),
@@ -191,12 +219,6 @@ namespace entrhopi.Guild_Missions
                 ShowShadow = true,
                 AutoSizeWidth = true,
                 AutoSizeHeight = true,
-                Parent = guildBountyPanel
-            };
-            new Image(_wipIcon)
-            {
-                Size = new Point(40, 40),
-                Location = new Point(guildBountyPanel.Width - panelsize, 13),
                 Parent = guildBountyPanel
             };
 
@@ -234,7 +256,7 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(0, panelsize * 3),
                 Parent = missionTypePanel,
             };
-            guildChallengePanel.Click += delegate { lockedContent(); };
+            guildChallengePanel.Click += delegate { guildChallengeContent(); };
             new Image(_guildChallengeIcon)
             {
                 Size = new Point(panelsize, panelsize),
@@ -251,12 +273,6 @@ namespace entrhopi.Guild_Missions
                 ShowShadow = true,
                 AutoSizeWidth = true,
                 AutoSizeHeight = true,
-                Parent = guildChallengePanel
-            };
-            new Image(_wipIcon)
-            {
-                Size = new Point(40, 40),
-                Location = new Point(guildChallengePanel.Width - panelsize, 13),
                 Parent = guildChallengePanel
             };
 
@@ -434,6 +450,117 @@ namespace entrhopi.Guild_Missions
             }
         }
 
+        private void guildBountyContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_guildBountyIcon)
+            {
+                Size = new Point(72, 72),
+                Location = new Point(LEFT_MARGIN, 0),
+                Parent = contentPanel
+            };
+            new Label()
+            {
+                Text = "Bounty",
+                Font = Content.DefaultFont32,
+                Location = new Point(82, 18),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = contentPanel
+            };
+
+            listPanel = new Panel()
+            {
+                ShowBorder = true,
+                CanScroll = true,
+                Title = "List",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            infoPanel = new Panel()
+            {
+                CanScroll = true,
+                ShowBorder = true,
+                Title = "Info",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            // Dispose of current search result
+            listPanel.ClearChildren();
+
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildbounty_data.xml"));
+
+            int i = 0;
+            foreach (var bounty in doc.Root.Elements("bounty"))
+            {
+                ViewInfoPanel(bounty, listPanel, i, "bounty");
+                i++;
+            }
+        }
+
+        private void guildChallengeContent()
+        {
+            contentPanel.ClearChildren();
+
+            new Image(_guildChallengeIcon)
+            {
+                Size = new Point(72, 72),
+                Location = new Point(LEFT_MARGIN, 0),
+                Parent = contentPanel
+            };
+            new Label()
+            {
+                Text = "Challenge",
+                Font = Content.DefaultFont32,
+                Location = new Point(82, 18),
+                TextColor = Color.White,
+                ShadowColor = Color.Black,
+                ShowShadow = true,
+                AutoSizeWidth = true,
+                AutoSizeHeight = true,
+                Parent = contentPanel
+            };
+
+            listPanel = new Panel()
+            {
+                ShowBorder = true,
+                Title = "List",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            infoPanel = new Panel()
+            {
+                CanScroll = true,
+                ShowBorder = true,
+                Title = "Info",
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
+                Parent = contentPanel,
+            };
+
+            // Dispose of current search result
+            listPanel.ClearChildren();
+
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildchallenge_data.xml"));
+
+            int i = 0;
+            foreach (var challenge in doc.Root.Elements("challenge"))
+            {
+                ViewInfoPanel(challenge, listPanel, i, "challenge");
+                i++;
+            }
+        }
+
         private void guildPuzzleContent()
         {
             contentPanel.ClearChildren();
@@ -574,44 +701,42 @@ namespace entrhopi.Guild_Missions
         {
             XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
             ClipboardUtil.WindowsClipboardService.GetTextAsync()
-                         .ContinueWith((import) => {
-                             if (!import.IsFaulted)
-                             {
-                                 if (!string.IsNullOrEmpty(import.Result))
-                                 {
-                                     int i = 0;
-                                     foreach (string wp in import.Result.Split(';'))
-                                     {
-                                         if (i == 0 && String.Equals(wp, "BlishGM"))
-                                         {
-                                             i++;
-                                             continue;
-                                         }
-                                         else if (i == 0 && !String.Equals(wp, "BlishGM")) return;
+                .ContinueWith((import) => {
+                    if (!import.IsFaulted)
+                    {
+                        if (!string.IsNullOrEmpty(import.Result))
+                        {
+                            int i = 0;
+                            foreach (string wp in import.Result.Split(';'))
+                            {
+                                if (i == 0 && String.Equals(wp, "BlishGM"))
+                                {
+                                    i++;
+                                    continue;
+                                }
+                                else if (i == 0 && !String.Equals(wp, "BlishGM")) return;
 
-                                         Logger.Warn(import.Exception, i + ":" + wp);
+                                Logger.Warn(import.Exception, i + ":" + wp);
 
-                                         // Grab trek data from xml
-                                         var trek = doc.Descendants("trek")
-                                             .Where(x => x.Element("ID").Value == wp)
-                                             .FirstOrDefault();
+                                // Grab trek data from xml
+                                var trek = doc.Descendants("trek")
+                                    .Where(x => x.Element("ID").Value == wp)
+                                    .FirstOrDefault();
 
-                                         if (trek == null) continue;
+                                if (trek == null) continue;
 
-                                         AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID"));
-                                         i++;
-                                     }
+                                AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID"));
+                                i++;
+                            }
 
-                                     ScreenNotification.ShowNotification("Imported " + (i-1) + " waypoints from clipboard!", duration: 2);
-                                 }
-                             }
-                             else
-                             {
-                                 Logger.Warn(import.Exception, "Failed to read clipboard text from system clipboard!");
-                             }
-                         });
-
-
+                            ScreenNotification.ShowNotification("Imported " + (i-1) + " waypoints from clipboard!", duration: 2);
+                        }
+                    }
+                    else
+                    {
+                        Logger.Warn(import.Exception, "Failed to read clipboard text from system clipboard!");
+                    }
+                });
         }
 
         private void UpdateSavedWPList()
@@ -796,6 +921,22 @@ namespace entrhopi.Guild_Missions
                     break;
                 case "puzzle":
                     new Image(_guildPuzzleInfo[v])
+                    {
+                        Size = new Point(310, 200),
+                        Location = new Point(0, 4),
+                        Parent = infoPanel
+                    };
+                    break;
+                case "bounty":
+                    new Image(_guildBountyInfo[v])
+                    {
+                        Size = new Point(310, 200),
+                        Location = new Point(0, 4),
+                        Parent = infoPanel
+                    };
+                    break;
+                case "challenge":
+                    new Image(_guildChallengeInfo[v])
                     {
                         Size = new Point(310, 200),
                         Location = new Point(0, 4),
