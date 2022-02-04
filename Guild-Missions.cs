@@ -393,6 +393,8 @@ namespace entrhopi.Guild_Missions
                 Parent = contentPanel,
             };
             importButton.Click += delegate { ImportWPList(); };
+
+            UpdateSavedWPList();
         }
 
         private void guildRaceContent()
