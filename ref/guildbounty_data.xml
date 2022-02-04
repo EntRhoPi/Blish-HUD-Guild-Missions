@@ -10,6 +10,7 @@
     <MapName>Timberline Falls</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/2-MULT</Wiki>
   </bounty>
   <bounty>
     <ID>2</ID>
@@ -21,6 +22,7 @@
     <MapName>Southsun Cove</MapName>
     <RegionID>9</RegionID>
     <RegionName>Sea of Sorrows</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Ander_%22Wildman%22_Westward</Wiki>
   </bounty>
   <bounty>
     <ID>3</ID>
@@ -32,6 +34,7 @@
     <MapName>Lornar's Pass</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Bookworm_Bwikki</Wiki>
   </bounty>
   <bounty>
     <ID>4</ID>
@@ -43,6 +46,7 @@
     <MapName>Sparkfly Fen</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Big_Mayana</Wiki>
   </bounty>
   <bounty>
     <ID>5</ID>
@@ -54,6 +58,7 @@
     <MapName>Harathi Hinterlands</MapName>
     <RegionID>4</RegionID>
     <RegionName>Kryta</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Brekkabek</Wiki>
   </bounty>
   <bounty>
     <ID>6</ID>
@@ -65,6 +70,7 @@
     <MapName>Sparkfly Fen</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Crusader_Michiele</Wiki>
   </bounty>
   <bounty>
     <ID>7</ID>
@@ -76,6 +82,7 @@
     <MapName>Snowden Drifts</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/%22Deputy%22_Brooke</Wiki>
   </bounty>
   <bounty>
     <ID>8</ID>
@@ -87,6 +94,7 @@
     <MapName>Frostgorge Sound</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Devious_Teesa</Wiki>
   </bounty>
   <bounty>
     <ID>9</ID>
@@ -98,6 +106,7 @@
     <MapName>Brisban Wildlands</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Diplomat_Tarban</Wiki>
   </bounty>
   <bounty>
     <ID>10</ID>
@@ -109,6 +118,7 @@
     <MapName>Mount Maelstrom</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Half-Baked_Komali</Wiki>
   </bounty>
   <bounty>
     <ID>11</ID>
@@ -120,6 +130,7 @@
     <MapName>Kessex Hills</MapName>
     <RegionID>4</RegionID>
     <RegionName>Kryta</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Poobadoo</Wiki>
   </bounty>
   <bounty>
     <ID>12</ID>
@@ -131,6 +142,7 @@
     <MapName>Iron Marches</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Prisoner_1141</Wiki>
   </bounty>
   <bounty>
     <ID>13</ID>
@@ -142,6 +154,7 @@
     <MapName>Fireheart Rise</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Shaman_Arderus</Wiki>
   </bounty>
   <bounty>
     <ID>14</ID>
@@ -153,6 +166,7 @@
     <MapName>Diessa Plateau</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Short-Fuse_Felix</Wiki>
   </bounty>
   <bounty>
     <ID>15</ID>
@@ -164,6 +178,7 @@
     <MapName>Gendarran Fields</MapName>
     <RegionID>4</RegionID>
     <RegionName>Kryta</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Sotzz_the_Scallywag</Wiki>
   </bounty>
   <bounty>
     <ID>16</ID>
@@ -175,6 +190,7 @@
     <MapName>Dredgehaunt Cliffs</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Tricksy_Trekksa</Wiki>
   </bounty>
   <bounty>
     <ID>17</ID>
@@ -186,6 +202,7 @@
     <MapName>Fields of Ruin</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Trillia_Midwell</Wiki>
   </bounty>
   <bounty>
     <ID>18</ID>
@@ -197,5 +214,6 @@
     <MapName>Fields of Ruin</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://Wiki.guildwars2.com/wiki/Yanonka_the_Rat-Wrangler</Wiki>
   </bounty>
 </root>

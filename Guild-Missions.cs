@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.Composition;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Xml.Linq;
@@ -480,7 +481,7 @@ namespace entrhopi.Guild_Missions
                 ShowBorder = true,
                 CanScroll = true,
                 Title = "List",
-                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
+                Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN - 72),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
                 Parent = contentPanel,
             };
@@ -845,7 +846,11 @@ namespace entrhopi.Guild_Missions
 
         private void ViewInfoPanel(XElement element, Panel parent, int position, String type)
         {
-
+            String wiki = "";
+            if(element.Element("Wiki") != null)
+            {
+                wiki = element.Element("Wiki").Value;
+            }
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
@@ -904,10 +909,10 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(parent.Width - 70, -10),
                 Parent = trekPanel
             };
-            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type); };
+            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type, wiki); };
         }
 
-        private void DisplayInfo(int v, String type)
+        private void DisplayInfo(int v, String type, String wiki = "")
         {
             infoPanel.ClearChildren();
 
@@ -930,12 +935,14 @@ namespace entrhopi.Guild_Missions
                     };
                     break;
                 case "bounty":
-                    new Image(_guildBountyInfo[v])
+                    var openWikiBttn = new StandardButton()
                     {
-                        Size = new Point(310, 200),
+                        Text = "Open Wiki",
+                        Size = new Point(110, 30),
                         Location = new Point(0, 4),
-                        Parent = infoPanel
+                        Parent = infoPanel,
                     };
+                    openWikiBttn.Click += delegate { Process.Start(wiki); };
                     break;
                 case "challenge":
                     new Image(_guildChallengeInfo[v])
