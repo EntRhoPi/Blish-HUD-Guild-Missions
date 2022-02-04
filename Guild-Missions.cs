@@ -847,11 +847,6 @@ namespace entrhopi.Guild_Missions
 
         private void ViewInfoPanel(XElement element, Panel parent, int position, String type, int offset = 0)
         {
-            String wiki = "";
-            if(element.Element("Wiki") != null)
-            {
-                wiki = element.Element("Wiki").Value;
-            }
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
@@ -910,25 +905,28 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(parent.Width - 70 - offset, -10),
                 Parent = trekPanel
             };
-            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type, element, wiki); };
+            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type, element); };
         }
 
-        private void DisplayInfo(int v, String type, XElement element, String wiki = "")
+        private void DisplayInfo(int v, String type, XElement element)
         {
-            infoPanel.ClearChildren();
+            int offset = 0;
 
-            var titleLbl = new Label()
+            infoPanel.ClearChildren();
+            infoPanel.Title = "Info: " + element.Element("Name").Value;
+
+            if (element.Element("Wiki") != null)
             {
-                Text = element.Element("Name").Value,
-                Font = Content.DefaultFont16,
-                Location = new Point(4, 4),
-                TextColor = Color.White,
-                ShadowColor = Color.Black,
-                ShowShadow = true,
-                AutoSizeWidth = true,
-                AutoSizeHeight = true,
-                Parent = infoPanel
-            };
+                var openWikiBttn = new StandardButton()
+                {
+                    Text = "Open Wiki",
+                    Size = new Point(110, 30),
+                    Location = new Point(4, 4),
+                    Parent = infoPanel,
+                };
+                openWikiBttn.Click += delegate { Process.Start(element.Element("Wiki").Value); };
+                offset += 40;
+            }
 
             switch (type)
             {
@@ -936,7 +934,7 @@ namespace entrhopi.Guild_Missions
                     new Image(_guildRaceMap[v])
                     {
                         Size = new Point(310, 500),
-                        Location = new Point(4, 44),
+                        Location = new Point(4, 4 + offset),
                         Parent = infoPanel
                     };
                     break;
@@ -944,25 +942,15 @@ namespace entrhopi.Guild_Missions
                     new Image(_guildPuzzleInfo[v])
                     {
                         Size = new Point(310, 200),
-                        Location = new Point(4, 44),
+                        Location = new Point(4, 4 + offset),
                         Parent = infoPanel
                     };
-                    break;
-                case "bounty":
-                    var openWikiBttn = new StandardButton()
-                    {
-                        Text = "Open Wiki",
-                        Size = new Point(110, 30),
-                        Location = new Point(4, 44),
-                        Parent = infoPanel,
-                    };
-                    openWikiBttn.Click += delegate { Process.Start(wiki); };
                     break;
                 case "challenge":
                     new Image(_guildChallengeInfo[v])
                     {
                         Size = new Point(310, 200),
-                        Location = new Point(4, 44),
+                        Location = new Point(4, 4 + offset),
                         Parent = infoPanel
                     };
                     break;
