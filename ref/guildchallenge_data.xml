@@ -10,6 +10,7 @@
     <MapName>Blazeridge Steppes</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Blightwater_Shatterstrike</Wiki>
   </challenge>
   <challenge>
     <ID>2</ID>
@@ -21,6 +22,7 @@
     <MapName>Fields of Ruin</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Branded_for_Termination</Wiki>
   </challenge>
   <challenge>
     <ID>3</ID>
@@ -32,6 +34,7 @@
     <MapName>Mount Maelstrom</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Deep_Trouble</Wiki>
   </challenge>
   <challenge>
     <ID>4</ID>
@@ -43,6 +46,7 @@
     <MapName>Iron Marches</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Save_Our_Supplies</Wiki>
   </challenge>
   <challenge>
     <ID>5</ID>
@@ -54,6 +58,7 @@
     <MapName>Timberline Falls</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Scratch_Sentry_Defense</Wiki>
   </challenge>
   <challenge>
     <ID>6</ID>
@@ -65,5 +70,6 @@
     <MapName>Southsun Cove</MapName>
     <RegionID>9</RegionID>
     <RegionName>Kryta</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Southsun_Crab_Toss</Wiki>
   </challenge>
 </root>

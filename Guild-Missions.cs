@@ -938,22 +938,6 @@ namespace entrhopi.Guild_Missions
                         Parent = infoPanel
                     };
                     break;
-                case "puzzle":
-                    new Image(_guildPuzzleInfo[v])
-                    {
-                        Size = new Point(310, 200),
-                        Location = new Point(4, 4 + offset),
-                        Parent = infoPanel
-                    };
-                    break;
-                case "challenge":
-                    new Image(_guildChallengeInfo[v])
-                    {
-                        Size = new Point(310, 200),
-                        Location = new Point(4, 4 + offset),
-                        Parent = infoPanel
-                    };
-                    break;
                 default:
                     break;
             }

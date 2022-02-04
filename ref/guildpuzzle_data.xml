@@ -10,6 +10,7 @@
     <MapName>Snowden Drifts</MapName>
     <RegionID>10</RegionID>
     <RegionName>Shiverpeak Mountains</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Angvar%27s_Trove_(guild_puzzle)</Wiki>
   </puzzle>
   <puzzle>
     <ID>2</ID>
@@ -21,6 +22,7 @@
     <MapName>Plains of Ashford</MapName>
     <RegionID>1</RegionID>
     <RegionName>Ascalon</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Langmar_Estate_(guild_puzzle)</Wiki>
   </puzzle>
   <puzzle>
     <ID>3</ID>
@@ -32,5 +34,6 @@
     <MapName>Brisban Wildlands</MapName>
     <RegionID>5</RegionID>
     <RegionName>Maguuma Jungle</RegionName>
+    <Wiki>https://wiki.guildwars2.com/wiki/Proxemics_Lab_(guild_puzzle)</Wiki>
   </puzzle>
 </root>
