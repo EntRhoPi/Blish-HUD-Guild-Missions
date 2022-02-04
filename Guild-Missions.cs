@@ -479,7 +479,6 @@ namespace entrhopi.Guild_Missions
             listPanel = new Panel()
             {
                 ShowBorder = true,
-                CanScroll = true,
                 Title = "List",
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN - 72),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
@@ -507,6 +506,8 @@ namespace entrhopi.Guild_Missions
                 ViewInfoPanel(bounty, listPanel, i, "bounty");
                 i++;
             }
+
+            listPanel.CanScroll = true;
         }
 
         private void guildChallengeContent()
