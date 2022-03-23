@@ -70,7 +70,7 @@ namespace entrhopi.Guild_Missions
 
         private Texture2D _closeTexture;
 
-        internal string GuildTrekTabName = "Guild Missions";
+        internal string GuildMissionsTabName = Strings.Common.gmTabName;
 
         private WindowTab _moduleTab;
         private TextBox searchTextBox;
@@ -113,7 +113,7 @@ namespace entrhopi.Guild_Missions
         protected override void OnModuleLoaded(EventArgs e)
         {
 
-            _moduleTab = Overlay.BlishHudWindow.AddTab(GuildTrekTabName, _guildMissionIcon, GuildMissionsView(Overlay.BlishHudWindow));
+            _moduleTab = Overlay.BlishHudWindow.AddTab(GuildMissionsTabName, _guildMissionIcon, GuildMissionsView(Overlay.BlishHudWindow));
 
             // Base handler must be called
             base.OnModuleLoaded(e);
@@ -130,7 +130,7 @@ namespace entrhopi.Guild_Missions
             var missionTypePanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "Choose Guild Mission Type",
+                Title = Strings.Common.gmTypeSelect,
                 Size = new Point(265, parentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN, TOP_MARGIN),
                 Parent = parentPanel,
@@ -152,7 +152,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Trek",
+                Text = Strings.Common.gmTypeTrek,
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
                 TextColor = Color.White,
@@ -179,7 +179,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Bounty",
+                Text = Strings.Common.gmTypeBounty,
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
                 TextColor = Color.White,
@@ -206,7 +206,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Race",
+                Text = Strings.Common.gmTypeRace,
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
                 TextColor = Color.White,
@@ -233,7 +233,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Challenge",
+                Text = Strings.Common.gmTypeChallenge,
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
                 TextColor = Color.White,
@@ -260,7 +260,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Puzzle",
+                Text = Strings.Common.gmTypePuzzle,
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + panelsize, panelsize / 2 - 10),
                 TextColor = Color.White,
@@ -295,7 +295,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Trek",
+                Text = Strings.Common.gmTypeTrek,
                 Font = Content.DefaultFont32,
                 Location = new Point(82, 18),
                 TextColor = Color.White,
@@ -308,7 +308,7 @@ namespace entrhopi.Guild_Missions
 
             searchTextBox = new TextBox()
             {
-                PlaceholderText = "Enter name here ...",
+                PlaceholderText = Strings.Common.gmSearchPlaceholder,
                 Size = new Point(358, 43),
                 Font = GameService.Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN, 72 + TOP_MARGIN),
@@ -319,7 +319,7 @@ namespace entrhopi.Guild_Missions
             trekListPanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "Search Results",
+                Title = Strings.Common.gmPanelSearchResults,
                 Size = new Point(364, contentPanel.Height - searchTextBox.Bottom - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN - 3, searchTextBox.Bottom + TOP_MARGIN),
                 Parent = contentPanel,
@@ -329,7 +329,7 @@ namespace entrhopi.Guild_Missions
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Saved Treks",
+                Title = Strings.Common.gmPanelSavedTreks,
                 Size = new Point(364, contentPanel.Height - searchTextBox.Bottom - BOTTOM_MARGIN),
                 Location = new Point(trekListPanel.Right + LEFT_MARGIN, searchTextBox.Bottom + TOP_MARGIN),
                 Parent = contentPanel,
@@ -337,7 +337,7 @@ namespace entrhopi.Guild_Missions
 
             var clearAllButton = new StandardButton()
             {
-                Text = "Clear All",
+                Text = Strings.Common.gmButtonClearAll,
                 Size = new Point(110, 30),
                 Location = new Point(trekListPanel.Right + 20, searchTextBox.Top - 1),
                 Parent = contentPanel,
@@ -346,7 +346,7 @@ namespace entrhopi.Guild_Missions
 
             var exportButton = new StandardButton()
             {
-                Text = "Export",
+                Text = Strings.Common.gmButtonExport,
                 Size = new Point(110, 30),
                 Location = new Point(trekListPanel.Right + 130 + LEFT_MARGIN, searchTextBox.Top - 1),
                 Parent = contentPanel,
@@ -355,7 +355,7 @@ namespace entrhopi.Guild_Missions
 
             var importButton = new StandardButton()
             {
-                Text = "Import",
+                Text = Strings.Common.gmButtonImport,
                 Size = new Point(110, 30),
                 Location = new Point(trekListPanel.Right + 250 + LEFT_MARGIN, searchTextBox.Top - 1),
                 Parent = contentPanel,
@@ -377,7 +377,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Race",
+                Text = Strings.Common.gmTypeRace,
                 Font = Content.DefaultFont32,
                 Location = new Point(82, 18),
                 TextColor = Color.White,
@@ -391,7 +391,7 @@ namespace entrhopi.Guild_Missions
             listPanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "List",
+                Title = Strings.Common.gmPanelList,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -401,7 +401,7 @@ namespace entrhopi.Guild_Missions
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Info",
+                Title = Strings.Common.gmPanelInfo,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -432,7 +432,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Bounty",
+                Text = Strings.Common.gmTypeBounty,
                 Font = Content.DefaultFont32,
                 Location = new Point(82, 18),
                 TextColor = Color.White,
@@ -446,7 +446,7 @@ namespace entrhopi.Guild_Missions
             listPanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "List",
+                Title = Strings.Common.gmPanelList,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN - 72),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -456,7 +456,7 @@ namespace entrhopi.Guild_Missions
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Info",
+                Title = Strings.Common.gmPanelInfo,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -489,7 +489,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Challenge",
+                Text = Strings.Common.gmTypeChallenge,
                 Font = Content.DefaultFont32,
                 Location = new Point(82, 18),
                 TextColor = Color.White,
@@ -503,7 +503,7 @@ namespace entrhopi.Guild_Missions
             listPanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "List",
+                Title = Strings.Common.gmPanelList,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -513,7 +513,7 @@ namespace entrhopi.Guild_Missions
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Info",
+                Title = Strings.Common.gmPanelInfo,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -544,7 +544,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = "Puzzle",
+                Text = Strings.Common.gmTypePuzzle,
                 Font = Content.DefaultFont32,
                 Location = new Point(82, 18),
                 TextColor = Color.White,
@@ -558,7 +558,7 @@ namespace entrhopi.Guild_Missions
             listPanel = new Panel()
             {
                 ShowBorder = true,
-                Title = "List",
+                Title = Strings.Common.gmPanelList,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(LEFT_MARGIN - 3, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -568,7 +568,7 @@ namespace entrhopi.Guild_Missions
             {
                 CanScroll = true,
                 ShowBorder = true,
-                Title = "Info",
+                Title = Strings.Common.gmPanelInfo,
                 Size = new Point(364, contentPanel.Height - BOTTOM_MARGIN),
                 Location = new Point(listPanel.Right + LEFT_MARGIN, 72 + TOP_MARGIN),
                 Parent = contentPanel,
@@ -585,18 +585,6 @@ namespace entrhopi.Guild_Missions
                 ViewInfoPanel(puzzle, listPanel, i, "puzzle");
                 i++;
             }
-        }
-
-        private void lockedContent()
-        {
-            contentPanel.ClearChildren();
-
-            new Image(_lockedIcon)
-            {
-                Size = new Point(656, 680),
-                Location = new Point(contentPanel.Width / 2 - 328, contentPanel.Height / 2 - 340),
-                Parent = contentPanel
-            };
         }
 
         private void SearchboxOnTextChanged(object sender, EventArgs e)
@@ -652,6 +640,7 @@ namespace entrhopi.Guild_Missions
             var export = "BlishGM";
             foreach (KeyValuePair<int, int> wp in savedGuildTreks.OrderBy(key => key.Value))
             {
+                i++;
                 export = export + ';' + wp.Key.ToString();
             }
 
@@ -659,11 +648,11 @@ namespace entrhopi.Guild_Missions
             {
                 if (clipboardResult.IsFaulted)
                 {
-                    ScreenNotification.ShowNotification("Failed to copy export to clipboard. Try again.", ScreenNotification.NotificationType.Red, duration: 2);
+                    ScreenNotification.ShowNotification(Strings.Common.gmNotificationClipboardError, ScreenNotification.NotificationType.Red, duration: 2);
                 }
                 else
                 {
-                    ScreenNotification.ShowNotification("Copied export to clipboard!", duration: 2);
+                    ScreenNotification.ShowNotification(String.Format(Strings.Common.gmNotificationClipboardSaved, (i)), duration: 2);
                 }
             });
         }
@@ -700,7 +689,7 @@ namespace entrhopi.Guild_Missions
                                 i++;
                             }
 
-                            ScreenNotification.ShowNotification("Imported " + (i-1) + " waypoints from clipboard!", duration: 2);
+                            ScreenNotification.ShowNotification(String.Format(Strings.Common.gmNotificationClipboardRead, (i - 1)), duration: 2);
                         }
                     }
                     else
