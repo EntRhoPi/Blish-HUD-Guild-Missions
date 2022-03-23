@@ -2,8 +2,8 @@
 <root>
   <race>
     <id>1</id>
-    <name>Bear Lope</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Bear_Lope</wiki_link>
+    <name>Bärengalopp</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(B%C3%A4rengalopp)</wiki_link>
     <waypoint_id>233</waypoint_id>
     <waypoint_name>Wegmarke Abtei Durmand</waypoint_name>
     <chat_link>[&amp;BOkAAAA=]</chat_link>
@@ -12,8 +12,8 @@
   </race>
   <race>
     <id>2</id>
-    <name>Chicken Run</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Chicken_Run</wiki_link>
+    <name>Hühnerlauf</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(H%C3%BChnerlauf)</wiki_link>
     <waypoint_id>332</waypoint_id>
     <waypoint_name>Wegmarke Fangzornwacht</waypoint_name>
     <chat_link>[&amp;BEwBAAA=]</chat_link>
@@ -22,8 +22,8 @@
   </race>
   <race>
     <id>3</id>
-    <name>Crab Scuttle</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Crab_Scuttle</wiki_link>
+    <name>Krebskrabbeln</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(Krebskrabbeln)</wiki_link>
     <waypoint_id>1756</waypoint_id>
     <waypoint_name>Wegmarke Kiels Außenposten</waypoint_name>
     <chat_link>[&amp;BNwGAAA=]</chat_link>
@@ -32,8 +32,8 @@
   </race>
   <race>
     <id>4</id>
-    <name>Devourer Burrow</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Devourer_Burrow</wiki_link>
+    <name>Verschlingerwühlen</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(Verschlingerw%C3%BChlen)</wiki_link>
     <waypoint_id>969</waypoint_id>
     <waypoint_name>Wegmarke Manbanes Felsaufschluss</waypoint_name>
     <chat_link>[&amp;BMkDAAA=]</chat_link>
@@ -42,8 +42,8 @@
   </race>
   <race>
     <id>5</id>
-    <name>Ghost Wolf Run</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Ghost_Wolf_Run</wiki_link>
+    <name>Geisterwolflauf</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(Geisterwolflauf)</wiki_link>
     <waypoint_id>165</waypoint_id>
     <waypoint_name>Wegmarke Fauns</waypoint_name>
     <chat_link>[&amp;BKUAAAA=]</chat_link>
@@ -52,8 +52,8 @@
   </race>
   <race>
     <id>6</id>
-    <name>Quaggan Paddle</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Quaggan_Paddle</wiki_link>
+    <name>Quaggan-Paddel</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(Quaggan-Paddel)</wiki_link>
     <waypoint_id>640</waypoint_id>
     <waypoint_name>Wegmarke Twoluup</waypoint_name>
     <chat_link>[&amp;BIACAAA=]</chat_link>
@@ -62,8 +62,8 @@
   </race>
   <race>
     <id>7</id>
-    <name>Spider Scurry</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Spider_Scurry</wiki_link>
+    <name>Spinnenspurt</name>
+    <wiki_link>https://wiki-de.guildwars2.com/wiki/Schlie%C3%9Ft_den_Gilden-Sprint-Parcours_ab_(Spinnenspurt)</wiki_link>
     <waypoint_id>605</waypoint_id>
     <waypoint_name>Wegmarke Hessdallen Kenning</waypoint_name>
     <chat_link>[&amp;BF0CAAA=]</chat_link>

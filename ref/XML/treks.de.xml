@@ -2,7 +2,7 @@
 <root>
   <trek>
     <id>2</id>
-    <name>Altar Brook Lair</name>
+    <name>Altarbach-Höhle</name>
     <waypoint_id>242</waypoint_id>
     <waypoint_name>Wegmarke Kreuzung</waypoint_name>
     <chat_link>[&amp;BPIAAAA=]</chat_link>
@@ -11,7 +11,7 @@
   </trek>
   <trek>
     <id>72</id>
-    <name>Anthem's Hold</name>
+    <name>Hymnenfeste</name>
     <waypoint_id>1764</waypoint_id>
     <waypoint_name>Wegmarke Schiffswrackfelsen</waypoint_name>
     <chat_link>[&amp;BOQGAAA=]</chat_link>
@@ -20,7 +20,7 @@
   </trek>
   <trek>
     <id>3</id>
-    <name>Anya's Patch</name>
+    <name>Anyas Beet</name>
     <waypoint_id>222</waypoint_id>
     <waypoint_name>Wegmarke Nolan</waypoint_name>
     <chat_link>[&amp;BN4AAAA=]</chat_link>
@@ -29,7 +29,7 @@
   </trek>
   <trek>
     <id>4</id>
-    <name>Arctodus Haunt</name>
+    <name>Arctodus-Schlupfwinkel</name>
     <waypoint_id>382</waypoint_id>
     <waypoint_name>Wegmarke Vendrakes Gehöft</waypoint_name>
     <chat_link>[&amp;BH4BAAA=]</chat_link>
@@ -38,7 +38,7 @@
   </trek>
   <trek>
     <id>69</id>
-    <name>Backroot Fountain</name>
+    <name>Hinterwurzel-Brunnen</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Wegmarke Rechenmeister</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -47,7 +47,7 @@
   </trek>
   <trek>
     <id>41</id>
-    <name>Badjelly Kelpbed</name>
+    <name>Fiesquallen-Tangbeet</name>
     <waypoint_id>188</waypoint_id>
     <waypoint_name>Wegmarke Exil</waypoint_name>
     <chat_link>[&amp;BLwAAAA=]</chat_link>
@@ -56,7 +56,7 @@
   </trek>
   <trek>
     <id>7</id>
-    <name>Bandit's Cabbage Patch</name>
+    <name>Banditen-Kohlfeld</name>
     <waypoint_id>168</waypoint_id>
     <waypoint_name>Wegmarke Wynchona-Sammelpunkt</waypoint_name>
     <chat_link>[&amp;BKgAAAA=]</chat_link>
@@ -65,7 +65,7 @@
   </trek>
   <trek>
     <id>9</id>
-    <name>Beetlestone Mirador</name>
+    <name>Beetlestone-Belvedere</name>
     <waypoint_id>250</waypoint_id>
     <waypoint_name>Wegmarke Beetletun</waypoint_name>
     <chat_link>[&amp;BPoAAAA=]</chat_link>
@@ -74,7 +74,7 @@
   </trek>
   <trek>
     <id>130</id>
-    <name>Black Lion Root Cellar</name>
+    <name>Schwarzlöwen-Wurzelkeller</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Wegmarke Rechenmeister</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -83,7 +83,7 @@
   </trek>
   <trek>
     <id>129</id>
-    <name>Blackblade Butte</name>
+    <name>Schwarzklingen-Kuppe</name>
     <waypoint_id>220</waypoint_id>
     <waypoint_name>Wegmarke Rhands Brunnen</waypoint_name>
     <chat_link>[&amp;BNwAAAA=]</chat_link>
@@ -92,7 +92,7 @@
   </trek>
   <trek>
     <id>168</id>
-    <name>Blasted Sepulchre</name>
+    <name>Verdammnis-Grabkammer</name>
     <waypoint_id>218</waypoint_id>
     <waypoint_name>Wegmarke Ödmoore</waypoint_name>
     <chat_link>[&amp;BNoAAAA=]</chat_link>
@@ -101,7 +101,7 @@
   </trek>
   <trek>
     <id>10</id>
-    <name>Blood Ooze Gallery</name>
+    <name>Blutschleim-Galerie</name>
     <waypoint_id>429</waypoint_id>
     <waypoint_name>Wegmarke Schwermut</waypoint_name>
     <chat_link>[&amp;BK0BAAA=]</chat_link>
@@ -110,7 +110,7 @@
   </trek>
   <trek>
     <id>11</id>
-    <name>Bluup's Comeuppance</name>
+    <name>Bluups Strafe</name>
     <waypoint_id>1208</waypoint_id>
     <waypoint_name>Wegmarke Forschung</waypoint_name>
     <chat_link>[&amp;BLgEAAA=]</chat_link>
@@ -119,7 +119,7 @@
   </trek>
   <trek>
     <id>12</id>
-    <name>Brandstrike Dig</name>
+    <name>Brandschlag-Grube</name>
     <waypoint_id>331</waypoint_id>
     <waypoint_name>Wegmarke Helliot-Mine</waypoint_name>
     <chat_link>[&amp;BEsBAAA=]</chat_link>
@@ -128,7 +128,7 @@
   </trek>
   <trek>
     <id>180</id>
-    <name>Briarthorn Barrier</name>
+    <name>Wilddorn-Barriere</name>
     <waypoint_id>309</waypoint_id>
     <waypoint_name>Wegmarke Morgan-Spirale</waypoint_name>
     <chat_link>[&amp;BDUBAAA=]</chat_link>
@@ -137,7 +137,7 @@
   </trek>
   <trek>
     <id>131</id>
-    <name>Broken Falls Courtyard</name>
+    <name>Schwundfallhof</name>
     <waypoint_id>940</waypoint_id>
     <waypoint_name>Wegmarke Ruinen von Rin</waypoint_name>
     <chat_link>[&amp;BKwDAAA=]</chat_link>
@@ -146,7 +146,7 @@
   </trek>
   <trek>
     <id>15</id>
-    <name>Broodmother Falls</name>
+    <name>Brutmutter-Fälle</name>
     <waypoint_id>644</waypoint_id>
     <waypoint_name>Wegmarke Yakbiegung</waypoint_name>
     <chat_link>[&amp;BIQCAAA=]</chat_link>
@@ -155,7 +155,7 @@
   </trek>
   <trek>
     <id>14</id>
-    <name>Brother's Notch</name>
+    <name>Brüder-Engpass</name>
     <waypoint_id>912</waypoint_id>
     <waypoint_name>Wegmarke Heldenzirkel</waypoint_name>
     <chat_link>[&amp;BJADAAA=]</chat_link>
@@ -164,7 +164,7 @@
   </trek>
   <trek>
     <id>119</id>
-    <name>Burstbubble Blind</name>
+    <name>Sackgasse der geplatzten Träume</name>
     <waypoint_id>850</waypoint_id>
     <waypoint_name>Wegmarke Rußstraße</waypoint_name>
     <chat_link>[&amp;BFIDAAA=]</chat_link>
@@ -173,7 +173,7 @@
   </trek>
   <trek>
     <id>172</id>
-    <name>Cache of the Pursued</name>
+    <name>Vorratslager der Verfolgten</name>
     <waypoint_id>801</waypoint_id>
     <waypoint_name>Wegmarke Kastell Schattenlieb</waypoint_name>
     <chat_link>[&amp;BCEDAAA=]</chat_link>
@@ -182,7 +182,7 @@
   </trek>
   <trek>
     <id>16</id>
-    <name>Cademkrall Overlook</name>
+    <name>Cademkrall-Aussichtspunkt</name>
     <waypoint_id>392</waypoint_id>
     <waypoint_name>Wegmarke Wächterfels-Turm</waypoint_name>
     <chat_link>[&amp;BIgBAAA=]</chat_link>
@@ -191,7 +191,7 @@
   </trek>
   <trek>
     <id>98</id>
-    <name>Canyonweb Cave</name>
+    <name>Netzschluchthöhle</name>
     <waypoint_id>516</waypoint_id>
     <waypoint_name>Wegmarke Brandblick</waypoint_name>
     <chat_link>[&amp;BAQCAAA=]</chat_link>
@@ -200,7 +200,7 @@
   </trek>
   <trek>
     <id>81</id>
-    <name>Captain's Berth</name>
+    <name>Koje des Kapitäns</name>
     <waypoint_id>690</waypoint_id>
     <waypoint_name>Wegmarke Lichter</waypoint_name>
     <chat_link>[&amp;BLICAAA=]</chat_link>
@@ -209,7 +209,7 @@
   </trek>
   <trek>
     <id>17</id>
-    <name>Castavall Corner</name>
+    <name>Castavall-Ecke</name>
     <waypoint_id>429</waypoint_id>
     <waypoint_name>Wegmarke Schwermut</waypoint_name>
     <chat_link>[&amp;BK0BAAA=]</chat_link>
@@ -218,7 +218,7 @@
   </trek>
   <trek>
     <id>78</id>
-    <name>Cathedral's Cavity</name>
+    <name>Kathedralenraum</name>
     <waypoint_id>684</waypoint_id>
     <waypoint_name>Wegmarke Wren</waypoint_name>
     <chat_link>[&amp;BKwCAAA=]</chat_link>
@@ -227,7 +227,7 @@
   </trek>
   <trek>
     <id>70</id>
-    <name>Cave Bear Cache</name>
+    <name>Höhlenbärenversteck</name>
     <waypoint_id>191</waypoint_id>
     <waypoint_name>Wegmarke Schneefalken-Posten</waypoint_name>
     <chat_link>[&amp;BL8AAAA=]</chat_link>
@@ -236,7 +236,7 @@
   </trek>
   <trek>
     <id>71</id>
-    <name>Cave Spider Nidus</name>
+    <name>Höhlenspinnen-Nest</name>
     <waypoint_id>408</waypoint_id>
     <waypoint_name>Wegmarke Gipfelenklave</waypoint_name>
     <chat_link>[&amp;BJgBAAA=]</chat_link>
@@ -245,7 +245,7 @@
   </trek>
   <trek>
     <id>158</id>
-    <name>Claypool Bailey</name>
+    <name>Tonteich-Außenhof</name>
     <waypoint_id>246</waypoint_id>
     <waypoint_name>Wegmarke Tonteich</waypoint_name>
     <chat_link>[&amp;BPYAAAA=]</chat_link>
@@ -254,7 +254,7 @@
   </trek>
   <trek>
     <id>148</id>
-    <name>Constellation Parapet</name>
+    <name>Sternbildbrüstung</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Wegmarke Rechenmeister</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -263,7 +263,7 @@
   </trek>
   <trek>
     <id>185</id>
-    <name>Corruption's Teeth</name>
+    <name>Zähne der Verderbnis</name>
     <waypoint_id>646</waypoint_id>
     <waypoint_name>Wegmarke Drakkar</waypoint_name>
     <chat_link>[&amp;BIYCAAA=]</chat_link>
@@ -272,7 +272,7 @@
   </trek>
   <trek>
     <id>18</id>
-    <name>Covington's Stowage</name>
+    <name>Covingtons Stauraum</name>
     <waypoint_id>424</waypoint_id>
     <waypoint_name>Wegmarke Lachmöwe</waypoint_name>
     <chat_link>[&amp;BKgBAAA=]</chat_link>
@@ -281,7 +281,7 @@
   </trek>
   <trek>
     <id>62</id>
-    <name>Cutthroat's Rest</name>
+    <name>Halsabschneiders Ruhestatt</name>
     <waypoint_id>973</waypoint_id>
     <waypoint_name>Wegmarke Brigantine</waypoint_name>
     <chat_link>[&amp;BM0DAAA=]</chat_link>
@@ -290,7 +290,7 @@
   </trek>
   <trek>
     <id>19</id>
-    <name>Cymbel's Glen</name>
+    <name>Cymbels Schlucht</name>
     <waypoint_id>212</waypoint_id>
     <waypoint_name>Wegmarke Todesklingenwacht</waypoint_name>
     <chat_link>[&amp;BNQAAAA=]</chat_link>
@@ -299,7 +299,7 @@
   </trek>
   <trek>
     <id>94</id>
-    <name>Dawngleam Pergola</name>
+    <name>Morgenrot-Pergola</name>
     <waypoint_id>1212</waypoint_id>
     <waypoint_name>Wegmarke Ronan</waypoint_name>
     <chat_link>[&amp;BLwEAAA=]</chat_link>
@@ -308,7 +308,7 @@
   </trek>
   <trek>
     <id>157</id>
-    <name>Deepmire Diver</name>
+    <name>Tiefschlamm-Taucher</name>
     <waypoint_id>721</waypoint_id>
     <waypoint_name>Wegmarke Ochsenjoch-Insel</waypoint_name>
     <chat_link>[&amp;BNECAAA=]</chat_link>
@@ -317,7 +317,7 @@
   </trek>
   <trek>
     <id>29</id>
-    <name>Defiled Delve</name>
+    <name>Entweihte Senke</name>
     <waypoint_id>17</waypoint_id>
     <waypoint_name>Wegmarke Dunkelwund-Klause</waypoint_name>
     <chat_link>[&amp;BBEAAAA=]</chat_link>
@@ -326,7 +326,7 @@
   </trek>
   <trek>
     <id>6</id>
-    <name>Delight's Balcony</name>
+    <name>Balkon des Wohlgefallens</name>
     <waypoint_id>678</waypoint_id>
     <waypoint_name>Wegmarke Pagga</waypoint_name>
     <chat_link>[&amp;BKYCAAA=]</chat_link>
@@ -335,7 +335,7 @@
   </trek>
   <trek>
     <id>143</id>
-    <name>Destiny's Guildhall</name>
+    <name>Stadthalle des Schicksals</name>
     <waypoint_id>239</waypoint_id>
     <waypoint_name>Wegmarke Shaemoor</waypoint_name>
     <chat_link>[&amp;BO8AAAA=]</chat_link>
@@ -344,7 +344,7 @@
   </trek>
   <trek>
     <id>128</id>
-    <name>Dirtclaw Cleft</name>
+    <name>Schmutzklauenkluft</name>
     <waypoint_id>483</waypoint_id>
     <waypoint_name>Wegmarke Blutflossen-See</waypoint_name>
     <chat_link>[&amp;BOMBAAA=]</chat_link>
@@ -353,7 +353,7 @@
   </trek>
   <trek>
     <id>20</id>
-    <name>Doefalls Court</name>
+    <name>Damfall-Hof</name>
     <waypoint_id>391</waypoint_id>
     <waypoint_name>Wegmarke Stadt Ascalon</waypoint_name>
     <chat_link>[&amp;BIcBAAA=]</chat_link>
@@ -362,7 +362,7 @@
   </trek>
   <trek>
     <id>88</id>
-    <name>Drakecleft Shelf</name>
+    <name>Lindwurmschlund-Riff</name>
     <waypoint_id>332</waypoint_id>
     <waypoint_name>Wegmarke Fangzornwacht</waypoint_name>
     <chat_link>[&amp;BEwBAAA=]</chat_link>
@@ -371,7 +371,7 @@
   </trek>
   <trek>
     <id>87</id>
-    <name>Drakehatch Shore</name>
+    <name>Lindwurmnest-Küste</name>
     <waypoint_id>356</waypoint_id>
     <waypoint_name>Wegmarke Bruchwasser-See</waypoint_name>
     <chat_link>[&amp;BGQBAAA=]</chat_link>
@@ -380,7 +380,7 @@
   </trek>
   <trek>
     <id>25</id>
-    <name>Droknah's Gate</name>
+    <name>Droknar-Tor</name>
     <waypoint_id>724</waypoint_id>
     <waypoint_name>Wegmarke Alter Hammergrund</waypoint_name>
     <chat_link>[&amp;BNQCAAA=]</chat_link>
@@ -389,7 +389,7 @@
   </trek>
   <trek>
     <id>105</id>
-    <name>Drowned Plaza</name>
+    <name>Platz des Ertrinkens</name>
     <waypoint_id>755</waypoint_id>
     <waypoint_name>Wegmarke Der royale Markt</waypoint_name>
     <chat_link>[&amp;BPMCAAA=]</chat_link>
@@ -398,7 +398,7 @@
   </trek>
   <trek>
     <id>102</id>
-    <name>East End Falls</name>
+    <name>Ostend-Fälle</name>
     <waypoint_id>96</waypoint_id>
     <waypoint_name>Wegmarke Ostend</waypoint_name>
     <chat_link>[&amp;BGAAAAA=]</chat_link>
@@ -407,7 +407,7 @@
   </trek>
   <trek>
     <id>103</id>
-    <name>Eastlurk Alley</name>
+    <name>Ostlauergasse</name>
     <waypoint_id>803</waypoint_id>
     <waypoint_name>Wegmarke Dwayna</waypoint_name>
     <chat_link>[&amp;BCMDAAA=]</chat_link>
@@ -416,7 +416,7 @@
   </trek>
   <trek>
     <id>28</id>
-    <name>Elise's Surprise</name>
+    <name>Elises Überraschung</name>
     <waypoint_id>171</waypoint_id>
     <waypoint_name>Wegmarke Demetra</waypoint_name>
     <chat_link>[&amp;BKsAAAA=]</chat_link>
@@ -425,7 +425,7 @@
   </trek>
   <trek>
     <id>33</id>
-    <name>Ettinbreath Lair</name>
+    <name>Ettinodem-Versteck</name>
     <waypoint_id>230</waypoint_id>
     <waypoint_name>Wegmarke Dämonenschlund</waypoint_name>
     <chat_link>[&amp;BOYAAAA=]</chat_link>
@@ -434,7 +434,7 @@
   </trek>
   <trek>
     <id>47</id>
-    <name>Fathom Five Forcefield</name>
+    <name>Fünf-Klafter-Kraftfeld</name>
     <waypoint_id>754</waypoint_id>
     <waypoint_name>Wegmarke Die Abendsternglocke</waypoint_name>
     <chat_link>[&amp;BPICAAA=]</chat_link>
@@ -443,7 +443,7 @@
   </trek>
   <trek>
     <id>36</id>
-    <name>Fawcett's Porch</name>
+    <name>Fawcetts Vordach</name>
     <waypoint_id>195</waypoint_id>
     <waypoint_name>Wegmarke Arcallion</waypoint_name>
     <chat_link>[&amp;BMMAAAA=]</chat_link>
@@ -452,7 +452,7 @@
   </trek>
   <trek>
     <id>38</id>
-    <name>Fire Imp Pocket</name>
+    <name>Feuer-Kobolds Schlupfloch</name>
     <waypoint_id>717</waypoint_id>
     <waypoint_name>Wegmarke Mahlstrom</waypoint_name>
     <chat_link>[&amp;BM0CAAA=]</chat_link>
@@ -461,7 +461,7 @@
   </trek>
   <trek>
     <id>37</id>
-    <name>Firefrog Springs</name>
+    <name>Feuerfrosch-Quellen</name>
     <waypoint_id>460</waypoint_id>
     <waypoint_name>Wegmarke Flammenfrosch</waypoint_name>
     <chat_link>[&amp;BMwBAAA=]</chat_link>
@@ -470,7 +470,7 @@
   </trek>
   <trek>
     <id>39</id>
-    <name>Firewatch Flybridge</name>
+    <name>Feuerwacht-Brücke</name>
     <waypoint_id>493</waypoint_id>
     <waypoint_name>Wegmarke Feuerwacht-Lager</waypoint_name>
     <chat_link>[&amp;BO0BAAA=]</chat_link>
@@ -479,7 +479,7 @@
   </trek>
   <trek>
     <id>40</id>
-    <name>Fisher's Crag</name>
+    <name>Fischers Klippe</name>
     <waypoint_id>1198</waypoint_id>
     <waypoint_name>Wegmarke Alte Golem-Fabrik</waypoint_name>
     <chat_link>[&amp;BK4EAAA=]</chat_link>
@@ -488,7 +488,7 @@
   </trek>
   <trek>
     <id>42</id>
-    <name>Flakk's Lapidary Nook</name>
+    <name>Flakks Steinschneider-Eck</name>
     <waypoint_id>1206</waypoint_id>
     <waypoint_name>Wegmarke Buchhaltung</waypoint_name>
     <chat_link>[&amp;BLYEAAA=]</chat_link>
@@ -497,7 +497,7 @@
   </trek>
   <trek>
     <id>1</id>
-    <name>Forager's Midden</name>
+    <name>Abfallhaufen des Sammlers</name>
     <waypoint_id>603</waypoint_id>
     <waypoint_name>Wegmarke Stahlbrachen</waypoint_name>
     <chat_link>[&amp;BFsCAAA=]</chat_link>
@@ -506,7 +506,7 @@
   </trek>
   <trek>
     <id>167</id>
-    <name>Forbidden Shear</name>
+    <name>Verbotene Schneide</name>
     <waypoint_id>687</waypoint_id>
     <waypoint_name>Wegmarke Wisper</waypoint_name>
     <chat_link>[&amp;BK8CAAA=]</chat_link>
@@ -515,7 +515,7 @@
   </trek>
   <trek>
     <id>171</id>
-    <name>Foreman's Recess</name>
+    <name>Vorarbeiters Rast</name>
     <waypoint_id>600</waypoint_id>
     <waypoint_name>Wegmarke Dociu-Ausgrabung</waypoint_name>
     <chat_link>[&amp;BFgCAAA=]</chat_link>
@@ -524,7 +524,7 @@
   </trek>
   <trek>
     <id>169</id>
-    <name>Forgotten Grotto</name>
+    <name>Vergessene Grotte</name>
     <waypoint_id>513</waypoint_id>
     <waypoint_name>Wegmarke Terra Carorunda</waypoint_name>
     <chat_link>[&amp;BAECAAA=]</chat_link>
@@ -533,7 +533,7 @@
   </trek>
   <trek>
     <id>43</id>
-    <name>Founder's Flagon Hearth</name>
+    <name>Flaschenhals-Feuerstelle des Gründers</name>
     <waypoint_id>1085</waypoint_id>
     <waypoint_name>Wegmarke Kestrel</waypoint_name>
     <chat_link>[&amp;BD0EAAA=]</chat_link>
@@ -542,7 +542,7 @@
   </trek>
   <trek>
     <id>45</id>
-    <name>Freestand Scaffold</name>
+    <name>Freistehendes Gerüst</name>
     <waypoint_id>940</waypoint_id>
     <waypoint_name>Wegmarke Ruinen von Rin</waypoint_name>
     <chat_link>[&amp;BKwDAAA=]</chat_link>
@@ -551,7 +551,7 @@
   </trek>
   <trek>
     <id>51</id>
-    <name>Frozen Antrum</name>
+    <name>Gefrorene Höhle</name>
     <waypoint_id>591</waypoint_id>
     <waypoint_name>Wegmarke Weißpapierhügel</waypoint_name>
     <chat_link>[&amp;BE8CAAA=]</chat_link>
@@ -560,7 +560,7 @@
   </trek>
   <trek>
     <id>48</id>
-    <name>Gallow Canyons</name>
+    <name>Galgenschluchten</name>
     <waypoint_id>99</waypoint_id>
     <waypoint_name>Wegmarke Spukfelder</waypoint_name>
     <chat_link>[&amp;BGMAAAA=]</chat_link>
@@ -569,7 +569,7 @@
   </trek>
   <trek>
     <id>49</id>
-    <name>Gardenroot Alcove</name>
+    <name>Gartenwurzel-Alkoven</name>
     <waypoint_id>1210</waypoint_id>
     <waypoint_name>Wegmarke Obere Distrikte</waypoint_name>
     <chat_link>[&amp;BLoEAAA=]</chat_link>
@@ -578,7 +578,7 @@
   </trek>
   <trek>
     <id>55</id>
-    <name>Gnashar's Viewpoint</name>
+    <name>Gnashar-Aussichtspunkt</name>
     <waypoint_id>93</waypoint_id>
     <waypoint_name>Wegmarke Wendon</waypoint_name>
     <chat_link>[&amp;BF0AAAA=]</chat_link>
@@ -587,7 +587,7 @@
   </trek>
   <trek>
     <id>59</id>
-    <name>Green Moa Paddock</name>
+    <name>Grünmoa-Koppel</name>
     <waypoint_id>316</waypoint_id>
     <waypoint_name>Wegmarke Caledon-Freistatt</waypoint_name>
     <chat_link>[&amp;BDwBAAA=]</chat_link>
@@ -596,7 +596,7 @@
   </trek>
   <trek>
     <id>58</id>
-    <name>Grenth's Pavillion</name>
+    <name>Grenths Pavillon</name>
     <waypoint_id>804</waypoint_id>
     <waypoint_name>Wegmarke Grenth</waypoint_name>
     <chat_link>[&amp;BCQDAAA=]</chat_link>
@@ -605,7 +605,7 @@
   </trek>
   <trek>
     <id>56</id>
-    <name>Grimdottir's Duty</name>
+    <name>Grimsdottirs Pflicht</name>
     <waypoint_id>907</waypoint_id>
     <waypoint_name>Wegmarke Zufluchtsfelsen</waypoint_name>
     <chat_link>[&amp;BIsDAAA=]</chat_link>
@@ -614,7 +614,7 @@
   </trek>
   <trek>
     <id>162</id>
-    <name>Guardian Overwatch</name>
+    <name>Überwachender Wächter</name>
     <waypoint_id>173</waypoint_id>
     <waypoint_name>Wegmarke Barrikadenlager</waypoint_name>
     <chat_link>[&amp;BK0AAAA=]</chat_link>
@@ -623,7 +623,7 @@
   </trek>
   <trek>
     <id>34</id>
-    <name>Hawkeye Perch</name>
+    <name>Falkenaugen-Warte</name>
     <waypoint_id>581</waypoint_id>
     <waypoint_name>Wegmarke Schlangensteine</waypoint_name>
     <chat_link>[&amp;BEUCAAA=]</chat_link>
@@ -632,7 +632,7 @@
   </trek>
   <trek>
     <id>150</id>
-    <name>Heart Speaks Notch</name>
+    <name>Stummherz-Engpass</name>
     <waypoint_id>541</waypoint_id>
     <waypoint_name>Wegmarke Häretiker-Einöde</waypoint_name>
     <chat_link>[&amp;BB0CAAA=]</chat_link>
@@ -641,7 +641,7 @@
   </trek>
   <trek>
     <id>67</id>
-    <name>Heartwood Honey Cache</name>
+    <name>Herzwald-Honigspeicher</name>
     <waypoint_id>243</waypoint_id>
     <waypoint_name>Wegmarke Phinney</waypoint_name>
     <chat_link>[&amp;BPMAAAA=]</chat_link>
@@ -650,7 +650,7 @@
   </trek>
   <trek>
     <id>65</id>
-    <name>Heidi's Showpiece</name>
+    <name>Heidis Meisterwerk</name>
     <waypoint_id>167</waypoint_id>
     <waypoint_name>Wegmarke Seraphenlände</waypoint_name>
     <chat_link>[&amp;BKcAAAA=]</chat_link>
@@ -659,7 +659,7 @@
   </trek>
   <trek>
     <id>31</id>
-    <name>Hermit's Roost</name>
+    <name>Eremiten-Schlafplatz</name>
     <waypoint_id>216</waypoint_id>
     <waypoint_name>Wegmarke Roskos Lager</waypoint_name>
     <chat_link>[&amp;BNgAAAA=]</chat_link>
@@ -668,7 +668,7 @@
   </trek>
   <trek>
     <id>170</id>
-    <name>Hidden Owl Distillery</name>
+    <name>Versteckte Eulenbrennerei</name>
     <waypoint_id>193</waypoint_id>
     <waypoint_name>Wegmarke Eulenhütte</waypoint_name>
     <chat_link>[&amp;BMEAAAA=]</chat_link>
@@ -677,7 +677,7 @@
   </trek>
   <trek>
     <id>66</id>
-    <name>Holystone Sanctum</name>
+    <name>Heiligstein-Refugium</name>
     <waypoint_id>965</waypoint_id>
     <waypoint_name>Wegmarke Refugium</waypoint_name>
     <chat_link>[&amp;BMUDAAA=]</chat_link>
@@ -686,7 +686,7 @@
   </trek>
   <trek>
     <id>27</id>
-    <name>Icewurm Trench</name>
+    <name>Eiswurmgraben</name>
     <waypoint_id>639</waypoint_id>
     <waypoint_name>Wegmarke Dimotiki</waypoint_name>
     <chat_link>[&amp;BH8CAAA=]</chat_link>
@@ -695,7 +695,7 @@
   </trek>
   <trek>
     <id>50</id>
-    <name>Ideation Leap</name>
+    <name>Gedankensprung</name>
     <waypoint_id>1205</waypoint_id>
     <waypoint_name>Wegmarke Ideengeburten</waypoint_name>
     <chat_link>[&amp;BLUEAAA=]</chat_link>
@@ -704,7 +704,7 @@
   </trek>
   <trek>
     <id>80</id>
-    <name>Imphaunt Hallow</name>
+    <name>Koboldspuk-Mulde</name>
     <waypoint_id>321</waypoint_id>
     <waypoint_name>Wegmarke Bergsuhlensumpf</waypoint_name>
     <chat_link>[&amp;BEEBAAA=]</chat_link>
@@ -713,7 +713,7 @@
   </trek>
   <trek>
     <id>26</id>
-    <name>Irondock Viewpoint</name>
+    <name>Eisendock-Aussichtspunkt</name>
     <waypoint_id>393</waypoint_id>
     <waypoint_name>Wegmarke Dämmerspalt-Aussichtspunkt</waypoint_name>
     <chat_link>[&amp;BIkBAAA=]</chat_link>
@@ -722,7 +722,7 @@
   </trek>
   <trek>
     <id>73</id>
-    <name>Isenfell Wash</name>
+    <name>Isenfell-Gerinne</name>
     <waypoint_id>184</waypoint_id>
     <waypoint_name>Wegmarke Isenfall</waypoint_name>
     <chat_link>[&amp;BLgAAAA=]</chat_link>
@@ -731,7 +731,7 @@
   </trek>
   <trek>
     <id>74</id>
-    <name>Isgarren Viewpoint</name>
+    <name>Isgarren-Aussichtspunkt</name>
     <waypoint_id>17</waypoint_id>
     <waypoint_name>Wegmarke Dunkelwund-Klause</waypoint_name>
     <chat_link>[&amp;BBEAAAA=]</chat_link>
@@ -740,7 +740,7 @@
   </trek>
   <trek>
     <id>75</id>
-    <name>Jaguar Pride Den</name>
+    <name>Jaguarstolz-Bau</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Wegmarke Muridianisches Hochland</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -749,7 +749,7 @@
   </trek>
   <trek>
     <id>117</id>
-    <name>Junker's Apex</name>
+    <name>Rümplers Gipfel</name>
     <waypoint_id>1079</waypoint_id>
     <waypoint_name>Wegmarke Rümpler</waypoint_name>
     <chat_link>[&amp;BDcEAAA=]</chat_link>
@@ -758,7 +758,7 @@
   </trek>
   <trek>
     <id>76</id>
-    <name>Kaldar's Hot Seat</name>
+    <name>Kaldars Schleudersitz</name>
     <waypoint_id>909</waypoint_id>
     <waypoint_name>Wegmarke Östlicher Wachposten</waypoint_name>
     <chat_link>[&amp;BI0DAAA=]</chat_link>
@@ -767,7 +767,7 @@
   </trek>
   <trek>
     <id>77</id>
-    <name>Kari's Hot Spot</name>
+    <name>Karis Brennpunkt</name>
     <waypoint_id>18</waypoint_id>
     <waypoint_name>Wegmarke Cereboth</waypoint_name>
     <chat_link>[&amp;BBIAAAA=]</chat_link>
@@ -776,7 +776,7 @@
   </trek>
   <trek>
     <id>35</id>
-    <name>Kegbrawl Watch</name>
+    <name>Fasskeilerei-Wacht</name>
     <waypoint_id>912</waypoint_id>
     <waypoint_name>Wegmarke Heldenzirkel</waypoint_name>
     <chat_link>[&amp;BJADAAA=]</chat_link>
@@ -785,7 +785,7 @@
   </trek>
   <trek>
     <id>79</id>
-    <name>Kevach's Strongroom</name>
+    <name>Kevachs Stahlkammer</name>
     <waypoint_id>961</waypoint_id>
     <waypoint_name>Wegmarke Findwurm-Höhle</waypoint_name>
     <chat_link>[&amp;BMEDAAA=]</chat_link>
@@ -794,7 +794,7 @@
   </trek>
   <trek>
     <id>132</id>
-    <name>Lakebottom Underpass</name>
+    <name>Seegrundtunnel</name>
     <waypoint_id>249</waypoint_id>
     <waypoint_name>Wegmarke Ojons Sägewerk</waypoint_name>
     <chat_link>[&amp;BPkAAAA=]</chat_link>
@@ -803,7 +803,7 @@
   </trek>
   <trek>
     <id>82</id>
-    <name>Lawen Grotto</name>
+    <name>Lawen-Grotte</name>
     <waypoint_id>395</waypoint_id>
     <waypoint_name>Wegmarke Erste Freistatt</waypoint_name>
     <chat_link>[&amp;BIsBAAA=]</chat_link>
@@ -812,7 +812,7 @@
   </trek>
   <trek>
     <id>85</id>
-    <name>Lightfoot Dock</name>
+    <name>Leichtfuß-Dock</name>
     <waypoint_id>752</waypoint_id>
     <waypoint_name>Wegmarke Donnerkopf</waypoint_name>
     <chat_link>[&amp;BPACAAA=]</chat_link>
@@ -821,7 +821,7 @@
   </trek>
   <trek>
     <id>86</id>
-    <name>Lily's Bivvy</name>
+    <name>Lilys Biwack</name>
     <waypoint_id>544</waypoint_id>
     <waypoint_name>Wegmarke Eisspeer</waypoint_name>
     <chat_link>[&amp;BCACAAA=]</chat_link>
@@ -830,7 +830,7 @@
   </trek>
   <trek>
     <id>89</id>
-    <name>Lionguard Larder</name>
+    <name>Löwengarden-Speisekammer</name>
     <waypoint_id>381</waypoint_id>
     <waypoint_name>Wegmarke Doppelsporn-Freistatt</waypoint_name>
     <chat_link>[&amp;BH0BAAA=]</chat_link>
@@ -839,7 +839,7 @@
   </trek>
   <trek>
     <id>84</id>
-    <name>Lychcroft Wardenship</name>
+    <name>Leichenhof-Wachposten</name>
     <waypoint_id>12</waypoint_id>
     <waypoint_name>Wegmarke Schattenherzgrund</waypoint_name>
     <chat_link>[&amp;BAwAAAA=]</chat_link>
@@ -848,7 +848,7 @@
   </trek>
   <trek>
     <id>90</id>
-    <name>Magihedron Corner</name>
+    <name>Magihedron-Ecke</name>
     <waypoint_id>1043</waypoint_id>
     <waypoint_name>Wegmarke Metrischer Hof</waypoint_name>
     <chat_link>[&amp;BBMEAAA=]</chat_link>
@@ -857,7 +857,7 @@
   </trek>
   <trek>
     <id>63</id>
-    <name>Master Control LIN39</name>
+    <name>Hauptkontrollkonsole LIN39</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Wegmarke Muridianisches Hochland</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -866,7 +866,7 @@
   </trek>
   <trek>
     <id>92</id>
-    <name>Melandru's Fount</name>
+    <name>Melandrus Quelle</name>
     <waypoint_id>807</waypoint_id>
     <waypoint_name>Wegmarke Melandru</waypoint_name>
     <chat_link>[&amp;BCcDAAA=]</chat_link>
@@ -875,7 +875,7 @@
   </trek>
   <trek>
     <id>127</id>
-    <name>Meltwater Cave</name>
+    <name>Schmelzwasser-Kaverne</name>
     <waypoint_id>584</waypoint_id>
     <waypoint_name>Wegmarke Schuppenstrand</waypoint_name>
     <chat_link>[&amp;BEgCAAA=]</chat_link>
@@ -884,7 +884,7 @@
   </trek>
   <trek>
     <id>93</id>
-    <name>Minar's Target Shoot</name>
+    <name>Minas Schießstand</name>
     <waypoint_id>810</waypoint_id>
     <waypoint_name>Wegmarke Marktviertel</waypoint_name>
     <chat_link>[&amp;BCoDAAA=]</chat_link>
@@ -893,7 +893,7 @@
   </trek>
   <trek>
     <id>96</id>
-    <name>Mistriven Shelf</name>
+    <name>Nebelschleier-Riff</name>
     <waypoint_id>409</waypoint_id>
     <waypoint_name>Wegmarke Nebelriss-Klamm</waypoint_name>
     <chat_link>[&amp;BJkBAAA=]</chat_link>
@@ -902,7 +902,7 @@
   </trek>
   <trek>
     <id>91</id>
-    <name>Moleberia Prison</name>
+    <name>Maulberia-Gefängnis</name>
     <waypoint_id>376</waypoint_id>
     <waypoint_name>Wegmarke Halvaunt</waypoint_name>
     <chat_link>[&amp;BHgBAAA=]</chat_link>
@@ -911,7 +911,7 @@
   </trek>
   <trek>
     <id>95</id>
-    <name>Monument to the Ancient One</name>
+    <name>Monument des Alten</name>
     <waypoint_id>1752</waypoint_id>
     <waypoint_name>Wegmarke Owains Zuflucht</waypoint_name>
     <chat_link>[&amp;BNgGAAA=]</chat_link>
@@ -920,7 +920,7 @@
   </trek>
   <trek>
     <id>30</id>
-    <name>Narrowkraal Crossing</name>
+    <name>Engkral-Kreuzung</name>
     <waypoint_id>335</waypoint_id>
     <waypoint_name>Wegmarke Ogerstraße</waypoint_name>
     <chat_link>[&amp;BE8BAAA=]</chat_link>
@@ -929,7 +929,7 @@
   </trek>
   <trek>
     <id>97</id>
-    <name>Necrolith Landing</name>
+    <name>Nekrolithen-Anlegestelle</name>
     <waypoint_id>1042</waypoint_id>
     <waypoint_name>Wegmarke Caledon</waypoint_name>
     <chat_link>[&amp;BBIEAAA=]</chat_link>
@@ -938,7 +938,7 @@
   </trek>
   <trek>
     <id>32</id>
-    <name>Orecart Hoist</name>
+    <name>Erzwagen-Winde</name>
     <waypoint_id>535</waypoint_id>
     <waypoint_name>Wegmarke Roheisen</waypoint_name>
     <chat_link>[&amp;BBcCAAA=]</chat_link>
@@ -947,7 +947,7 @@
   </trek>
   <trek>
     <id>100</id>
-    <name>Orvanic Sourcewaters</name>
+    <name>Orvanische Gewässer</name>
     <waypoint_id>457</waypoint_id>
     <waypoint_name>Wegmarke Ozeanschlund</waypoint_name>
     <chat_link>[&amp;BMkBAAA=]</chat_link>
@@ -956,7 +956,7 @@
   </trek>
   <trek>
     <id>101</id>
-    <name>Osenfold Counterweights</name>
+    <name>Osenfold-Gegengewichte</name>
     <waypoint_id>1025</waypoint_id>
     <waypoint_name>Wegmarke Osenfold-Schneide</waypoint_name>
     <chat_link>[&amp;BAEEAAA=]</chat_link>
@@ -965,7 +965,7 @@
   </trek>
   <trek>
     <id>99</id>
-    <name>Overlord Lodge</name>
+    <name>Oberherren-Halle</name>
     <waypoint_id>4</waypoint_id>
     <waypoint_name>Wegmarke Oberherr</waypoint_name>
     <chat_link>[&amp;BAQAAAA=]</chat_link>
@@ -974,7 +974,7 @@
   </trek>
   <trek>
     <id>104</id>
-    <name>Phasmatis Prospect</name>
+    <name>Phasmatis-Fernblick</name>
     <waypoint_id>394</waypoint_id>
     <waypoint_name>Wegmarke Eisendock-Werft</waypoint_name>
     <chat_link>[&amp;BIoBAAA=]</chat_link>
@@ -983,7 +983,7 @@
   </trek>
   <trek>
     <id>106</id>
-    <name>Pochtecatl's Desire</name>
+    <name>Pochtecatls Begehr</name>
     <waypoint_id>431</waypoint_id>
     <waypoint_name>Wegmarke Jelako</waypoint_name>
     <chat_link>[&amp;BK8BAAA=]</chat_link>
@@ -992,7 +992,7 @@
   </trek>
   <trek>
     <id>46</id>
-    <name>Port Authority Lost and Found</name>
+    <name>Fundbüro der Hafenbehörde</name>
     <waypoint_id>1287</waypoint_id>
     <waypoint_name>Wegmarke Hafen</waypoint_name>
     <chat_link>[&amp;BAcFAAA=]</chat_link>
@@ -1001,7 +1001,7 @@
   </trek>
   <trek>
     <id>107</id>
-    <name>Portmatt's Promontory</name>
+    <name>Portmatts Kap</name>
     <waypoint_id>420</waypoint_id>
     <waypoint_name>Wegmarke Gramvoll</waypoint_name>
     <chat_link>[&amp;BKQBAAA=]</chat_link>
@@ -1019,7 +1019,7 @@
   </trek>
   <trek>
     <id>176</id>
-    <name>Ramview Peak</name>
+    <name>Widderblickgipfel</name>
     <waypoint_id>612</waypoint_id>
     <waypoint_name>Travelens Wegmarke</waypoint_name>
     <chat_link>[&amp;BGQCAAA=]</chat_link>
@@ -1028,7 +1028,7 @@
   </trek>
   <trek>
     <id>112</id>
-    <name>Raptor's Aerie</name>
+    <name>Raptorenhorst</name>
     <waypoint_id>491</waypoint_id>
     <waypoint_name>Wegmarke Kuttenzahns Stern</waypoint_name>
     <chat_link>[&amp;BOsBAAA=]</chat_link>
@@ -1037,7 +1037,7 @@
   </trek>
   <trek>
     <id>113</id>
-    <name>Raptor's Perch</name>
+    <name>Raptorwarte</name>
     <waypoint_id>238</waypoint_id>
     <waypoint_name>Wegmarke Winter-Freistatt</waypoint_name>
     <chat_link>[&amp;BO4AAAA=]</chat_link>
@@ -1046,7 +1046,7 @@
   </trek>
   <trek>
     <id>114</id>
-    <name>Rata Pten Portico</name>
+    <name>Rata Pten-Kolonnade</name>
     <waypoint_id>713</waypoint_id>
     <waypoint_name>Wegmarke Richtwert</waypoint_name>
     <chat_link>[&amp;BMkCAAA=]</chat_link>
@@ -1055,7 +1055,7 @@
   </trek>
   <trek>
     <id>110</id>
-    <name>Raven Nook</name>
+    <name>Rabenwinkel</name>
     <waypoint_id>904</waypoint_id>
     <waypoint_name>Wegmarke des Raben</waypoint_name>
     <chat_link>[&amp;BIgDAAA=]</chat_link>
@@ -1064,7 +1064,7 @@
   </trek>
   <trek>
     <id>115</id>
-    <name>Reef Drake Nestling Grounds</name>
+    <name>Rifflindwurm-Brutstätte</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Wegmarke Perlen-Inselchen</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1073,7 +1073,7 @@
   </trek>
   <trek>
     <id>116</id>
-    <name>Restless Footings</name>
+    <name>Ruhelose Pfade</name>
     <waypoint_id>722</waypoint_id>
     <waypoint_name>Wegmarke Irwin-Insel</waypoint_name>
     <chat_link>[&amp;BNICAAA=]</chat_link>
@@ -1082,7 +1082,7 @@
   </trek>
   <trek>
     <id>61</id>
-    <name>Reverberant's Watch</name>
+    <name>Hallerzeuger-Wacht</name>
     <waypoint_id>373</waypoint_id>
     <waypoint_name>Wegmarke Dunkelfluss-Klippen</waypoint_name>
     <chat_link>[&amp;BHUBAAA=]</chat_link>
@@ -1091,7 +1091,7 @@
   </trek>
   <trek>
     <id>149</id>
-    <name>Risewild Green</name>
+    <name>Stiegwild-Anger</name>
     <waypoint_id>423</waypoint_id>
     <waypoint_name>Wegmarke Remanda</waypoint_name>
     <chat_link>[&amp;BKcBAAA=]</chat_link>
@@ -1100,7 +1100,7 @@
   </trek>
   <trek>
     <id>118</id>
-    <name>Rurik's View</name>
+    <name>Ruriks Ausblick</name>
     <waypoint_id>811</waypoint_id>
     <waypoint_name>Wegmarke Rurikstadt</waypoint_name>
     <chat_link>[&amp;BCsDAAA=]</chat_link>
@@ -1109,7 +1109,7 @@
   </trek>
   <trek>
     <id>121</id>
-    <name>Saltflood Altar</name>
+    <name>Salzflut-Altar</name>
     <waypoint_id>455</waypoint_id>
     <waypoint_name>Wegmarke Salzflut</waypoint_name>
     <chat_link>[&amp;BMcBAAA=]</chat_link>
@@ -1118,7 +1118,7 @@
   </trek>
   <trek>
     <id>122</id>
-    <name>Sandwurm Prowl</name>
+    <name>Sandwurm-Pirsch</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Wegmarke Perlen-Inselchen</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1127,7 +1127,7 @@
   </trek>
   <trek>
     <id>44</id>
-    <name>Scholar's Blind</name>
+    <name>Forscher-Ansitz</name>
     <waypoint_id>603</waypoint_id>
     <waypoint_name>Wegmarke Stahlbrachen</waypoint_name>
     <chat_link>[&amp;BFsCAAA=]</chat_link>
@@ -1136,7 +1136,7 @@
   </trek>
   <trek>
     <id>52</id>
-    <name>Scourgejaw Watchtower</name>
+    <name>Geißelkiefer-Wachturm</name>
     <waypoint_id>488</waypoint_id>
     <waypoint_name>Wegmarke Glanzfell-Lager</waypoint_name>
     <chat_link>[&amp;BOgBAAA=]</chat_link>
@@ -1145,7 +1145,7 @@
   </trek>
   <trek>
     <id>139</id>
-    <name>Scriptorium Nook</name>
+    <name>Skriptorium-Winkel</name>
     <waypoint_id>935</waypoint_id>
     <waypoint_name>Wegmarke Factorium</waypoint_name>
     <chat_link>[&amp;BKcDAAA=]</chat_link>
@@ -1154,7 +1154,7 @@
   </trek>
   <trek>
     <id>5</id>
-    <name>Sea Scorpion's Eye</name>
+    <name>Auge des Meeresskorpions</name>
     <waypoint_id>798</waypoint_id>
     <waypoint_name>Wegmarke Wichtigtuergipfel</waypoint_name>
     <chat_link>[&amp;BB4DAAA=]</chat_link>
@@ -1163,7 +1163,7 @@
   </trek>
   <trek>
     <id>123</id>
-    <name>Sentinel Sink</name>
+    <name>Schildwächtersenke</name>
     <waypoint_id>489</waypoint_id>
     <waypoint_name>Wegmarke Brandwacht-Lager</waypoint_name>
     <chat_link>[&amp;BOkBAAA=]</chat_link>
@@ -1172,7 +1172,7 @@
   </trek>
   <trek>
     <id>57</id>
-    <name>Sepulchre Skylight</name>
+    <name>Grabkammernluke</name>
     <waypoint_id>1234</waypoint_id>
     <waypoint_name>Wegmarke Sammelpunkt</waypoint_name>
     <chat_link>[&amp;BNIEAAA=]</chat_link>
@@ -1181,7 +1181,7 @@
   </trek>
   <trek>
     <id>60</id>
-    <name>Sharkhollow's Edge</name>
+    <name>Haitiefen-Schneide</name>
     <waypoint_id>849</waypoint_id>
     <waypoint_name>Wegmarke Splitterkamm-Fort</waypoint_name>
     <chat_link>[&amp;BFEDAAA=]</chat_link>
@@ -1190,7 +1190,7 @@
   </trek>
   <trek>
     <id>186</id>
-    <name>Shattered Loft</name>
+    <name>Zertrümmerter Speicher</name>
     <waypoint_id>453</waypoint_id>
     <waypoint_name>Wegmarke Fort Gleichschritt</waypoint_name>
     <chat_link>[&amp;BMUBAAA=]</chat_link>
@@ -1199,7 +1199,7 @@
   </trek>
   <trek>
     <id>133</id>
-    <name>Siamoth Refuge</name>
+    <name>Siamoth-Zuflucht</name>
     <waypoint_id>462</waypoint_id>
     <waypoint_name>Wegmarke Brackwasser</waypoint_name>
     <chat_link>[&amp;BM4BAAA=]</chat_link>
@@ -1208,7 +1208,7 @@
   </trek>
   <trek>
     <id>134</id>
-    <name>Skalecatch Butcher Shop</name>
+    <name>Skal-Fang-Metzgerei</name>
     <waypoint_id>487</waypoint_id>
     <waypoint_name>Wegmarke Dorf Schuppenfang</waypoint_name>
     <chat_link>[&amp;BOcBAAA=]</chat_link>
@@ -1217,7 +1217,7 @@
   </trek>
   <trek>
     <id>135</id>
-    <name>Skalefound Cove</name>
+    <name>Skal-Fund-Bucht</name>
     <waypoint_id>536</waypoint_id>
     <waypoint_name>Wegmarke Tuyere-Kommandostelle</waypoint_name>
     <chat_link>[&amp;BBgCAAA=]</chat_link>
@@ -1226,7 +1226,7 @@
   </trek>
   <trek>
     <id>138</id>
-    <name>Skalesplash Falls</name>
+    <name>Skal-Schwall-Fälle</name>
     <waypoint_id>582</waypoint_id>
     <waypoint_name>Wegmarke Okarinuu</waypoint_name>
     <chat_link>[&amp;BEYCAAA=]</chat_link>
@@ -1235,7 +1235,7 @@
   </trek>
   <trek>
     <id>136</id>
-    <name>Skalestash Hideaway</name>
+    <name>Skal-Lager-Versteck</name>
     <waypoint_id>919</waypoint_id>
     <waypoint_name>Wegmarke Feritas</waypoint_name>
     <chat_link>[&amp;BJcDAAA=]</chat_link>
@@ -1244,7 +1244,7 @@
   </trek>
   <trek>
     <id>137</id>
-    <name>Skelknest Borehole</name>
+    <name>Skelknest-Bohrloch</name>
     <waypoint_id>636</waypoint_id>
     <waypoint_name>Wegmarke Pfuhl der Verzweiflung</waypoint_name>
     <chat_link>[&amp;BHwCAAA=]</chat_link>
@@ -1253,7 +1253,7 @@
   </trek>
   <trek>
     <id>124</id>
-    <name>Skibo Hall Dormitory</name>
+    <name>Schlafsaal der Skibo-Halle</name>
     <waypoint_id>1209</waypoint_id>
     <waypoint_name>Wegmarke Zusätzliche Studierräume</waypoint_name>
     <chat_link>[&amp;BLkEAAA=]</chat_link>
@@ -1262,7 +1262,7 @@
   </trek>
   <trek>
     <id>68</id>
-    <name>Skyshine Scratch</name>
+    <name>Himmelsschimmer-Riss</name>
     <waypoint_id>169</waypoint_id>
     <waypoint_name>Wegmarke Grau-Grittas Posten</waypoint_name>
     <chat_link>[&amp;BKkAAAA=]</chat_link>
@@ -1271,7 +1271,7 @@
   </trek>
   <trek>
     <id>126</id>
-    <name>Snowden Safehouse</name>
+    <name>Schneekuhlen-Unterschlupf</name>
     <waypoint_id>185</waypoint_id>
     <waypoint_name>Wegmarke Schneeweh-Freistatt</waypoint_name>
     <chat_link>[&amp;BLkAAAA=]</chat_link>
@@ -1280,7 +1280,7 @@
   </trek>
   <trek>
     <id>125</id>
-    <name>Snowhowl Den</name>
+    <name>Schneegeheul-Bau</name>
     <waypoint_id>191</waypoint_id>
     <waypoint_name>Wegmarke Schneefalken-Posten</waypoint_name>
     <chat_link>[&amp;BL8AAAA=]</chat_link>
@@ -1289,7 +1289,7 @@
   </trek>
   <trek>
     <id>141</id>
-    <name>Soggorsort Rotunda</name>
+    <name>Soggorsort-Rundbau</name>
     <waypoint_id>319</waypoint_id>
     <waypoint_name>Wegmarke Annwen-Weiler</waypoint_name>
     <chat_link>[&amp;BD8BAAA=]</chat_link>
@@ -1298,7 +1298,7 @@
   </trek>
   <trek>
     <id>142</id>
-    <name>Soran Draa Rest Stop</name>
+    <name>Soran Draa-Raststätte</name>
     <waypoint_id>64</waypoint_id>
     <waypoint_name>Wegmarke Soran Draa</waypoint_name>
     <chat_link>[&amp;BEAAAAA=]</chat_link>
@@ -1307,7 +1307,7 @@
   </trek>
   <trek>
     <id>109</id>
-    <name>Source of Lament</name>
+    <name>Quelle der Klage</name>
     <waypoint_id>641</waypoint_id>
     <waypoint_name>Wegmarke Himmelshöh-Gehöft</waypoint_name>
     <chat_link>[&amp;BIECAAA=]</chat_link>
@@ -1316,7 +1316,7 @@
   </trek>
   <trek>
     <id>140</id>
-    <name>Sparwind's Lounge</name>
+    <name>Spatwinds Stube</name>
     <waypoint_id>941</waypoint_id>
     <waypoint_name>Wegmarke des Imperators</waypoint_name>
     <chat_link>[&amp;BK0DAAA=]</chat_link>
@@ -1325,7 +1325,7 @@
   </trek>
   <trek>
     <id>54</id>
-    <name>Spectrehaunt Socket</name>
+    <name>Gespensterjagd-Sockel</name>
     <waypoint_id>690</waypoint_id>
     <waypoint_name>Wegmarke Lichter</waypoint_name>
     <chat_link>[&amp;BLICAAA=]</chat_link>
@@ -1334,7 +1334,7 @@
   </trek>
   <trek>
     <id>21</id>
-    <name>Steampipe Perch</name>
+    <name>Dampfrohr-Warte</name>
     <waypoint_id>1744</waypoint_id>
     <waypoint_name>Wegmarke Löwenpunkt</waypoint_name>
     <chat_link>[&amp;BNAGAAA=]</chat_link>
@@ -1343,7 +1343,7 @@
   </trek>
   <trek>
     <id>22</id>
-    <name>Steamscrap Overlook</name>
+    <name>Dampfschotter-Aussichtspunkt</name>
     <waypoint_id>234</waypoint_id>
     <waypoint_name>Wegmarke See der Wehklagen</waypoint_name>
     <chat_link>[&amp;BOoAAAA=]</chat_link>
@@ -1352,7 +1352,7 @@
   </trek>
   <trek>
     <id>23</id>
-    <name>Steamy Steps</name>
+    <name>Dampf-Stufen</name>
     <waypoint_id>1744</waypoint_id>
     <waypoint_name>Wegmarke Löwenpunkt</waypoint_name>
     <chat_link>[&amp;BNAGAAA=]</chat_link>
@@ -1361,7 +1361,7 @@
   </trek>
   <trek>
     <id>144</id>
-    <name>Steelband's Tunnel</name>
+    <name>Stahlband-Tunnel</name>
     <waypoint_id>507</waypoint_id>
     <waypoint_name>Wegmarke Tumok</waypoint_name>
     <chat_link>[&amp;BPsBAAA=]</chat_link>
@@ -1370,7 +1370,7 @@
   </trek>
   <trek>
     <id>147</id>
-    <name>Stentor Shelter</name>
+    <name>Stentor-Unterschlupf</name>
     <waypoint_id>749</waypoint_id>
     <waypoint_name>Wegmarke Signalgipfel</waypoint_name>
     <chat_link>[&amp;BO0CAAA=]</chat_link>
@@ -1379,7 +1379,7 @@
   </trek>
   <trek>
     <id>146</id>
-    <name>Stonebore Spiderhole</name>
+    <name>Steinbohrung-Spinnenloch</name>
     <waypoint_id>396</waypoint_id>
     <waypoint_name>Wegmarke Talajisches Bergvorland</waypoint_name>
     <chat_link>[&amp;BIwBAAA=]</chat_link>
@@ -1388,7 +1388,7 @@
   </trek>
   <trek>
     <id>145</id>
-    <name>Strongpaw's Garden</name>
+    <name>Starkprankes Garten</name>
     <waypoint_id>221</waypoint_id>
     <waypoint_name>Wegmarke Nageling</waypoint_name>
     <chat_link>[&amp;BN0AAAA=]</chat_link>
@@ -1397,7 +1397,7 @@
   </trek>
   <trek>
     <id>154</id>
-    <name>Tactical Retreat</name>
+    <name>Taktischer Rückzug</name>
     <waypoint_id>1764</waypoint_id>
     <waypoint_name>Wegmarke Schiffswrackfelsen</waypoint_name>
     <chat_link>[&amp;BOQGAAA=]</chat_link>
@@ -1406,7 +1406,7 @@
   </trek>
   <trek>
     <id>151</id>
-    <name>Talus Steps</name>
+    <name>Talus-Aufgang</name>
     <waypoint_id>580</waypoint_id>
     <waypoint_name>Wegmarke Talus-Wassersturz</waypoint_name>
     <chat_link>[&amp;BEQCAAA=]</chat_link>
@@ -1415,7 +1415,7 @@
   </trek>
   <trek>
     <id>152</id>
-    <name>Tarstar Copse</name>
+    <name>Tarstarwäldchen</name>
     <waypoint_id>541</waypoint_id>
     <waypoint_name>Wegmarke Häretiker-Einöde</waypoint_name>
     <chat_link>[&amp;BB0CAAA=]</chat_link>
@@ -1424,7 +1424,7 @@
   </trek>
   <trek>
     <id>155</id>
-    <name>Tekki's Drawing Board</name>
+    <name>Tekkis Reißbrett</name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Wegmarke Ulta Metamagikale</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1433,7 +1433,7 @@
   </trek>
   <trek>
     <id>156</id>
-    <name>Thaumanova Spillway</name>
+    <name>Thaumanova-Überlauf</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Wegmarke Muridianisches Hochland</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -1442,7 +1442,7 @@
   </trek>
   <trek>
     <id>24</id>
-    <name>The Karka Club</name>
+    <name>Der Karka-Klub</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Wegmarke Perlen-Inselchen</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1451,7 +1451,7 @@
   </trek>
   <trek>
     <id>120</id>
-    <name>The People's Deadlock</name>
+    <name>Sackgasse der Massen</name>
     <waypoint_id>633</waypoint_id>
     <waypoint_name>Wegmarke Groznev</waypoint_name>
     <chat_link>[&amp;BHkCAAA=]</chat_link>
@@ -1460,7 +1460,7 @@
   </trek>
   <trek>
     <id>53</id>
-    <name>The Workers' Stores</name>
+    <name>Geschäfte der Arbeiter</name>
     <waypoint_id>602</waypoint_id>
     <waypoint_name>Wegmarke Graue Straße</waypoint_name>
     <chat_link>[&amp;BFoCAAA=]</chat_link>
@@ -1469,7 +1469,7 @@
   </trek>
   <trek>
     <id>153</id>
-    <name>Togatl Shore</name>
+    <name>Togatl-Küste</name>
     <waypoint_id>16</waypoint_id>
     <waypoint_name>Wegmarke Viathan</waypoint_name>
     <chat_link>[&amp;BBAAAAA=]</chat_link>
@@ -1478,7 +1478,7 @@
   </trek>
   <trek>
     <id>161</id>
-    <name>Tower of Tribulation</name>
+    <name>Turm der Trübsal</name>
     <waypoint_id>1343</waypoint_id>
     <waypoint_name>Wegmarke Umarmung der Betrübnis</waypoint_name>
     <chat_link>[&amp;BD8FAAA=]</chat_link>
@@ -1487,7 +1487,7 @@
   </trek>
   <trek>
     <id>159</id>
-    <name>Toxal Spill</name>
+    <name>Toxal-Überlauf</name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Wegmarke Ulta Metamagikale</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1496,7 +1496,7 @@
   </trek>
   <trek>
     <id>64</id>
-    <name>Trader's Stash</name>
+    <name>Händlervorrat</name>
     <waypoint_id>902</waypoint_id>
     <waypoint_name>Wegmarke Handelsdistrikt</waypoint_name>
     <chat_link>[&amp;BIYDAAA=]</chat_link>
@@ -1505,7 +1505,7 @@
   </trek>
   <trek>
     <id>160</id>
-    <name>Trolltrap Pit</name>
+    <name>Troll-Fallen-Grube</name>
     <waypoint_id>233</waypoint_id>
     <waypoint_name>Wegmarke Abtei Durmand</waypoint_name>
     <chat_link>[&amp;BOkAAAA=]</chat_link>
@@ -1514,7 +1514,7 @@
   </trek>
   <trek>
     <id>13</id>
-    <name>Turai Tavern Stillroom</name>
+    <name>Branntweinzimmer der Turai-Taverne</name>
     <waypoint_id>808</waypoint_id>
     <waypoint_name>Wegmarke Balthasar</waypoint_name>
     <chat_link>[&amp;BCgDAAA=]</chat_link>
@@ -1523,7 +1523,7 @@
   </trek>
   <trek>
     <id>163</id>
-    <name>Ulta Scraproom</name>
+    <name>Ulta-Schrottkammer</name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Wegmarke Ulta Metamagikale</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1532,7 +1532,7 @@
   </trek>
   <trek>
     <id>164</id>
-    <name>Unseen Scratch</name>
+    <name>Ungesehenen Riss</name>
     <waypoint_id>316</waypoint_id>
     <waypoint_name>Wegmarke Caledon-Freistatt</waypoint_name>
     <chat_link>[&amp;BDwBAAA=]</chat_link>
@@ -1541,7 +1541,7 @@
   </trek>
   <trek>
     <id>165</id>
-    <name>Upsilon Hyperboloid</name>
+    <name>Upsilon-Hyperboloid</name>
     <waypoint_id>680</waypoint_id>
     <waypoint_name>Wegmarke Abfall-Senken</waypoint_name>
     <chat_link>[&amp;BKgCAAA=]</chat_link>
@@ -1550,7 +1550,7 @@
   </trek>
   <trek>
     <id>166</id>
-    <name>Usharr's Threshold</name>
+    <name>Usharrs Schwelle</name>
     <waypoint_id>459</waypoint_id>
     <waypoint_name>Wegmarke Toades Kopf</waypoint_name>
     <chat_link>[&amp;BMsBAAA=]</chat_link>
@@ -1559,7 +1559,7 @@
   </trek>
   <trek>
     <id>83</id>
-    <name>Vacant Hermitage</name>
+    <name>Leerstehende Einsiedelei</name>
     <waypoint_id>511</waypoint_id>
     <waypoint_name>Wegmarke Wächterstein</waypoint_name>
     <chat_link>[&amp;BP8BAAA=]</chat_link>
@@ -1568,7 +1568,7 @@
   </trek>
   <trek>
     <id>179</id>
-    <name>Venison Hollow</name>
+    <name>Wildbret-Senke</name>
     <waypoint_id>229</waypoint_id>
     <waypoint_name>Wegmarke Vanjirs Hof</waypoint_name>
     <chat_link>[&amp;BOUAAAA=]</chat_link>
@@ -1577,7 +1577,7 @@
   </trek>
   <trek>
     <id>8</id>
-    <name>Verdance Font</name>
+    <name>Becken der Grünen Kathedrale</name>
     <waypoint_id>795</waypoint_id>
     <waypoint_name>Wegmarke Kathedrale des frischen Grüns</waypoint_name>
     <chat_link>[&amp;BBsDAAA=]</chat_link>
@@ -1586,7 +1586,7 @@
   </trek>
   <trek>
     <id>175</id>
-    <name>Vizier's Anteport</name>
+    <name>Wesirs Vortor</name>
     <waypoint_id>759</waypoint_id>
     <waypoint_name>Wegmarke Verlassener Posten</waypoint_name>
     <chat_link>[&amp;BPcCAAA=]</chat_link>
@@ -1595,7 +1595,7 @@
   </trek>
   <trek>
     <id>174</id>
-    <name>Wassa's Terrace</name>
+    <name>Wassas Terrasse</name>
     <waypoint_id>395</waypoint_id>
     <waypoint_name>Wegmarke Erste Freistatt</waypoint_name>
     <chat_link>[&amp;BIsBAAA=]</chat_link>
@@ -1604,7 +1604,7 @@
   </trek>
   <trek>
     <id>173</id>
-    <name>Watchpoint Decimus</name>
+    <name>Wachposten Decimus</name>
     <waypoint_id>920</waypoint_id>
     <waypoint_name>Wegmarke Decimus Wachpunkt</waypoint_name>
     <chat_link>[&amp;BJgDAAA=]</chat_link>
@@ -1613,7 +1613,7 @@
   </trek>
   <trek>
     <id>111</id>
-    <name>Wheelport Pub</name>
+    <name>Radhafen-Schänke</name>
     <waypoint_id>933</waypoint_id>
     <waypoint_name>Wegmarke Appellplatz</waypoint_name>
     <chat_link>[&amp;BKUDAAA=]</chat_link>
@@ -1622,7 +1622,7 @@
   </trek>
   <trek>
     <id>183</id>
-    <name>Whitland Sinkhole</name>
+    <name>Winzland-Krater</name>
     <waypoint_id>724</waypoint_id>
     <waypoint_name>Wegmarke Alter Hammergrund</waypoint_name>
     <chat_link>[&amp;BNQCAAA=]</chat_link>
@@ -1631,7 +1631,7 @@
   </trek>
   <trek>
     <id>177</id>
-    <name>Widd's Folly</name>
+    <name>Widds Torheit</name>
     <waypoint_id>314</waypoint_id>
     <waypoint_name>Wegmarke Mabon-Markt</waypoint_name>
     <chat_link>[&amp;BDoBAAA=]</chat_link>
@@ -1640,7 +1640,7 @@
   </trek>
   <trek>
     <id>178</id>
-    <name>Wikk's Gate</name>
+    <name>Wikks Tor</name>
     <waypoint_id>588</waypoint_id>
     <waypoint_name>Wegmarke Vorsprunghut</waypoint_name>
     <chat_link>[&amp;BEwCAAA=]</chat_link>
@@ -1649,7 +1649,7 @@
   </trek>
   <trek>
     <id>181</id>
-    <name>Wildflame Monitor</name>
+    <name>Wildflammenwächter</name>
     <waypoint_id>64</waypoint_id>
     <waypoint_name>Wegmarke Soran Draa</waypoint_name>
     <chat_link>[&amp;BEAAAAA=]</chat_link>
@@ -1658,7 +1658,7 @@
   </trek>
   <trek>
     <id>182</id>
-    <name>Winterknell Impasse</name>
+    <name>Wintertotengeläut-Sackgasse</name>
     <waypoint_id>792</waypoint_id>
     <waypoint_name>Wegmarke R&amp;D</waypoint_name>
     <chat_link>[&amp;BBgDAAA=]</chat_link>
@@ -1667,7 +1667,7 @@
   </trek>
   <trek>
     <id>184</id>
-    <name>Wrelk's Salon</name>
+    <name>Wrelks Salon</name>
     <waypoint_id>404</waypoint_id>
     <waypoint_name>Wegmarke Almuten-Anwesen</waypoint_name>
     <chat_link>[&amp;BJQBAAA=]</chat_link>
