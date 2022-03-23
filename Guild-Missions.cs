@@ -75,6 +75,8 @@ namespace entrhopi.Guild_Missions
         private WindowTab _moduleTab;
         private TextBox searchTextBox;
 
+        private String ShortUserLocale = "en";
+
         Dictionary<int, Texture2D> _guildRaceMap = new Dictionary<int, Texture2D>();
 
         private int panelsize = 56;
@@ -103,6 +105,22 @@ namespace entrhopi.Guild_Missions
             _guildRaceMap.Add(5, ContentsManager.GetTexture("racemaps/ghost_wolf_run.jpg"));
             _guildRaceMap.Add(6, ContentsManager.GetTexture("racemaps/quaggan_paddle.jpg"));
             _guildRaceMap.Add(7, ContentsManager.GetTexture("racemaps/spider_scurry.jpg"));
+
+            switch (GameService.Overlay.UserLocale.Value.ToString())
+            {
+                case "German":
+                    ShortUserLocale = "de"; // German => de
+                    break;
+                case "English":
+                    ShortUserLocale = "en"; // English => en
+                    break;
+                case "Spanish":
+                    ShortUserLocale = "es"; // Spanish => es
+                    break;
+                case "French":
+                    ShortUserLocale = "fr"; // French => fr
+                    break;
+            }
         }
 
         protected override async Task LoadAsync()
@@ -597,12 +615,12 @@ namespace entrhopi.Guild_Missions
             // Dispose of current search result
             trekListPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\treks." + ShortUserLocale + ".xml"));
 
             foreach(var trek in doc.Root.Elements("trek"))
             {
-                if (trek.Element("Name").Value.ToLower().StartsWith(searchText.ToLower()))
-                //if (trek.Element("Name").Value.ToLower().Contains(searchText.ToLower()))
+                if (trek.Element("name").Value.ToLower().StartsWith(searchText.ToLower()))
+                //if (trek.Element("name").Value.ToLower().Contains(searchText.ToLower()))
                 {
                     AddTrekPanel(trek, trekListPanel, i, true, false);
 
@@ -659,7 +677,7 @@ namespace entrhopi.Guild_Missions
 
         private void ImportWPList()
         {
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\treks." + ShortUserLocale + ".xml"));
             ClipboardUtil.WindowsClipboardService.GetTextAsync()
                 .ContinueWith((import) => {
                     if (!import.IsFaulted)
@@ -680,12 +698,12 @@ namespace entrhopi.Guild_Missions
 
                                 // Grab trek data from xml
                                 var trek = doc.Descendants("trek")
-                                    .Where(x => x.Element("ID").Value == wp)
+                                    .Where(x => x.Element("id").Value == wp)
                                     .FirstOrDefault();
 
                                 if (trek == null) continue;
 
-                                AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID"));
+                                AddWPToList((int)trek.Element("id"), (int)trek.Element("map_id"));
                                 i++;
                             }
 
@@ -703,7 +721,7 @@ namespace entrhopi.Guild_Missions
         {
             savedTrekListPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildtrek_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\treks." + ShortUserLocale + ".xml"));
 
             // Sort saved treks by map id
             int i = 0;
@@ -711,7 +729,7 @@ namespace entrhopi.Guild_Missions
             {
                 // Grab trek data from xml
                 var trek = doc.Descendants("trek")
-                    .Where(x => x.Element("ID").Value == wp.Key.ToString())
+                    .Where(x => x.Element("id").Value == wp.Key.ToString())
                     .FirstOrDefault();
 
                 if (trek == null) continue;
@@ -728,7 +746,7 @@ namespace entrhopi.Guild_Missions
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
-                //Title = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
+                //Title = trek.Element("name").Value + " (" + trek.Element("map_name").Value + ")",
                 Size = new Point(parent.Width, 70),
                 Location = new Point(LEFT_MARGIN, 5 + position * 70),
                 Parent = parent
@@ -741,7 +759,7 @@ namespace entrhopi.Guild_Missions
             };
             trekPanelWPImage.Click += delegate
             {
-                ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("Name").Value + " " + trek.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
+                ClipboardUtil.WindowsClipboardService.SetTextAsync(trek.Element("name").Value + " " + trek.Element("chat_link").Value).ContinueWith((clipboardResult) =>
                 {
                     if (clipboardResult.IsFaulted)
                     {
@@ -755,7 +773,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
+                Text = trek.Element("name").Value + " (" + trek.Element("map_name").Value + ")",
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + 50, 3),
                 TextColor = Color.White,
@@ -767,7 +785,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = trek.Element("WaypointName").Value,
+                Text = trek.Element("waypoint_name").Value,
                 Font = Content.DefaultFont14,
                 Location = new Point(LEFT_MARGIN + 50, 32),
                 TextColor = Color.Silver,
@@ -786,7 +804,7 @@ namespace entrhopi.Guild_Missions
                     Location = new Point(parent.Width - 70, -10),
                     Parent = trekPanel
                 };
-                addImage.Click += delegate { AddWPToList((int)trek.Element("ID"), (int)trek.Element("MapID")); };
+                addImage.Click += delegate { AddWPToList((int)trek.Element("id"), (int)trek.Element("map_id")); };
             }
 
             if (remove)
@@ -797,7 +815,7 @@ namespace entrhopi.Guild_Missions
                     Location = new Point(parent.Width - 40, 4),
                     Parent = trekPanel
                 };
-                removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("ID")); };
+                removeImage.Click += delegate { RemoveWPFromList((int)trek.Element("id")); };
             }
         }
 
@@ -806,7 +824,7 @@ namespace entrhopi.Guild_Missions
             Panel trekPanel = new Panel()
             {
                 ShowBorder = false,
-                //Title = trek.Element("Name").Value + " (" + trek.Element("MapName").Value + ")",
+                //Title = trek.Element("name").Value + " (" + trek.Element("map_name").Value + ")",
                 Size = new Point(parent.Width, 70),
                 Location = new Point(LEFT_MARGIN, 5 + position * 70),
                 Parent = parent
@@ -819,7 +837,7 @@ namespace entrhopi.Guild_Missions
             };
             trekPanelWPImage.Click += delegate
             {
-                ClipboardUtil.WindowsClipboardService.SetTextAsync(element.Element("Name").Value + " " + element.Element("WaypointChatcode").Value).ContinueWith((clipboardResult) =>
+                ClipboardUtil.WindowsClipboardService.SetTextAsync(element.Element("name").Value + " " + element.Element("chat_link").Value).ContinueWith((clipboardResult) =>
                 {
                     if (clipboardResult.IsFaulted)
                     {
@@ -833,7 +851,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = element.Element("Name").Value + " (" + element.Element("MapName").Value + ")",
+                Text = element.Element("name").Value + " (" + element.Element("map_name").Value + ")",
                 Font = Content.DefaultFont16,
                 Location = new Point(LEFT_MARGIN + 50, 3),
                 TextColor = Color.White,
@@ -845,7 +863,7 @@ namespace entrhopi.Guild_Missions
             };
             new Label()
             {
-                Text = element.Element("WaypointName").Value,
+                Text = element.Element("waypoint_name").Value,
                 Font = Content.DefaultFont14,
                 Location = new Point(LEFT_MARGIN + 50, 32),
                 TextColor = Color.Silver,
@@ -861,7 +879,7 @@ namespace entrhopi.Guild_Missions
                 Location = new Point(parent.Width - 70 - offset, -10),
                 Parent = trekPanel
             };
-            addImage.Click += delegate { DisplayInfo((int)element.Element("ID"), type, element); };
+            addImage.Click += delegate { DisplayInfo((int)element.Element("id"), type, element); };
         }
 
         private void DisplayInfo(int v, String type, XElement element)
@@ -869,9 +887,9 @@ namespace entrhopi.Guild_Missions
             int offset = 0;
 
             infoPanel.ClearChildren();
-            infoPanel.Title = "Info: " + element.Element("Name").Value;
+            infoPanel.Title = "Info: " + element.Element("name").Value;
 
-            if (element.Element("Wiki") != null)
+            if (element.Element("wiki_link") != null)
             {
                 var openWikiBttn = new StandardButton()
                 {
@@ -880,7 +898,7 @@ namespace entrhopi.Guild_Missions
                     Location = new Point(4, 4),
                     Parent = infoPanel,
                 };
-                openWikiBttn.Click += delegate { Process.Start(element.Element("Wiki").Value); };
+                openWikiBttn.Click += delegate { Process.Start(element.Element("wiki_link").Value); };
                 offset += 40;
             }
 
