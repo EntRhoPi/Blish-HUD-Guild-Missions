@@ -2,8 +2,8 @@
 <root>
   <race>
     <id>1</id>
-    <name>Bear Lope</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Bear_Lope</wiki_link>
+    <name>Foulée de l'Ourse</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(foul%C3%A9e_de_l%27Ourse)</wiki_link>
     <waypoint_id>233</waypoint_id>
     <waypoint_name>Point de passage du Prieuré de Durmand</waypoint_name>
     <chat_link>[&amp;BOkAAAA=]</chat_link>
@@ -12,8 +12,8 @@
   </race>
   <race>
     <id>2</id>
-    <name>Chicken Run</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Chicken_Run</wiki_link>
+    <name>Poulet en fuite</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(poulet_en_fuite)</wiki_link>
     <waypoint_id>332</waypoint_id>
     <waypoint_name>Point de passage du Guet de Mordrage</waypoint_name>
     <chat_link>[&amp;BEwBAAA=]</chat_link>
@@ -22,8 +22,8 @@
   </race>
   <race>
     <id>3</id>
-    <name>Crab Scuttle</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Crab_Scuttle</wiki_link>
+    <name>Fugue du crabe</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(fugue_du_crabe)</wiki_link>
     <waypoint_id>1756</waypoint_id>
     <waypoint_name>Point de passage de l'avant-poste de Kiel</waypoint_name>
     <chat_link>[&amp;BNwGAAA=]</chat_link>
@@ -32,8 +32,8 @@
   </race>
   <race>
     <id>4</id>
-    <name>Devourer Burrow</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Devourer_Burrow</wiki_link>
+    <name>Terrier du Dévoreur</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(terrier_du_D%C3%A9voreur)</wiki_link>
     <waypoint_id>969</waypoint_id>
     <waypoint_name>Point de passage du Mort-Homme</waypoint_name>
     <chat_link>[&amp;BMkDAAA=]</chat_link>
@@ -42,8 +42,8 @@
   </race>
   <race>
     <id>5</id>
-    <name>Ghost Wolf Run</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Ghost_Wolf_Run</wiki_link>
+    <name>Fuite du loup fantôme</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(fuite_du_loup_fant%C3%B4me)</wiki_link>
     <waypoint_id>165</waypoint_id>
     <waypoint_name>Point de passage du faune</waypoint_name>
     <chat_link>[&amp;BKUAAAA=]</chat_link>
@@ -52,8 +52,8 @@
   </race>
   <race>
     <id>6</id>
-    <name>Quaggan Paddle</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Quaggan_Paddle</wiki_link>
+    <name>Pagaie Quaggan</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(pagaie_quaggan)</wiki_link>
     <waypoint_id>640</waypoint_id>
     <waypoint_name>Point de passage de Doubleboucle</waypoint_name>
     <chat_link>[&amp;BIACAAA=]</chat_link>
@@ -62,8 +62,8 @@
   </race>
   <race>
     <id>7</id>
-    <name>Spider Scurry</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Spider_Scurry</wiki_link>
+    <name>Course arachnide</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Terminez_la_course_de_guilde_(course_arachnide)</wiki_link>
     <waypoint_id>605</waypoint_id>
     <waypoint_name>Point de passage du Rassemblement d'Hessdallen</waypoint_name>
     <chat_link>[&amp;BF0CAAA=]</chat_link>

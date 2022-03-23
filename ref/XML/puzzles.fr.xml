@@ -2,8 +2,8 @@
 <root>
   <puzzle>
     <id>1</id>
-    <name>Angvar's Trove</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Angvar%27s_Trove_(guild_puzzle)</wiki_link>
+    <name>Cache d'Angvar</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Cache_d%27Angvar</wiki_link>
     <waypoint_id>1791</waypoint_id>
     <waypoint_name>Point de passage de la Cache d'Angvar</waypoint_name>
     <chat_link>[&amp;BP8GAAA=]</chat_link>
@@ -12,8 +12,8 @@
   </puzzle>
   <puzzle>
     <id>2</id>
-    <name>Langmar Estate</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Langmar_Estate_(guild_puzzle)</wiki_link>
+    <name>Domaine de Langmar</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Domaine_de_Langmar</wiki_link>
     <waypoint_id>1784</waypoint_id>
     <waypoint_name>Point de passage du Domaine de Langmar</waypoint_name>
     <chat_link>[&amp;BPgGAAA=]</chat_link>
@@ -22,8 +22,8 @@
   </puzzle>
   <puzzle>
     <id>3</id>
-    <name>Proxemics Lab</name>
-    <wiki_link>https://wiki.guildwars2.com/wiki/Proxemics_Lab_(guild_puzzle)</wiki_link>
+    <name>Laboratoire de proxémie</name>
+    <wiki_link>https://wiki-fr.guildwars2.com/wiki/Laboratoire_de_prox%C3%A9mie</wiki_link>
     <waypoint_id>1785</waypoint_id>
     <waypoint_name>Point de passage du Laboratoire de proxémie</waypoint_name>
     <chat_link>[&amp;BPkGAAA=]</chat_link>
