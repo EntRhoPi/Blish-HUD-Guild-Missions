@@ -88,6 +88,15 @@ namespace entrhopi.Guild_Missions.Strings {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Open Wiki.
+        /// </summary>
+        internal static string gmButtonWiki {
+            get {
+                return ResourceManager.GetString("gmButtonWiki", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Failed to read or wirte to clipboard. Please try again..
         /// </summary>
         internal static string gmNotificationClipboardError {

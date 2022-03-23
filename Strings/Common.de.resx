@@ -126,6 +126,9 @@
   <data name="gmButtonImport" xml:space="preserve">
     <value>Importieren</value>
   </data>
+  <data name="gmButtonWiki" xml:space="preserve">
+    <value>Wiki öffnen</value>
+  </data>
   <data name="gmNotificationClipboardError" xml:space="preserve">
     <value>Fehler beim lesen oder schreiben von der Zwischenablage. Bitte versuche es noch einmal.</value>
   </data>

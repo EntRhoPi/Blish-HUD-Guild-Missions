@@ -126,6 +126,9 @@
   <data name="gmButtonImport" xml:space="preserve">
     <value>Import</value>
   </data>
+  <data name="gmButtonWiki" xml:space="preserve">
+    <value>Open Wiki</value>
+  </data>
   <data name="gmNotificationClipboardError" xml:space="preserve">
     <value>Failed to read or wirte to clipboard. Please try again.</value>
   </data>

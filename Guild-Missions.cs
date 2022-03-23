@@ -428,7 +428,7 @@ namespace entrhopi.Guild_Missions
             // Dispose of current search result
             listPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildrace_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\races." + ShortUserLocale + ".xml"));
 
             int i = 0;
             foreach (var race in doc.Root.Elements("race"))
@@ -483,7 +483,7 @@ namespace entrhopi.Guild_Missions
             // Dispose of current search result
             listPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildbounty_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\bounties." + ShortUserLocale + ".xml"));
 
             int i = 0;
             foreach (var bounty in doc.Root.Elements("bounty"))
@@ -540,7 +540,7 @@ namespace entrhopi.Guild_Missions
             // Dispose of current search result
             listPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildchallenge_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\challenges." + ShortUserLocale + ".xml"));
 
             int i = 0;
             foreach (var challenge in doc.Root.Elements("challenge"))
@@ -595,7 +595,7 @@ namespace entrhopi.Guild_Missions
             // Dispose of current search result
             listPanel.ClearChildren();
 
-            XDocument doc = XDocument.Load(ContentsManager.GetFileStream("guildpuzzle_data.xml"));
+            XDocument doc = XDocument.Load(ContentsManager.GetFileStream(@"XML\puzzles." + ShortUserLocale + ".xml"));
 
             int i = 0;
             foreach (var puzzle in doc.Root.Elements("puzzle"))
@@ -887,13 +887,13 @@ namespace entrhopi.Guild_Missions
             int offset = 0;
 
             infoPanel.ClearChildren();
-            infoPanel.Title = "Info: " + element.Element("name").Value;
+            infoPanel.Title = Strings.Common.gmPanelInfo + ": " + element.Element("name").Value;
 
             if (element.Element("wiki_link") != null)
             {
                 var openWikiBttn = new StandardButton()
                 {
-                    Text = "Open Wiki",
+                    Text = Strings.Common.gmButtonWiki,
                     Size = new Point(110, 30),
                     Location = new Point(4, 4),
                     Parent = infoPanel,

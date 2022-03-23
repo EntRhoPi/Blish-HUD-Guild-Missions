@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <puzzle>
+    <id>1</id>
+    <name>Angvar's Trove</name>
+    <wiki_link>https://wiki.guildwars2.com/wiki/Angvar%27s_Trove_(guild_puzzle)</wiki_link>
+    <waypoint_id>1791</waypoint_id>
+    <waypoint_name>Wegmarke Angvars Schatzkammer</waypoint_name>
+    <chat_link>[&amp;BP8GAAA=]</chat_link>
+    <map_id>31</map_id>
+    <map_name>Schneekuhlenhöhen</map_name>
+  </puzzle>
+  <puzzle>
+    <id>2</id>
+    <name>Langmar Estate</name>
+    <wiki_link>https://wiki.guildwars2.com/wiki/Langmar_Estate_(guild_puzzle)</wiki_link>
+    <waypoint_id>1784</waypoint_id>
+    <waypoint_name>Wegmarke Langmar-Anwesen</waypoint_name>
+    <chat_link>[&amp;BPgGAAA=]</chat_link>
+    <map_id>19</map_id>
+    <map_name>Ebenen von Aschfurt</map_name>
+  </puzzle>
+  <puzzle>
+    <id>3</id>
+    <name>Proxemics Lab</name>
+    <wiki_link>https://wiki.guildwars2.com/wiki/Proxemics_Lab_(guild_puzzle)</wiki_link>
+    <waypoint_id>1785</waypoint_id>
+    <waypoint_name>Wegmarke Proxemik-Labor</waypoint_name>
+    <chat_link>[&amp;BPkGAAA=]</chat_link>
+    <map_id>54</map_id>
+    <map_name>Brisban-Wildnis</map_name>
+  </puzzle>
+</root>
