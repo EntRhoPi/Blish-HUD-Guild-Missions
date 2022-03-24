@@ -236,6 +236,7 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Strings\Common.de.resx" />
+    <EmbeddedResource Include="Strings\Common.es.resx" />
     <EmbeddedResource Include="Strings\Common.fr.resx" />
     <EmbeddedResource Include="Strings\Common.resx">
       <Generator>ResXFileCodeGenerator</Generator>

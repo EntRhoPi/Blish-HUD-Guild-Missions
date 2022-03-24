@@ -2,7 +2,7 @@
 <root>
   <trek>
     <id>2</id>
-    <name>Altar Brook Lair</name>
+    <name>Guarida Valle del Altar</name>
     <waypoint_id>242</waypoint_id>
     <waypoint_name>Punto de Ruta de Cruce</waypoint_name>
     <chat_link>[&amp;BPIAAAA=]</chat_link>
@@ -11,7 +11,7 @@
   </trek>
   <trek>
     <id>72</id>
-    <name>Anthem's Hold</name>
+    <name>Himno Sostenido</name>
     <waypoint_id>1764</waypoint_id>
     <waypoint_name>Punto de Ruta de Roca del Naufragio</waypoint_name>
     <chat_link>[&amp;BOQGAAA=]</chat_link>
@@ -20,7 +20,7 @@
   </trek>
   <trek>
     <id>3</id>
-    <name>Anya's Patch</name>
+    <name>Parcela de Anya</name>
     <waypoint_id>222</waypoint_id>
     <waypoint_name>Punto de Ruta de Nolan</waypoint_name>
     <chat_link>[&amp;BN4AAAA=]</chat_link>
@@ -29,7 +29,7 @@
   </trek>
   <trek>
     <id>4</id>
-    <name>Arctodus Haunt</name>
+    <name>Encanto de Arctodus</name>
     <waypoint_id>382</waypoint_id>
     <waypoint_name>Punto de Ruta de Heredad de Vendraco</waypoint_name>
     <chat_link>[&amp;BH4BAAA=]</chat_link>
@@ -38,7 +38,7 @@
   </trek>
   <trek>
     <id>69</id>
-    <name>Backroot Fountain</name>
+    <name>Fuente Anteraiz</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Punto de Ruta de Calculista</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -47,7 +47,7 @@
   </trek>
   <trek>
     <id>41</id>
-    <name>Badjelly Kelpbed</name>
+    <name>Lecho de las Medusas Funestas</name>
     <waypoint_id>188</waypoint_id>
     <waypoint_name>Punto de Ruta de Exilio</waypoint_name>
     <chat_link>[&amp;BLwAAAA=]</chat_link>
@@ -56,7 +56,7 @@
   </trek>
   <trek>
     <id>7</id>
-    <name>Bandit's Cabbage Patch</name>
+    <name>Parcela de Repollos del Bandido</name>
     <waypoint_id>168</waypoint_id>
     <waypoint_name>Punto de Ruta de Punto de Reunión de Wynchona</waypoint_name>
     <chat_link>[&amp;BKgAAAA=]</chat_link>
@@ -65,7 +65,7 @@
   </trek>
   <trek>
     <id>9</id>
-    <name>Beetlestone Mirador</name>
+    <name>Miradero Piedramazo</name>
     <waypoint_id>250</waypoint_id>
     <waypoint_name>Punto de Ruta de Beetletun</waypoint_name>
     <chat_link>[&amp;BPoAAAA=]</chat_link>
@@ -74,7 +74,7 @@
   </trek>
   <trek>
     <id>130</id>
-    <name>Black Lion Root Cellar</name>
+    <name>Bodega del León Negro</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Punto de Ruta de Calculista</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -83,7 +83,7 @@
   </trek>
   <trek>
     <id>129</id>
-    <name>Blackblade Butte</name>
+    <name>Cerrillo de Filonegro</name>
     <waypoint_id>220</waypoint_id>
     <waypoint_name>Punto de Ruta de Fuente de Rhand</waypoint_name>
     <chat_link>[&amp;BNwAAAA=]</chat_link>
@@ -92,7 +92,7 @@
   </trek>
   <trek>
     <id>168</id>
-    <name>Blasted Sepulchre</name>
+    <name>Sepulcro Maldito</name>
     <waypoint_id>218</waypoint_id>
     <waypoint_name>Punto de Ruta de Páramos Malditos</waypoint_name>
     <chat_link>[&amp;BNoAAAA=]</chat_link>
@@ -101,7 +101,7 @@
   </trek>
   <trek>
     <id>10</id>
-    <name>Blood Ooze Gallery</name>
+    <name>Galería de Légamo de sangre</name>
     <waypoint_id>429</waypoint_id>
     <waypoint_name>Punto de Ruta de Pesar</waypoint_name>
     <chat_link>[&amp;BK0BAAA=]</chat_link>
@@ -110,7 +110,7 @@
   </trek>
   <trek>
     <id>11</id>
-    <name>Bluup's Comeuppance</name>
+    <name>Merecido de Blupp</name>
     <waypoint_id>1208</waypoint_id>
     <waypoint_name>Punto de Ruta de Investigación</waypoint_name>
     <chat_link>[&amp;BLgEAAA=]</chat_link>
@@ -119,7 +119,7 @@
   </trek>
   <trek>
     <id>12</id>
-    <name>Brandstrike Dig</name>
+    <name>Excavación de Golpe Marcado</name>
     <waypoint_id>331</waypoint_id>
     <waypoint_name>Punto de Ruta de Mina de Helliot</waypoint_name>
     <chat_link>[&amp;BEsBAAA=]</chat_link>
@@ -128,7 +128,7 @@
   </trek>
   <trek>
     <id>180</id>
-    <name>Briarthorn Barrier</name>
+    <name>Barrera de Espinazarza</name>
     <waypoint_id>309</waypoint_id>
     <waypoint_name>Punto de Ruta de Espiral</waypoint_name>
     <chat_link>[&amp;BDUBAAA=]</chat_link>
@@ -137,7 +137,7 @@
   </trek>
   <trek>
     <id>131</id>
-    <name>Broken Falls Courtyard</name>
+    <name>Patio de las Cataratas Rotas</name>
     <waypoint_id>940</waypoint_id>
     <waypoint_name>Punto de Ruta de Ruinas de Rin</waypoint_name>
     <chat_link>[&amp;BKwDAAA=]</chat_link>
@@ -146,7 +146,7 @@
   </trek>
   <trek>
     <id>15</id>
-    <name>Broodmother Falls</name>
+    <name>Cataratas de la Progenitora</name>
     <waypoint_id>644</waypoint_id>
     <waypoint_name>Punto de Ruta de Declive del Yak</waypoint_name>
     <chat_link>[&amp;BIQCAAA=]</chat_link>
@@ -155,7 +155,7 @@
   </trek>
   <trek>
     <id>14</id>
-    <name>Brother's Notch</name>
+    <name>Muesca de los Hermanos</name>
     <waypoint_id>912</waypoint_id>
     <waypoint_name>Punto de Ruta de Brújula de Héroe</waypoint_name>
     <chat_link>[&amp;BJADAAA=]</chat_link>
@@ -164,7 +164,7 @@
   </trek>
   <trek>
     <id>119</id>
-    <name>Burstbubble Blind</name>
+    <name>Persiana explotaburbujas</name>
     <waypoint_id>850</waypoint_id>
     <waypoint_name>Punto de Ruta de Camino de Hollín</waypoint_name>
     <chat_link>[&amp;BFIDAAA=]</chat_link>
@@ -173,7 +173,7 @@
   </trek>
   <trek>
     <id>172</id>
-    <name>Cache of the Pursued</name>
+    <name>Escondite de los Perseguidos</name>
     <waypoint_id>801</waypoint_id>
     <waypoint_name>Punto de Ruta de Sombrabuena de Caer</waypoint_name>
     <chat_link>[&amp;BCEDAAA=]</chat_link>
@@ -182,7 +182,7 @@
   </trek>
   <trek>
     <id>16</id>
-    <name>Cademkrall Overlook</name>
+    <name>Mirador del Corral Cadem</name>
     <waypoint_id>392</waypoint_id>
     <waypoint_name>Punto de Ruta de Torre Vigilapeñasco</waypoint_name>
     <chat_link>[&amp;BIgBAAA=]</chat_link>
@@ -191,7 +191,7 @@
   </trek>
   <trek>
     <id>98</id>
-    <name>Canyonweb Cave</name>
+    <name>Cueva Telaraña del Cañón</name>
     <waypoint_id>516</waypoint_id>
     <waypoint_name>Punto de Ruta de Vistamarca</waypoint_name>
     <chat_link>[&amp;BAQCAAA=]</chat_link>
@@ -200,7 +200,7 @@
   </trek>
   <trek>
     <id>81</id>
-    <name>Captain's Berth</name>
+    <name>Embarcadero del capitán</name>
     <waypoint_id>690</waypoint_id>
     <waypoint_name>Punto de Ruta de Luces</waypoint_name>
     <chat_link>[&amp;BLICAAA=]</chat_link>
@@ -209,7 +209,7 @@
   </trek>
   <trek>
     <id>17</id>
-    <name>Castavall Corner</name>
+    <name>Esquina Castavall</name>
     <waypoint_id>429</waypoint_id>
     <waypoint_name>Punto de Ruta de Pesar</waypoint_name>
     <chat_link>[&amp;BK0BAAA=]</chat_link>
@@ -218,7 +218,7 @@
   </trek>
   <trek>
     <id>78</id>
-    <name>Cathedral's Cavity</name>
+    <name>Cavidad de la Catedral</name>
     <waypoint_id>684</waypoint_id>
     <waypoint_name>Punto de Ruta de Wren</waypoint_name>
     <chat_link>[&amp;BKwCAAA=]</chat_link>
@@ -227,7 +227,7 @@
   </trek>
   <trek>
     <id>70</id>
-    <name>Cave Bear Cache</name>
+    <name>Escondite de la Osa</name>
     <waypoint_id>191</waypoint_id>
     <waypoint_name>Punto de Ruta de Desembarcadero de Halcón de Nieve</waypoint_name>
     <chat_link>[&amp;BL8AAAA=]</chat_link>
@@ -236,7 +236,7 @@
   </trek>
   <trek>
     <id>71</id>
-    <name>Cave Spider Nidus</name>
+    <name>Nidus de la Araña de Cueva</name>
     <waypoint_id>408</waypoint_id>
     <waypoint_name>Punto de Ruta de Enclave del Pináculo</waypoint_name>
     <chat_link>[&amp;BJgBAAA=]</chat_link>
@@ -245,7 +245,7 @@
   </trek>
   <trek>
     <id>158</id>
-    <name>Claypool Bailey</name>
+    <name>Patio del Arcillar</name>
     <waypoint_id>246</waypoint_id>
     <waypoint_name>Punto de Ruta de Arcillar</waypoint_name>
     <chat_link>[&amp;BPYAAAA=]</chat_link>
@@ -254,7 +254,7 @@
   </trek>
   <trek>
     <id>148</id>
-    <name>Constellation Parapet</name>
+    <name>Parapeto Constelación</name>
     <waypoint_id>1211</waypoint_id>
     <waypoint_name>Punto de Ruta de Calculista</waypoint_name>
     <chat_link>[&amp;BLsEAAA=]</chat_link>
@@ -263,7 +263,7 @@
   </trek>
   <trek>
     <id>185</id>
-    <name>Corruption's Teeth</name>
+    <name> Dientes de la Corrupción </name>
     <waypoint_id>646</waypoint_id>
     <waypoint_name>Punto de Ruta de Drakkar</waypoint_name>
     <chat_link>[&amp;BIYCAAA=]</chat_link>
@@ -272,7 +272,7 @@
   </trek>
   <trek>
     <id>18</id>
-    <name>Covington's Stowage</name>
+    <name>Estiba de Covington</name>
     <waypoint_id>424</waypoint_id>
     <waypoint_name>Punto de Ruta de Gaviota Sonriente</waypoint_name>
     <chat_link>[&amp;BKgBAAA=]</chat_link>
@@ -281,7 +281,7 @@
   </trek>
   <trek>
     <id>62</id>
-    <name>Cutthroat's Rest</name>
+    <name>Descanso del Sanguinario</name>
     <waypoint_id>973</waypoint_id>
     <waypoint_name>Punto de Ruta de Bergantín</waypoint_name>
     <chat_link>[&amp;BM0DAAA=]</chat_link>
@@ -290,7 +290,7 @@
   </trek>
   <trek>
     <id>19</id>
-    <name>Cymbel's Glen</name>
+    <name>Cañada de Cymbel</name>
     <waypoint_id>212</waypoint_id>
     <waypoint_name>Punto de Ruta de Vigilancia de Filomortal</waypoint_name>
     <chat_link>[&amp;BNQAAAA=]</chat_link>
@@ -299,7 +299,7 @@
   </trek>
   <trek>
     <id>94</id>
-    <name>Dawngleam Pergola</name>
+    <name>Pérgola del Amanecer Refulgente</name>
     <waypoint_id>1212</waypoint_id>
     <waypoint_name>Punto de Ruta de Ronan</waypoint_name>
     <chat_link>[&amp;BLwEAAA=]</chat_link>
@@ -308,7 +308,7 @@
   </trek>
   <trek>
     <id>157</id>
-    <name>Deepmire Diver</name>
+    <name>Submarinista del lodazal</name>
     <waypoint_id>721</waypoint_id>
     <waypoint_name>Punto de Ruta de Isla Reverencia del Buey</waypoint_name>
     <chat_link>[&amp;BNECAAA=]</chat_link>
@@ -317,7 +317,7 @@
   </trek>
   <trek>
     <id>29</id>
-    <name>Defiled Delve</name>
+    <name>Socavón Profanado</name>
     <waypoint_id>17</waypoint_id>
     <waypoint_name>Punto de Ruta de Llaganegra</waypoint_name>
     <chat_link>[&amp;BBEAAAA=]</chat_link>
@@ -326,7 +326,7 @@
   </trek>
   <trek>
     <id>6</id>
-    <name>Delight's Balcony</name>
+    <name>Balcón del Deleite</name>
     <waypoint_id>678</waypoint_id>
     <waypoint_name>Punto de Ruta de Pagga</waypoint_name>
     <chat_link>[&amp;BKYCAAA=]</chat_link>
@@ -335,7 +335,7 @@
   </trek>
   <trek>
     <id>143</id>
-    <name>Destiny's Guildhall</name>
+    <name>Sala del Clan del Destino</name>
     <waypoint_id>239</waypoint_id>
     <waypoint_name>Punto de Ruta de Shaemoor</waypoint_name>
     <chat_link>[&amp;BO8AAAA=]</chat_link>
@@ -344,7 +344,7 @@
   </trek>
   <trek>
     <id>128</id>
-    <name>Dirtclaw Cleft</name>
+    <name>Grieta Garrasucia</name>
     <waypoint_id>483</waypoint_id>
     <waypoint_name>Punto de Ruta de Lago Aletasangre</waypoint_name>
     <chat_link>[&amp;BOMBAAA=]</chat_link>
@@ -353,7 +353,7 @@
   </trek>
   <trek>
     <id>20</id>
-    <name>Doefalls Court</name>
+    <name>Corte de las Cataratas de la Cierva</name>
     <waypoint_id>391</waypoint_id>
     <waypoint_name>Punto de Ruta de Ciudad Ascalon</waypoint_name>
     <chat_link>[&amp;BIcBAAA=]</chat_link>
@@ -362,7 +362,7 @@
   </trek>
   <trek>
     <id>88</id>
-    <name>Drakecleft Shelf</name>
+    <name>Balda Grietadraco</name>
     <waypoint_id>332</waypoint_id>
     <waypoint_name>Punto de Ruta de Vigilancia Colmillofurioso</waypoint_name>
     <chat_link>[&amp;BEwBAAA=]</chat_link>
@@ -371,7 +371,7 @@
   </trek>
   <trek>
     <id>87</id>
-    <name>Drakehatch Shore</name>
+    <name>Ribera de los Saurios</name>
     <waypoint_id>356</waypoint_id>
     <waypoint_name>Punto de Ruta de Brechagua</waypoint_name>
     <chat_link>[&amp;BGQBAAA=]</chat_link>
@@ -380,7 +380,7 @@
   </trek>
   <trek>
     <id>25</id>
-    <name>Droknah's Gate</name>
+    <name>Puerta de Droknar</name>
     <waypoint_id>724</waypoint_id>
     <waypoint_name>Punto de Ruta de Antigua Zona de Trineos</waypoint_name>
     <chat_link>[&amp;BNQCAAA=]</chat_link>
@@ -389,7 +389,7 @@
   </trek>
   <trek>
     <id>105</id>
-    <name>Drowned Plaza</name>
+    <name>Plaza Aguada</name>
     <waypoint_id>755</waypoint_id>
     <waypoint_name>Punto de Ruta de Foro Real</waypoint_name>
     <chat_link>[&amp;BPMCAAA=]</chat_link>
@@ -398,7 +398,7 @@
   </trek>
   <trek>
     <id>102</id>
-    <name>East End Falls</name>
+    <name>Cataratas Orientales</name>
     <waypoint_id>96</waypoint_id>
     <waypoint_name>Punto de Ruta de Barrio Este</waypoint_name>
     <chat_link>[&amp;BGAAAAA=]</chat_link>
@@ -407,7 +407,7 @@
   </trek>
   <trek>
     <id>103</id>
-    <name>Eastlurk Alley</name>
+    <name>Tiro al Blanco de Mina</name>
     <waypoint_id>803</waypoint_id>
     <waypoint_name>Punto de Ruta de Dwayna</waypoint_name>
     <chat_link>[&amp;BCMDAAA=]</chat_link>
@@ -416,7 +416,7 @@
   </trek>
   <trek>
     <id>28</id>
-    <name>Elise's Surprise</name>
+    <name>La Sorpresa de Elise</name>
     <waypoint_id>171</waypoint_id>
     <waypoint_name>Punto de Ruta de Demetra</waypoint_name>
     <chat_link>[&amp;BKsAAAA=]</chat_link>
@@ -425,7 +425,7 @@
   </trek>
   <trek>
     <id>33</id>
-    <name>Ettinbreath Lair</name>
+    <name>Guarida del Suspiro del Ettin</name>
     <waypoint_id>230</waypoint_id>
     <waypoint_name>Punto de Ruta de Fauces de Demonio</waypoint_name>
     <chat_link>[&amp;BOYAAAA=]</chat_link>
@@ -434,7 +434,7 @@
   </trek>
   <trek>
     <id>47</id>
-    <name>Fathom Five Forcefield</name>
+    <name>Campo de Fuerza Cinco Brazas</name>
     <waypoint_id>754</waypoint_id>
     <waypoint_name>Punto de Ruta de Campana de Vísperas</waypoint_name>
     <chat_link>[&amp;BPICAAA=]</chat_link>
@@ -443,7 +443,7 @@
   </trek>
   <trek>
     <id>36</id>
-    <name>Fawcett's Porch</name>
+    <name>Porche de Fawcett</name>
     <waypoint_id>195</waypoint_id>
     <waypoint_name>Punto de Ruta de Arcallion</waypoint_name>
     <chat_link>[&amp;BMMAAAA=]</chat_link>
@@ -452,7 +452,7 @@
   </trek>
   <trek>
     <id>38</id>
-    <name>Fire Imp Pocket</name>
+    <name>Cauce Diablillo de Fuego</name>
     <waypoint_id>717</waypoint_id>
     <waypoint_name>Punto de Ruta de Vorágine</waypoint_name>
     <chat_link>[&amp;BM0CAAA=]</chat_link>
@@ -461,7 +461,7 @@
   </trek>
   <trek>
     <id>37</id>
-    <name>Firefrog Springs</name>
+    <name>Manantiales Rana Ígnea</name>
     <waypoint_id>460</waypoint_id>
     <waypoint_name>Punto de Ruta de Ranaflamígera</waypoint_name>
     <chat_link>[&amp;BMwBAAA=]</chat_link>
@@ -470,7 +470,7 @@
   </trek>
   <trek>
     <id>39</id>
-    <name>Firewatch Flybridge</name>
+    <name>Pasarela de Vigilafuegos</name>
     <waypoint_id>493</waypoint_id>
     <waypoint_name>Punto de Ruta de Campamento de Vigilafuegos</waypoint_name>
     <chat_link>[&amp;BO0BAAA=]</chat_link>
@@ -479,7 +479,7 @@
   </trek>
   <trek>
     <id>40</id>
-    <name>Fisher's Crag</name>
+    <name>Peñasco del Pescador</name>
     <waypoint_id>1198</waypoint_id>
     <waypoint_name>Punto de Ruta de Antigua Fábrica de Gólems</waypoint_name>
     <chat_link>[&amp;BK4EAAA=]</chat_link>
@@ -488,7 +488,7 @@
   </trek>
   <trek>
     <id>42</id>
-    <name>Flakk's Lapidary Nook</name>
+    <name>Rincón Lapidario de Flakk</name>
     <waypoint_id>1206</waypoint_id>
     <waypoint_name>Punto de Ruta de Cuenta</waypoint_name>
     <chat_link>[&amp;BLYEAAA=]</chat_link>
@@ -497,7 +497,7 @@
   </trek>
   <trek>
     <id>1</id>
-    <name>Forager's Midden</name>
+    <name>Escombrera del Forrajeador</name>
     <waypoint_id>603</waypoint_id>
     <waypoint_name>Punto de Ruta de Campoacero</waypoint_name>
     <chat_link>[&amp;BFsCAAA=]</chat_link>
@@ -506,7 +506,7 @@
   </trek>
   <trek>
     <id>167</id>
-    <name>Forbidden Shear</name>
+    <name>Grieta Prohibida</name>
     <waypoint_id>687</waypoint_id>
     <waypoint_name>Punto de Ruta de Murmullo</waypoint_name>
     <chat_link>[&amp;BK8CAAA=]</chat_link>
@@ -515,7 +515,7 @@
   </trek>
   <trek>
     <id>171</id>
-    <name>Foreman's Recess</name>
+    <name>Nicho del Capataz</name>
     <waypoint_id>600</waypoint_id>
     <waypoint_name>Punto de Ruta de Dociu</waypoint_name>
     <chat_link>[&amp;BFgCAAA=]</chat_link>
@@ -524,7 +524,7 @@
   </trek>
   <trek>
     <id>169</id>
-    <name>Forgotten Grotto</name>
+    <name>Gruta Olvidada</name>
     <waypoint_id>513</waypoint_id>
     <waypoint_name>Punto de Ruta de Terra Carorunda</waypoint_name>
     <chat_link>[&amp;BAECAAA=]</chat_link>
@@ -533,7 +533,7 @@
   </trek>
   <trek>
     <id>43</id>
-    <name>Founder's Flagon Hearth</name>
+    <name> Hogar la Jarra del Fundador</name>
     <waypoint_id>1085</waypoint_id>
     <waypoint_name>Punto de Ruta de Kestrel</waypoint_name>
     <chat_link>[&amp;BD0EAAA=]</chat_link>
@@ -542,7 +542,7 @@
   </trek>
   <trek>
     <id>45</id>
-    <name>Freestand Scaffold</name>
+    <name>Cadalso Suspendido</name>
     <waypoint_id>940</waypoint_id>
     <waypoint_name>Punto de Ruta de Ruinas de Rin</waypoint_name>
     <chat_link>[&amp;BKwDAAA=]</chat_link>
@@ -551,7 +551,7 @@
   </trek>
   <trek>
     <id>51</id>
-    <name>Frozen Antrum</name>
+    <name>Antrum Congelado</name>
     <waypoint_id>591</waypoint_id>
     <waypoint_name>Punto de Ruta de Papel Blanco</waypoint_name>
     <chat_link>[&amp;BE8CAAA=]</chat_link>
@@ -560,7 +560,7 @@
   </trek>
   <trek>
     <id>48</id>
-    <name>Gallow Canyons</name>
+    <name>Cañones Macabros</name>
     <waypoint_id>99</waypoint_id>
     <waypoint_name>Punto de Ruta de Campos del Patíbulo</waypoint_name>
     <chat_link>[&amp;BGMAAAA=]</chat_link>
@@ -569,7 +569,7 @@
   </trek>
   <trek>
     <id>49</id>
-    <name>Gardenroot Alcove</name>
+    <name>Alcoba Huertoraíz</name>
     <waypoint_id>1210</waypoint_id>
     <waypoint_name>Punto de Ruta de Feria Superior</waypoint_name>
     <chat_link>[&amp;BLoEAAA=]</chat_link>
@@ -578,7 +578,7 @@
   </trek>
   <trek>
     <id>55</id>
-    <name>Gnashar's Viewpoint</name>
+    <name>Puesto de observación de Gnashar</name>
     <waypoint_id>93</waypoint_id>
     <waypoint_name>Punto de Ruta de Wendon</waypoint_name>
     <chat_link>[&amp;BF0AAAA=]</chat_link>
@@ -587,7 +587,7 @@
   </trek>
   <trek>
     <id>59</id>
-    <name>Green Moa Paddock</name>
+    <name>Prado de Moa Verde</name>
     <waypoint_id>316</waypoint_id>
     <waypoint_name>Punto de Ruta de Refugio de Caledon</waypoint_name>
     <chat_link>[&amp;BDwBAAA=]</chat_link>
@@ -596,7 +596,7 @@
   </trek>
   <trek>
     <id>58</id>
-    <name>Grenth's Pavillion</name>
+    <name>Pabellón de Grenth </name>
     <waypoint_id>804</waypoint_id>
     <waypoint_name>Punto de Ruta de Grenth</waypoint_name>
     <chat_link>[&amp;BCQDAAA=]</chat_link>
@@ -605,7 +605,7 @@
   </trek>
   <trek>
     <id>56</id>
-    <name>Grimdottir's Duty</name>
+    <name>Labor de Grimdottir</name>
     <waypoint_id>907</waypoint_id>
     <waypoint_name>Punto de Ruta de Roca del Refugio</waypoint_name>
     <chat_link>[&amp;BIsDAAA=]</chat_link>
@@ -614,7 +614,7 @@
   </trek>
   <trek>
     <id>162</id>
-    <name>Guardian Overwatch</name>
+    <name>Sobrevigilancia del Guardián</name>
     <waypoint_id>173</waypoint_id>
     <waypoint_name>Punto de Ruta de Campamento Barricada</waypoint_name>
     <chat_link>[&amp;BK0AAAA=]</chat_link>
@@ -623,7 +623,7 @@
   </trek>
   <trek>
     <id>34</id>
-    <name>Hawkeye Perch</name>
+    <name>Nido de grifos ojodehalcón</name>
     <waypoint_id>581</waypoint_id>
     <waypoint_name>Punto de Ruta de Serpiente</waypoint_name>
     <chat_link>[&amp;BEUCAAA=]</chat_link>
@@ -632,7 +632,7 @@
   </trek>
   <trek>
     <id>150</id>
-    <name>Heart Speaks Notch</name>
+    <name>Muesca Algarabía del Corazón</name>
     <waypoint_id>541</waypoint_id>
     <waypoint_name>Punto de Ruta de Apóstata</waypoint_name>
     <chat_link>[&amp;BB0CAAA=]</chat_link>
@@ -641,7 +641,7 @@
   </trek>
   <trek>
     <id>67</id>
-    <name>Heartwood Honey Cache</name>
+    <name>Escondite Ápido de los Bosques Duramen</name>
     <waypoint_id>243</waypoint_id>
     <waypoint_name>Punto de Ruta de Phinney</waypoint_name>
     <chat_link>[&amp;BPMAAAA=]</chat_link>
@@ -650,7 +650,7 @@
   </trek>
   <trek>
     <id>65</id>
-    <name>Heidi's Showpiece</name>
+    <name> Pieza estrella de Heidi</name>
     <waypoint_id>167</waypoint_id>
     <waypoint_name>Punto de Ruta de Desembarcadero del Serafín</waypoint_name>
     <chat_link>[&amp;BKcAAAA=]</chat_link>
@@ -659,7 +659,7 @@
   </trek>
   <trek>
     <id>31</id>
-    <name>Hermit's Roost</name>
+    <name>Nido de Ermitaños</name>
     <waypoint_id>216</waypoint_id>
     <waypoint_name>Punto de Ruta de Campamento de Rosko</waypoint_name>
     <chat_link>[&amp;BNgAAAA=]</chat_link>
@@ -668,7 +668,7 @@
   </trek>
   <trek>
     <id>170</id>
-    <name>Hidden Owl Distillery</name>
+    <name>Destilería Oculta de la Lechuza</name>
     <waypoint_id>193</waypoint_id>
     <waypoint_name>Punto de Ruta de Lechuza</waypoint_name>
     <chat_link>[&amp;BMEAAAA=]</chat_link>
@@ -677,7 +677,7 @@
   </trek>
   <trek>
     <id>66</id>
-    <name>Holystone Sanctum</name>
+    <name>Sagrario de Piedrasanta</name>
     <waypoint_id>965</waypoint_id>
     <waypoint_name>Punto de Ruta de Camino del Sagrario</waypoint_name>
     <chat_link>[&amp;BMUDAAA=]</chat_link>
@@ -686,7 +686,7 @@
   </trek>
   <trek>
     <id>27</id>
-    <name>Icewurm Trench</name>
+    <name>Trinchera de la Sierpe de Hielo</name>
     <waypoint_id>639</waypoint_id>
     <waypoint_name>Punto de Ruta de Dimotiki</waypoint_name>
     <chat_link>[&amp;BH8CAAA=]</chat_link>
@@ -695,7 +695,7 @@
   </trek>
   <trek>
     <id>50</id>
-    <name>Ideation Leap</name>
+    <name>Salto Ideación</name>
     <waypoint_id>1205</waypoint_id>
     <waypoint_name>Punto de Ruta de Incubación</waypoint_name>
     <chat_link>[&amp;BLUEAAA=]</chat_link>
@@ -704,7 +704,7 @@
   </trek>
   <trek>
     <id>80</id>
-    <name>Imphaunt Hallow</name>
+    <name>Ermita del Diablillo Encantado</name>
     <waypoint_id>321</waypoint_id>
     <waypoint_name>Punto de Ruta de Wychmire</waypoint_name>
     <chat_link>[&amp;BEEBAAA=]</chat_link>
@@ -713,7 +713,7 @@
   </trek>
   <trek>
     <id>26</id>
-    <name>Irondock Viewpoint</name>
+    <name>Puesto de Observación de Hierromuelle</name>
     <waypoint_id>393</waypoint_id>
     <waypoint_name>Punto de Ruta de Mirador Desgarraocaso</waypoint_name>
     <chat_link>[&amp;BIkBAAA=]</chat_link>
@@ -722,7 +722,7 @@
   </trek>
   <trek>
     <id>73</id>
-    <name>Isenfell Wash</name>
+    <name>Cauce de Isenfell</name>
     <waypoint_id>184</waypoint_id>
     <waypoint_name>Punto de Ruta de Isenfall</waypoint_name>
     <chat_link>[&amp;BLgAAAA=]</chat_link>
@@ -731,7 +731,7 @@
   </trek>
   <trek>
     <id>74</id>
-    <name>Isgarren Viewpoint</name>
+    <name>Puesto de Observación de Isgarren</name>
     <waypoint_id>17</waypoint_id>
     <waypoint_name>Punto de Ruta de Llaganegra</waypoint_name>
     <chat_link>[&amp;BBEAAAA=]</chat_link>
@@ -740,7 +740,7 @@
   </trek>
   <trek>
     <id>75</id>
-    <name>Jaguar Pride Den</name>
+    <name>Cubil del Orgullo del Jaguar</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Punto de Ruta de Muridiano</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -749,7 +749,7 @@
   </trek>
   <trek>
     <id>117</id>
-    <name>Junker's Apex</name>
+    <name>Cima de Basurero</name>
     <waypoint_id>1079</waypoint_id>
     <waypoint_name>Punto de Ruta del Vertedero</waypoint_name>
     <chat_link>[&amp;BDcEAAA=]</chat_link>
@@ -758,7 +758,7 @@
   </trek>
   <trek>
     <id>76</id>
-    <name>Kaldar's Hot Seat</name>
+    <name>Asiento caliente de Kaldar</name>
     <waypoint_id>909</waypoint_id>
     <waypoint_name>Punto de Ruta de Puesto Vigía Oriental</waypoint_name>
     <chat_link>[&amp;BI0DAAA=]</chat_link>
@@ -767,7 +767,7 @@
   </trek>
   <trek>
     <id>77</id>
-    <name>Kari's Hot Spot</name>
+    <name>Punto clave de Kari</name>
     <waypoint_id>18</waypoint_id>
     <waypoint_name>Punto de Ruta de Cereboth</waypoint_name>
     <chat_link>[&amp;BBIAAAA=]</chat_link>
@@ -776,7 +776,7 @@
   </trek>
   <trek>
     <id>35</id>
-    <name>Kegbrawl Watch</name>
+    <name>Atalaya de la Pelea de Barricas</name>
     <waypoint_id>912</waypoint_id>
     <waypoint_name>Punto de Ruta de Brújula de Héroe</waypoint_name>
     <chat_link>[&amp;BJADAAA=]</chat_link>
@@ -785,7 +785,7 @@
   </trek>
   <trek>
     <id>79</id>
-    <name>Kevach's Strongroom</name>
+    <name>Cámara acorazada de Kevach</name>
     <waypoint_id>961</waypoint_id>
     <waypoint_name>Punto de Ruta de Cueva de Dragonperdido</waypoint_name>
     <chat_link>[&amp;BMEDAAA=]</chat_link>
@@ -794,7 +794,7 @@
   </trek>
   <trek>
     <id>132</id>
-    <name>Lakebottom Underpass</name>
+    <name>Paso Subterráneo del Lago</name>
     <waypoint_id>249</waypoint_id>
     <waypoint_name>Punto de Ruta de Aserradero de Ojon</waypoint_name>
     <chat_link>[&amp;BPkAAAA=]</chat_link>
@@ -803,7 +803,7 @@
   </trek>
   <trek>
     <id>82</id>
-    <name>Lawen Grotto</name>
+    <name>Gruta de Lawen</name>
     <waypoint_id>395</waypoint_id>
     <waypoint_name>Punto de Ruta de Primer Refugio</waypoint_name>
     <chat_link>[&amp;BIsBAAA=]</chat_link>
@@ -812,7 +812,7 @@
   </trek>
   <trek>
     <id>85</id>
-    <name>Lightfoot Dock</name>
+    <name>Muelle Pasoligero</name>
     <waypoint_id>752</waypoint_id>
     <waypoint_name>Punto de Ruta de Trueno</waypoint_name>
     <chat_link>[&amp;BPACAAA=]</chat_link>
@@ -821,7 +821,7 @@
   </trek>
   <trek>
     <id>86</id>
-    <name>Lily's Bivvy</name>
+    <name>Carpa de Lily</name>
     <waypoint_id>544</waypoint_id>
     <waypoint_name>Punto de Ruta de Lanzagélida</waypoint_name>
     <chat_link>[&amp;BCACAAA=]</chat_link>
@@ -830,7 +830,7 @@
   </trek>
   <trek>
     <id>89</id>
-    <name>Lionguard Larder</name>
+    <name>Despensa de la Guardia del León</name>
     <waypoint_id>381</waypoint_id>
     <waypoint_name>Punto de Ruta de Refugio Dosespuelas</waypoint_name>
     <chat_link>[&amp;BH0BAAA=]</chat_link>
@@ -839,7 +839,7 @@
   </trek>
   <trek>
     <id>84</id>
-    <name>Lychcroft Wardenship</name>
+    <name>Garita Fincadaver</name>
     <waypoint_id>12</waypoint_id>
     <waypoint_name>Punto de Ruta de Zona del Corazonsombrío</waypoint_name>
     <chat_link>[&amp;BAwAAAA=]</chat_link>
@@ -848,7 +848,7 @@
   </trek>
   <trek>
     <id>90</id>
-    <name>Magihedron Corner</name>
+    <name>Esquina de Magihedro</name>
     <waypoint_id>1043</waypoint_id>
     <waypoint_name>Punto de Ruta de Patio Métrico</waypoint_name>
     <chat_link>[&amp;BBMEAAA=]</chat_link>
@@ -857,7 +857,7 @@
   </trek>
   <trek>
     <id>63</id>
-    <name>Master Control LIN39</name>
+    <name>Control maestro LIN39</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Punto de Ruta de Muridiano</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -866,7 +866,7 @@
   </trek>
   <trek>
     <id>92</id>
-    <name>Melandru's Fount</name>
+    <name>Fuente de Dwayna</name>
     <waypoint_id>807</waypoint_id>
     <waypoint_name>Punto de Ruta de Melandru</waypoint_name>
     <chat_link>[&amp;BCcDAAA=]</chat_link>
@@ -875,7 +875,7 @@
   </trek>
   <trek>
     <id>127</id>
-    <name>Meltwater Cave</name>
+    <name>Cueva Fusionanieve</name>
     <waypoint_id>584</waypoint_id>
     <waypoint_name>Punto de Ruta de Playa de Escama</waypoint_name>
     <chat_link>[&amp;BEgCAAA=]</chat_link>
@@ -884,7 +884,7 @@
   </trek>
   <trek>
     <id>93</id>
-    <name>Minar's Target Shoot</name>
+    <name>Callejón Acechoriental</name>
     <waypoint_id>810</waypoint_id>
     <waypoint_name>Punto de Ruta de Feria</waypoint_name>
     <chat_link>[&amp;BCoDAAA=]</chat_link>
@@ -893,7 +893,7 @@
   </trek>
   <trek>
     <id>96</id>
-    <name>Mistriven Shelf</name>
+    <name>Balda Nieblahendida</name>
     <waypoint_id>409</waypoint_id>
     <waypoint_name>Punto de Ruta de Hiendeniebla</waypoint_name>
     <chat_link>[&amp;BJkBAAA=]</chat_link>
@@ -902,7 +902,7 @@
   </trek>
   <trek>
     <id>91</id>
-    <name>Moleberia Prison</name>
+    <name>Prisión Topoberia</name>
     <waypoint_id>376</waypoint_id>
     <waypoint_name>Punto de Ruta de Halvaunt</waypoint_name>
     <chat_link>[&amp;BHgBAAA=]</chat_link>
@@ -911,7 +911,7 @@
   </trek>
   <trek>
     <id>95</id>
-    <name>Monument to the Ancient One</name>
+    <name>Monumento al Ancestro</name>
     <waypoint_id>1752</waypoint_id>
     <waypoint_name>Punto de Ruta del Refugio de Owain</waypoint_name>
     <chat_link>[&amp;BNgGAAA=]</chat_link>
@@ -920,7 +920,7 @@
   </trek>
   <trek>
     <id>30</id>
-    <name>Narrowkraal Crossing</name>
+    <name>Cruce de Corralestrech</name>
     <waypoint_id>335</waypoint_id>
     <waypoint_name>Punto de Ruta de Camino de los Ogros</waypoint_name>
     <chat_link>[&amp;BE8BAAA=]</chat_link>
@@ -929,7 +929,7 @@
   </trek>
   <trek>
     <id>97</id>
-    <name>Necrolith Landing</name>
+    <name>Desembarcadero Necrolith</name>
     <waypoint_id>1042</waypoint_id>
     <waypoint_name>Punto de Ruta de Caledon</waypoint_name>
     <chat_link>[&amp;BBIEAAA=]</chat_link>
@@ -938,7 +938,7 @@
   </trek>
   <trek>
     <id>32</id>
-    <name>Orecart Hoist</name>
+    <name>Montacargas para carros de minerales</name>
     <waypoint_id>535</waypoint_id>
     <waypoint_name>Punto de Ruta de Arrabio</waypoint_name>
     <chat_link>[&amp;BBcCAAA=]</chat_link>
@@ -947,7 +947,7 @@
   </trek>
   <trek>
     <id>100</id>
-    <name>Orvanic Sourcewaters</name>
+    <name>Fuente de Agua de Orvar</name>
     <waypoint_id>457</waypoint_id>
     <waypoint_name>Punto de Ruta de Garganta del Océano</waypoint_name>
     <chat_link>[&amp;BMkBAAA=]</chat_link>
@@ -956,7 +956,7 @@
   </trek>
   <trek>
     <id>101</id>
-    <name>Osenfold Counterweights</name>
+    <name>Contrapeso de Osenfold</name>
     <waypoint_id>1025</waypoint_id>
     <waypoint_name>Punto de Ruta de Osenfold</waypoint_name>
     <chat_link>[&amp;BAEEAAA=]</chat_link>
@@ -965,7 +965,7 @@
   </trek>
   <trek>
     <id>99</id>
-    <name>Overlord Lodge</name>
+    <name>Albergue del Jefe Supremo</name>
     <waypoint_id>4</waypoint_id>
     <waypoint_name>Punto de Ruta de Jefe Supremo</waypoint_name>
     <chat_link>[&amp;BAQAAAA=]</chat_link>
@@ -974,7 +974,7 @@
   </trek>
   <trek>
     <id>104</id>
-    <name>Phasmatis Prospect</name>
+    <name>Panorama de Phasmatis</name>
     <waypoint_id>394</waypoint_id>
     <waypoint_name>Punto de Ruta de Astillero de Hierromuelle</waypoint_name>
     <chat_link>[&amp;BIoBAAA=]</chat_link>
@@ -983,7 +983,7 @@
   </trek>
   <trek>
     <id>106</id>
-    <name>Pochtecatl's Desire</name>
+    <name>Deseo de Pochtecatl</name>
     <waypoint_id>431</waypoint_id>
     <waypoint_name>Punto de Ruta de Jelako</waypoint_name>
     <chat_link>[&amp;BK8BAAA=]</chat_link>
@@ -992,7 +992,7 @@
   </trek>
   <trek>
     <id>46</id>
-    <name>Port Authority Lost and Found</name>
+    <name>Autoridad Portuaria de Objetos Perdidos</name>
     <waypoint_id>1287</waypoint_id>
     <waypoint_name>Punto de Ruta de Puerto</waypoint_name>
     <chat_link>[&amp;BAcFAAA=]</chat_link>
@@ -1001,7 +1001,7 @@
   </trek>
   <trek>
     <id>107</id>
-    <name>Portmatt's Promontory</name>
+    <name>Promontorio de Portmatt</name>
     <waypoint_id>420</waypoint_id>
     <waypoint_name>Punto de Ruta de Pesadumbre</waypoint_name>
     <chat_link>[&amp;BKQBAAA=]</chat_link>
@@ -1019,7 +1019,7 @@
   </trek>
   <trek>
     <id>176</id>
-    <name>Ramview Peak</name>
+    <name>Velocista de las cumbres</name>
     <waypoint_id>612</waypoint_id>
     <waypoint_name>Punto de Ruta de Travelen</waypoint_name>
     <chat_link>[&amp;BGQCAAA=]</chat_link>
@@ -1028,7 +1028,7 @@
   </trek>
   <trek>
     <id>112</id>
-    <name>Raptor's Aerie</name>
+    <name>Nido del Raptor</name>
     <waypoint_id>491</waypoint_id>
     <waypoint_name>Punto de Ruta de Ciudad de la Estrella de Garradesbocada</waypoint_name>
     <chat_link>[&amp;BOsBAAA=]</chat_link>
@@ -1037,7 +1037,7 @@
   </trek>
   <trek>
     <id>113</id>
-    <name>Raptor's Perch</name>
+    <name>Percha del Raptor</name>
     <waypoint_id>238</waypoint_id>
     <waypoint_name>Punto de Ruta de Refugio de Invierno</waypoint_name>
     <chat_link>[&amp;BO4AAAA=]</chat_link>
@@ -1046,7 +1046,7 @@
   </trek>
   <trek>
     <id>114</id>
-    <name>Rata Pten Portico</name>
+    <name>Pórtico de Rata Pten</name>
     <waypoint_id>713</waypoint_id>
     <waypoint_name>Punto de Ruta de Criterio</waypoint_name>
     <chat_link>[&amp;BMkCAAA=]</chat_link>
@@ -1055,7 +1055,7 @@
   </trek>
   <trek>
     <id>110</id>
-    <name>Raven Nook</name>
+    <name>Rincón del Cuervo</name>
     <waypoint_id>904</waypoint_id>
     <waypoint_name>Punto de Ruta de Cuervo</waypoint_name>
     <chat_link>[&amp;BIgDAAA=]</chat_link>
@@ -1064,7 +1064,7 @@
   </trek>
   <trek>
     <id>115</id>
-    <name>Reef Drake Nestling Grounds</name>
+    <name>Criadero de dracos de arrecife</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Punto de Ruta de Islote Perlado</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1073,7 +1073,7 @@
   </trek>
   <trek>
     <id>116</id>
-    <name>Restless Footings</name>
+    <name>Pasos Inquietos</name>
     <waypoint_id>722</waypoint_id>
     <waypoint_name>Punto de Ruta de Isla Irwin</waypoint_name>
     <chat_link>[&amp;BNICAAA=]</chat_link>
@@ -1082,7 +1082,7 @@
   </trek>
   <trek>
     <id>61</id>
-    <name>Reverberant's Watch</name>
+    <name>Atalaya del Reverberante</name>
     <waypoint_id>373</waypoint_id>
     <waypoint_name>Punto de Ruta de Ensombrecidos</waypoint_name>
     <chat_link>[&amp;BHUBAAA=]</chat_link>
@@ -1091,7 +1091,7 @@
   </trek>
   <trek>
     <id>149</id>
-    <name>Risewild Green</name>
+    <name>Prado Selvalzada</name>
     <waypoint_id>423</waypoint_id>
     <waypoint_name>Punto de Ruta de Remanda</waypoint_name>
     <chat_link>[&amp;BKcBAAA=]</chat_link>
@@ -1100,7 +1100,7 @@
   </trek>
   <trek>
     <id>118</id>
-    <name>Rurik's View</name>
+    <name>Vista de Rurik</name>
     <waypoint_id>811</waypoint_id>
     <waypoint_name>Punto de Ruta de Rurikton</waypoint_name>
     <chat_link>[&amp;BCsDAAA=]</chat_link>
@@ -1109,7 +1109,7 @@
   </trek>
   <trek>
     <id>121</id>
-    <name>Saltflood Altar</name>
+    <name>Altar Inundasal</name>
     <waypoint_id>455</waypoint_id>
     <waypoint_name>Punto de Ruta de Inundasal</waypoint_name>
     <chat_link>[&amp;BMcBAAA=]</chat_link>
@@ -1118,7 +1118,7 @@
   </trek>
   <trek>
     <id>122</id>
-    <name>Sandwurm Prowl</name>
+    <name>Percha humareda</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Punto de Ruta de Islote Perlado</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1127,7 +1127,7 @@
   </trek>
   <trek>
     <id>44</id>
-    <name>Scholar's Blind</name>
+    <name>Ceguera del Erudito</name>
     <waypoint_id>603</waypoint_id>
     <waypoint_name>Punto de Ruta de Campoacero</waypoint_name>
     <chat_link>[&amp;BFsCAAA=]</chat_link>
@@ -1136,7 +1136,7 @@
   </trek>
   <trek>
     <id>52</id>
-    <name>Scourgejaw Watchtower</name>
+    <name>Torre de Vigilancia de Rompemandíbulas</name>
     <waypoint_id>488</waypoint_id>
     <waypoint_name>Punto de Ruta de Campamento de Pelajeliso</waypoint_name>
     <chat_link>[&amp;BOgBAAA=]</chat_link>
@@ -1145,7 +1145,7 @@
   </trek>
   <trek>
     <id>139</id>
-    <name>Scriptorium Nook</name>
+    <name>Rincón Scriptorium</name>
     <waypoint_id>935</waypoint_id>
     <waypoint_name>Punto de Ruta de Factorium</waypoint_name>
     <chat_link>[&amp;BKcDAAA=]</chat_link>
@@ -1154,7 +1154,7 @@
   </trek>
   <trek>
     <id>5</id>
-    <name>Sea Scorpion's Eye</name>
+    <name>Ojo del Escorpión de Mar</name>
     <waypoint_id>798</waypoint_id>
     <waypoint_name>Punto de Ruta de Cumbre del Entrometido</waypoint_name>
     <chat_link>[&amp;BB4DAAA=]</chat_link>
@@ -1163,7 +1163,7 @@
   </trek>
   <trek>
     <id>123</id>
-    <name>Sentinel Sink</name>
+    <name>Naufragio Centinela</name>
     <waypoint_id>489</waypoint_id>
     <waypoint_name>Punto de Ruta de Campamento de Vigilamarca</waypoint_name>
     <chat_link>[&amp;BOkBAAA=]</chat_link>
@@ -1172,7 +1172,7 @@
   </trek>
   <trek>
     <id>57</id>
-    <name>Sepulchre Skylight</name>
+    <name>Sepulcro de luz celestial </name>
     <waypoint_id>1234</waypoint_id>
     <waypoint_name>Punto de Ruta de Reunión</waypoint_name>
     <chat_link>[&amp;BNIEAAA=]</chat_link>
@@ -1181,7 +1181,7 @@
   </trek>
   <trek>
     <id>60</id>
-    <name>Sharkhollow's Edge</name>
+    <name>Borde del hueco tiburón</name>
     <waypoint_id>849</waypoint_id>
     <waypoint_name>Punto de Ruta de Fuerte de Crestastilla</waypoint_name>
     <chat_link>[&amp;BFEDAAA=]</chat_link>
@@ -1190,7 +1190,7 @@
   </trek>
   <trek>
     <id>186</id>
-    <name>Shattered Loft</name>
+    <name>Desván Destrozado</name>
     <waypoint_id>453</waypoint_id>
     <waypoint_name>Punto de Ruta de Fuerte Cadencia</waypoint_name>
     <chat_link>[&amp;BMUBAAA=]</chat_link>
@@ -1199,7 +1199,7 @@
   </trek>
   <trek>
     <id>133</id>
-    <name>Siamoth Refuge</name>
+    <name>Refugio de Siamoth</name>
     <waypoint_id>462</waypoint_id>
     <waypoint_name>Punto de Ruta de Aguasal</waypoint_name>
     <chat_link>[&amp;BM4BAAA=]</chat_link>
@@ -1208,7 +1208,7 @@
   </trek>
   <trek>
     <id>134</id>
-    <name>Skalecatch Butcher Shop</name>
+    <name>Carnicería de presas saurianas</name>
     <waypoint_id>487</waypoint_id>
     <waypoint_name>Punto de Ruta de Aldea de Atrapaescamas</waypoint_name>
     <chat_link>[&amp;BOcBAAA=]</chat_link>
@@ -1217,7 +1217,7 @@
   </trek>
   <trek>
     <id>135</id>
-    <name>Skalefound Cove</name>
+    <name>Cala de los Saurios Encontrados</name>
     <waypoint_id>536</waypoint_id>
     <waypoint_name>Punto de Ruta de Puesto de Mando de Tuyere</waypoint_name>
     <chat_link>[&amp;BBgCAAA=]</chat_link>
@@ -1226,7 +1226,7 @@
   </trek>
   <trek>
     <id>138</id>
-    <name>Skalesplash Falls</name>
+    <name>Cataratas Salpicasaurios</name>
     <waypoint_id>582</waypoint_id>
     <waypoint_name>Punto de Ruta de Okarinoo</waypoint_name>
     <chat_link>[&amp;BEYCAAA=]</chat_link>
@@ -1235,7 +1235,7 @@
   </trek>
   <trek>
     <id>136</id>
-    <name>Skalestash Hideaway</name>
+    <name>Reserva Oculta de los Saurios</name>
     <waypoint_id>919</waypoint_id>
     <waypoint_name>Punto de Ruta de Feritas</waypoint_name>
     <chat_link>[&amp;BJcDAAA=]</chat_link>
@@ -1244,7 +1244,7 @@
   </trek>
   <trek>
     <id>137</id>
-    <name>Skelknest Borehole</name>
+    <name>Perforación de Nido de Skelk</name>
     <waypoint_id>636</waypoint_id>
     <waypoint_name>Punto de Ruta de Abismo del Desaliento</waypoint_name>
     <chat_link>[&amp;BHwCAAA=]</chat_link>
@@ -1253,7 +1253,7 @@
   </trek>
   <trek>
     <id>124</id>
-    <name>Skibo Hall Dormitory</name>
+    <name>Dormitorio de la Sala de Skibo</name>
     <waypoint_id>1209</waypoint_id>
     <waypoint_name>Punto de Ruta de Auxiliar</waypoint_name>
     <chat_link>[&amp;BLkEAAA=]</chat_link>
@@ -1262,7 +1262,7 @@
   </trek>
   <trek>
     <id>68</id>
-    <name>Skyshine Scratch</name>
+    <name>Fisura Cielorefulgente</name>
     <waypoint_id>169</waypoint_id>
     <waypoint_name>Punto de Ruta de Gritta Gris</waypoint_name>
     <chat_link>[&amp;BKkAAAA=]</chat_link>
@@ -1271,7 +1271,7 @@
   </trek>
   <trek>
     <id>126</id>
-    <name>Snowden Safehouse</name>
+    <name>Refugio de Guaridanieve</name>
     <waypoint_id>185</waypoint_id>
     <waypoint_name>Punto de Ruta de Refugio de Cumulonieve</waypoint_name>
     <chat_link>[&amp;BLkAAAA=]</chat_link>
@@ -1280,7 +1280,7 @@
   </trek>
   <trek>
     <id>125</id>
-    <name>Snowhowl Den</name>
+    <name>Guarida de Aullido de Nieve</name>
     <waypoint_id>191</waypoint_id>
     <waypoint_name>Punto de Ruta de Desembarcadero de Halcón de Nieve</waypoint_name>
     <chat_link>[&amp;BL8AAAA=]</chat_link>
@@ -1289,7 +1289,7 @@
   </trek>
   <trek>
     <id>141</id>
-    <name>Soggorsort Rotunda</name>
+    <name>Rotonda de Soggorsort</name>
     <waypoint_id>319</waypoint_id>
     <waypoint_name>Punto de Ruta de Poblado de Annwen</waypoint_name>
     <chat_link>[&amp;BD8BAAA=]</chat_link>
@@ -1298,7 +1298,7 @@
   </trek>
   <trek>
     <id>142</id>
-    <name>Soran Draa Rest Stop</name>
+    <name>Descanso de Soren Draa</name>
     <waypoint_id>64</waypoint_id>
     <waypoint_name>Punto de Ruta de Soren Draa</waypoint_name>
     <chat_link>[&amp;BEAAAAA=]</chat_link>
@@ -1307,7 +1307,7 @@
   </trek>
   <trek>
     <id>109</id>
-    <name>Source of Lament</name>
+    <name> Fuente de los Lamentos</name>
     <waypoint_id>641</waypoint_id>
     <waypoint_name>Punto de Ruta de Finca de Cieloalto</waypoint_name>
     <chat_link>[&amp;BIECAAA=]</chat_link>
@@ -1316,7 +1316,7 @@
   </trek>
   <trek>
     <id>140</id>
-    <name>Sparwind's Lounge</name>
+    <name>Salón de Vientopalo</name>
     <waypoint_id>941</waypoint_id>
     <waypoint_name>Punto de Ruta de Imperator</waypoint_name>
     <chat_link>[&amp;BK0DAAA=]</chat_link>
@@ -1325,7 +1325,7 @@
   </trek>
   <trek>
     <id>54</id>
-    <name>Spectrehaunt Socket</name>
+    <name>Cavidad Guaridaespectral</name>
     <waypoint_id>690</waypoint_id>
     <waypoint_name>Punto de Ruta de Luces</waypoint_name>
     <chat_link>[&amp;BLICAAA=]</chat_link>
@@ -1334,7 +1334,7 @@
   </trek>
   <trek>
     <id>21</id>
-    <name>Steampipe Perch</name>
+    <name>Pasos humeantes</name>
     <waypoint_id>1744</waypoint_id>
     <waypoint_name>Punto de Ruta de Punta León</waypoint_name>
     <chat_link>[&amp;BNAGAAA=]</chat_link>
@@ -1343,7 +1343,7 @@
   </trek>
   <trek>
     <id>22</id>
-    <name>Steamscrap Overlook</name>
+    <name>Mirador Jironesvapor</name>
     <waypoint_id>234</waypoint_id>
     <waypoint_name>Punto de Ruta de Lamento</waypoint_name>
     <chat_link>[&amp;BOoAAAA=]</chat_link>
@@ -1352,7 +1352,7 @@
   </trek>
   <trek>
     <id>23</id>
-    <name>Steamy Steps</name>
+    <name>Sierpe de arena merodeadora</name>
     <waypoint_id>1744</waypoint_id>
     <waypoint_name>Punto de Ruta de Punta León</waypoint_name>
     <chat_link>[&amp;BNAGAAA=]</chat_link>
@@ -1361,7 +1361,7 @@
   </trek>
   <trek>
     <id>144</id>
-    <name>Steelband's Tunnel</name>
+    <name>Gatillo fácil</name>
     <waypoint_id>507</waypoint_id>
     <waypoint_name>Punto de Ruta de Tumok</waypoint_name>
     <chat_link>[&amp;BPsBAAA=]</chat_link>
@@ -1370,7 +1370,7 @@
   </trek>
   <trek>
     <id>147</id>
-    <name>Stentor Shelter</name>
+    <name>Refugio de Stentor</name>
     <waypoint_id>749</waypoint_id>
     <waypoint_name>Punto de Ruta de Pico Señal</waypoint_name>
     <chat_link>[&amp;BO0CAAA=]</chat_link>
@@ -1379,7 +1379,7 @@
   </trek>
   <trek>
     <id>146</id>
-    <name>Stonebore Spiderhole</name>
+    <name>Ratonera Perforapiedra</name>
     <waypoint_id>396</waypoint_id>
     <waypoint_name>Punto de Ruta de Talajiano</waypoint_name>
     <chat_link>[&amp;BIwBAAA=]</chat_link>
@@ -1388,7 +1388,7 @@
   </trek>
   <trek>
     <id>145</id>
-    <name>Strongpaw's Garden</name>
+    <name>Jardín de Zarpafuerte</name>
     <waypoint_id>221</waypoint_id>
     <waypoint_name>Punto de Ruta de Nageling</waypoint_name>
     <chat_link>[&amp;BN0AAAA=]</chat_link>
@@ -1397,7 +1397,7 @@
   </trek>
   <trek>
     <id>154</id>
-    <name>Tactical Retreat</name>
+    <name>Retirada Táctica</name>
     <waypoint_id>1764</waypoint_id>
     <waypoint_name>Punto de Ruta de Roca del Naufragio</waypoint_name>
     <chat_link>[&amp;BOQGAAA=]</chat_link>
@@ -1406,7 +1406,7 @@
   </trek>
   <trek>
     <id>151</id>
-    <name>Talus Steps</name>
+    <name>Bancales de Astrágalo</name>
     <waypoint_id>580</waypoint_id>
     <waypoint_name>Punto de Ruta de Astrágalo</waypoint_name>
     <chat_link>[&amp;BEQCAAA=]</chat_link>
@@ -1415,7 +1415,7 @@
   </trek>
   <trek>
     <id>152</id>
-    <name>Tarstar Copse</name>
+    <name>Soto Tarstar</name>
     <waypoint_id>541</waypoint_id>
     <waypoint_name>Punto de Ruta de Apóstata</waypoint_name>
     <chat_link>[&amp;BB0CAAA=]</chat_link>
@@ -1424,7 +1424,7 @@
   </trek>
   <trek>
     <id>155</id>
-    <name>Tekki's Drawing Board</name>
+    <name>Pizarra de Tekki</name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Punto de Ruta de Metamágicos de Ulta</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1433,7 +1433,7 @@
   </trek>
   <trek>
     <id>156</id>
-    <name>Thaumanova Spillway</name>
+    <name>Grada Taumanova</name>
     <waypoint_id>71</waypoint_id>
     <waypoint_name>Punto de Ruta de Muridiano</waypoint_name>
     <chat_link>[&amp;BEcAAAA=]</chat_link>
@@ -1442,7 +1442,7 @@
   </trek>
   <trek>
     <id>24</id>
-    <name>The Karka Club</name>
+    <name>El klub karka</name>
     <waypoint_id>1749</waypoint_id>
     <waypoint_name>Punto de Ruta de Islote Perlado</waypoint_name>
     <chat_link>[&amp;BNUGAAA=]</chat_link>
@@ -1451,7 +1451,7 @@
   </trek>
   <trek>
     <id>120</id>
-    <name>The People's Deadlock</name>
+    <name>Punto Muerto del Pueblo</name>
     <waypoint_id>633</waypoint_id>
     <waypoint_name>Punto de Ruta de Groznev</waypoint_name>
     <chat_link>[&amp;BHkCAAA=]</chat_link>
@@ -1460,7 +1460,7 @@
   </trek>
   <trek>
     <id>53</id>
-    <name>The Workers' Stores</name>
+    <name>Las Tiendas de los Obreros</name>
     <waypoint_id>602</waypoint_id>
     <waypoint_name>Punto de Ruta de Camino Gris</waypoint_name>
     <chat_link>[&amp;BFoCAAA=]</chat_link>
@@ -1469,7 +1469,7 @@
   </trek>
   <trek>
     <id>153</id>
-    <name>Togatl Shore</name>
+    <name>Côte de Togatl</name>
     <waypoint_id>16</waypoint_id>
     <waypoint_name>Punto de Ruta de Viathano</waypoint_name>
     <chat_link>[&amp;BBAAAAA=]</chat_link>
@@ -1478,7 +1478,7 @@
   </trek>
   <trek>
     <id>161</id>
-    <name>Tower of Tribulation</name>
+    <name>Torre de la Tribulación</name>
     <waypoint_id>1343</waypoint_id>
     <waypoint_name>Punto de Ruta de Abrazo del Pesar</waypoint_name>
     <chat_link>[&amp;BD8FAAA=]</chat_link>
@@ -1487,7 +1487,7 @@
   </trek>
   <trek>
     <id>159</id>
-    <name>Toxal Spill</name>
+    <name>Derrame de Toxal</name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Punto de Ruta de Metamágicos de Ulta</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1496,7 +1496,7 @@
   </trek>
   <trek>
     <id>64</id>
-    <name>Trader's Stash</name>
+    <name>Alijo del Comerciante</name>
     <waypoint_id>902</waypoint_id>
     <waypoint_name>Punto de Ruta de Feria de Comercio</waypoint_name>
     <chat_link>[&amp;BIYDAAA=]</chat_link>
@@ -1505,7 +1505,7 @@
   </trek>
   <trek>
     <id>160</id>
-    <name>Trolltrap Pit</name>
+    <name>Foso de la Trampa del Trol </name>
     <waypoint_id>233</waypoint_id>
     <waypoint_name>Punto de Ruta de Priorato de Durmand</waypoint_name>
     <chat_link>[&amp;BOkAAAA=]</chat_link>
@@ -1514,7 +1514,7 @@
   </trek>
   <trek>
     <id>13</id>
-    <name>Turai Tavern Stillroom</name>
+    <name>Bodega de la Taberna de Turai</name>
     <waypoint_id>808</waypoint_id>
     <waypoint_name>Punto de Ruta de Balthazar</waypoint_name>
     <chat_link>[&amp;BCgDAAA=]</chat_link>
@@ -1523,7 +1523,7 @@
   </trek>
   <trek>
     <id>163</id>
-    <name>Ulta Scraproom</name>
+    <name>Cuarto de Desechos de Ulta </name>
     <waypoint_id>101</waypoint_id>
     <waypoint_name>Punto de Ruta de Metamágicos de Ulta</waypoint_name>
     <chat_link>[&amp;BGUAAAA=]</chat_link>
@@ -1532,7 +1532,7 @@
   </trek>
   <trek>
     <id>164</id>
-    <name>Unseen Scratch</name>
+    <name>Fisura Oculta</name>
     <waypoint_id>316</waypoint_id>
     <waypoint_name>Punto de Ruta de Refugio de Caledon</waypoint_name>
     <chat_link>[&amp;BDwBAAA=]</chat_link>
@@ -1541,7 +1541,7 @@
   </trek>
   <trek>
     <id>165</id>
-    <name>Upsilon Hyperboloid</name>
+    <name>Hiperboloide de Upsilon</name>
     <waypoint_id>680</waypoint_id>
     <waypoint_name>Punto de Ruta de Hondonadas de Deshechos</waypoint_name>
     <chat_link>[&amp;BKgCAAA=]</chat_link>
@@ -1550,7 +1550,7 @@
   </trek>
   <trek>
     <id>166</id>
-    <name>Usharr's Threshold</name>
+    <name>Umbral de Usharr</name>
     <waypoint_id>459</waypoint_id>
     <waypoint_name>Punto de Ruta de Cabeza de Toade</waypoint_name>
     <chat_link>[&amp;BMsBAAA=]</chat_link>
@@ -1559,7 +1559,7 @@
   </trek>
   <trek>
     <id>83</id>
-    <name>Vacant Hermitage</name>
+    <name>Retiro Vacante</name>
     <waypoint_id>511</waypoint_id>
     <waypoint_name>Punto de Ruta de Piedra Guardián</waypoint_name>
     <chat_link>[&amp;BP8BAAA=]</chat_link>
@@ -1568,7 +1568,7 @@
   </trek>
   <trek>
     <id>179</id>
-    <name>Venison Hollow</name>
+    <name>Hondonada del Venado</name>
     <waypoint_id>229</waypoint_id>
     <waypoint_name>Punto de Ruta de Paraje de Vanjir</waypoint_name>
     <chat_link>[&amp;BOUAAAA=]</chat_link>
@@ -1577,7 +1577,7 @@
   </trek>
   <trek>
     <id>8</id>
-    <name>Verdance Font</name>
+    <name>Fuente Verdosa</name>
     <waypoint_id>795</waypoint_id>
     <waypoint_name>Punto de Ruta de Verde</waypoint_name>
     <chat_link>[&amp;BBsDAAA=]</chat_link>
@@ -1586,7 +1586,7 @@
   </trek>
   <trek>
     <id>175</id>
-    <name>Vizier's Anteport</name>
+    <name>Antepuerta de Visir</name>
     <waypoint_id>759</waypoint_id>
     <waypoint_name>Punto de Ruta de Puesto Solitario</waypoint_name>
     <chat_link>[&amp;BPcCAAA=]</chat_link>
@@ -1595,7 +1595,7 @@
   </trek>
   <trek>
     <id>174</id>
-    <name>Wassa's Terrace</name>
+    <name>Terraza de Wassa</name>
     <waypoint_id>395</waypoint_id>
     <waypoint_name>Punto de Ruta de Primer Refugio</waypoint_name>
     <chat_link>[&amp;BIsBAAA=]</chat_link>
@@ -1604,7 +1604,7 @@
   </trek>
   <trek>
     <id>173</id>
-    <name>Watchpoint Decimus</name>
+    <name>Punto de Observación Decimus</name>
     <waypoint_id>920</waypoint_id>
     <waypoint_name>Punto de Ruta de Décimo Puntoguardia</waypoint_name>
     <chat_link>[&amp;BJgDAAA=]</chat_link>
@@ -1613,7 +1613,7 @@
   </trek>
   <trek>
     <id>111</id>
-    <name>Wheelport Pub</name>
+    <name>Taberna Puerto Timón</name>
     <waypoint_id>933</waypoint_id>
     <waypoint_name>Punto de Ruta de Campo de Formación</waypoint_name>
     <chat_link>[&amp;BKUDAAA=]</chat_link>
@@ -1622,7 +1622,7 @@
   </trek>
   <trek>
     <id>183</id>
-    <name>Whitland Sinkhole</name>
+    <name>Sumidero de Whitland</name>
     <waypoint_id>724</waypoint_id>
     <waypoint_name>Punto de Ruta de Antigua Zona de Trineos</waypoint_name>
     <chat_link>[&amp;BNQCAAA=]</chat_link>
@@ -1631,7 +1631,7 @@
   </trek>
   <trek>
     <id>177</id>
-    <name>Widd's Folly</name>
+    <name>Capricho de Widd</name>
     <waypoint_id>314</waypoint_id>
     <waypoint_name>Punto de Ruta de Mabon</waypoint_name>
     <chat_link>[&amp;BDoBAAA=]</chat_link>
@@ -1640,7 +1640,7 @@
   </trek>
   <trek>
     <id>178</id>
-    <name>Wikk's Gate</name>
+    <name>Puerta de Wikk</name>
     <waypoint_id>588</waypoint_id>
     <waypoint_name>Punto de Ruta de Tutoría Valance</waypoint_name>
     <chat_link>[&amp;BEwCAAA=]</chat_link>
@@ -1649,7 +1649,7 @@
   </trek>
   <trek>
     <id>181</id>
-    <name>Wildflame Monitor</name>
+    <name>Monitor Llamasalvaje</name>
     <waypoint_id>64</waypoint_id>
     <waypoint_name>Punto de Ruta de Soren Draa</waypoint_name>
     <chat_link>[&amp;BEAAAAA=]</chat_link>
@@ -1658,7 +1658,7 @@
   </trek>
   <trek>
     <id>182</id>
-    <name>Winterknell Impasse</name>
+    <name>Atolladero del Repique Invernal</name>
     <waypoint_id>792</waypoint_id>
     <waypoint_name>Punto de Ruta de I+D</waypoint_name>
     <chat_link>[&amp;BBgDAAA=]</chat_link>
@@ -1667,7 +1667,7 @@
   </trek>
   <trek>
     <id>184</id>
-    <name>Wrelk's Salon</name>
+    <name>Salón de Wrelk</name>
     <waypoint_id>404</waypoint_id>
     <waypoint_name>Punto de Ruta de Almuten</waypoint_name>
     <chat_link>[&amp;BJQBAAA=]</chat_link>
